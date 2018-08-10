@@ -1,0 +1,22 @@
+name,letter,code,area,population,population_per_square_km,residencetown,municipalities,founded,order_from_north_to_south
+Blekinge län,K,10,2 931,159362,54.4,Karlskrona,5,1683,20
+Dalarnas län,W,20,28 029,286393,10.2,Falun,15,1634,6
+Gotlands län,I,9,3 135,58659,18.7,Visby,1,1645,16
+Gävleborgs län,X,21,18 118,285791,15.8,Gävle,10,1762,5
+Hallands län,N,13,5 427,325813,60,Halmstad,6,1658,19
+Jämtlands län,Z,23,48 935,129873,2.7,Östersund,8,1810,3
+Jönköpings län,F,6,10 437,358102,34.3,Jönköping,13,1639/1687,14
+Kalmar län,H,8,11 165,243718,21.8,Kalmar,12,1634/1680,18
+Kronobergs län,G,7,8 424,197826,23.5,Växjö,8,1639/1687,17
+Norrbottens län,BD,25,97 239,250969,2.6,Luleå,14,1810,1
+Skåne län,M,12,10 968,1348607,123,Malmö,33,1997,21
+Stockholms län,AB,1,6 524,2315612,354.9,Stockholm,26,1641/1714,10
+Södermanlands län,D,4,6 075,292090,48.1,Nyköping,9,1634,12
+Uppsala län,C,3,8 190,370551,45.2,Uppsala,8,1641/1714,7
+Värmlands län,S,17,17 519,280445,16,Karlstad,16,1640/1779,8
+Västerbottens län,AC,24,54 665,268887,4.9,Umeå,15,1638,2
+Västernorrlands län,Y,22,21 549,245904,11.4,Härnösand,7,1634/1810,4
+Västmanlands län,U,19,5 118,271628,53.1,Västerås,10,1634,9
+Västra Götalands län,O,14,23 800,1694723,71.2,Göteborg,49,1998,15
+Örebro län,T,18,8 504,299583,35.2,Örebro,12,1640/1779,11
+Östergötlands län,E,5,10 559,458150,43.4,Linköping,13,1634,13
