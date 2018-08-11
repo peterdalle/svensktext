@@ -46,7 +46,7 @@ Från: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), 
 
 ## Sentimentlexikon
 
-2 067 svenska ord med sentiment, CSV-fil med ett ord per rad.
+2 067 svenska ord med sentiment, CSV-fil med ett ord per rad. Fördelningen är ungefär 700 negativa ord och 1 300 positiva ord.
 
 CSV headers:
 
@@ -63,6 +63,11 @@ CSV headers:
 - `example`
 
 [Sentimentlexikon från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/sentimentlex>) är licensierad med CC-BY (attribution). Använd följande artikel som referens för lexikonet: `Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. Building a Sentiment Lexicon for Swedish`
+
+Det är svårt att hitta bra sentimentlexikon på svenska. Det finns några alternativ (dock med okänd licensform):
+
+- https://github.com/michelleludovici/SynonymProject
+- https://github.com/fnielsen/afinn
 
 ## Yrken
 
