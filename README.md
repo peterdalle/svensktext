@@ -1,15 +1,21 @@
 # Svensk text
 
-Samling med språkresurser på svenska: kvinno- och mansnamn, ortsnamn, stoppord, sentimentlexikon samt yrken.
+Samling med språkresurser på svenska: kvinno- och mansnamn, ortsnamn, länsnamn, stoppord, sentimentlexikon samt yrken.
 
 Syftet är att samla svenska resurser som:
 
 - är fria att använda
-- finns i flera öppna standardiserade format (CSV, JSON)
+- finns i flera öppna standardiserade format som CSV och JSON
+- har en enkel datastruktur
+- består av små filer utan onödigt krimskrams
+
+Katalogen [/src](/src) innehåller kod för att konvertera originalfilerna till och från JSON respektive CSV.
 
 ## Namn
 
-13 411 namn på kvinnor samt 11 755 namn på män.
+- 13 411 namn på kvinnor ([JSON](namn/kvinnonamn.json), [CSV](namn/kvinnonamn.csv)).
+- 11 755 namn på män ([JSON](namn/mansnamn.json), [CSV](namn/mansnamn.csv)).
+- samt [CSV med alla namn](namn/namn.csv) med headers `name` och `gender` (`female` samt `male`).
 
 Från: [Mattias Hising](https://github.com/hising/svensk-data)
 
@@ -42,7 +48,7 @@ Från: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A
 
 427 svenska stoppord, textfil med ett ord per rad.
 
-Från: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad med ord från Peter Dahlgren
+Från: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad av Peter Dahlgren
 
 ## Sentimentlexikon
 
@@ -71,7 +77,7 @@ Det är svårt att hitta bra sentimentlexikon på svenska. Det finns några alte
 
 ## Yrken
 
-13 833 svenska yrkesbeteckningar inklusive om det är ett manlig eller kvinnlig beteckning.
+13 833 svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning.
 
 CSV headers:
 
