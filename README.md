@@ -2,17 +2,22 @@
 
 Samling med språkresurser på svenska: kvinno- och mansnamn, ortsnamn, stoppord, sentimentlexikon samt yrken.
 
+Syftet är att samla svenska resurser som:
+
+- är fria att använda
+- finns i flera öppna standardiserade format (CSV, JSON)
+
 ## Namn
 
 13 411 namn på kvinnor samt 11 755 namn på män.
 
-Från: Mattias Hising (https://github.com/hising/svensk-data)
+Från: [Mattias Hising](https://github.com/hising/svensk-data)
 
 ## Platser: orter
 
 2 007 namn på svenska orter.
 
-Från: Mattias Hising (https://github.com/hising/svensk-data)
+Från: [Mattias Hising](https://github.com/hising/svensk-data)
 
 ## Platser: län
 
@@ -31,13 +36,13 @@ CSV headers:
 - `founded ` är årdet då länet inrättades
 - `order_from_north_to_south` är ordningen från norr till söder (residensstad)
 
-Från: https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n
+Från: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n)
 
 ## Stoppord
 
 427 svenska stoppord, textfil med ett ord per rad.
 
-Från: Nico Lehmann (https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad med ord från Peter Dahlgren
+Från: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad med ord från Peter Dahlgren
 
 ## Sentimentlexikon
 
@@ -57,7 +62,7 @@ CSV headers:
 - `lemma_frequency`
 - `example`
 
-Sentimentlexikon (<https://spraakbanken.gu.se/swe/resurs/sentimentlex>) från [Språkbanken](https://spraakbanken.gu.se/) är licensierad med CC-BY (attribution). Använd följande artikel som referens för lexikonet: `Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. Building a Sentiment Lexicon for Swedish`
+[Sentimentlexikon från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/sentimentlex>) är licensierad med CC-BY (attribution). Använd följande artikel som referens för lexikonet: `Nusko, Bianka and Tahmasebi, Nina and Mogren, Olof. 2016. Building a Sentiment Lexicon for Swedish`
 
 ## Yrken
 
@@ -68,4 +73,4 @@ CSV headers:
 - `vocation` är namnet på yrket
 - `gender` anger om det är en manlig eller kvinnlig yrkesbeteckning (`male`, `female` eller `unknown`)
 
-Yrken (`vocationTerms150120.utf.txt`) (<https://spraakbanken.gu.se/swe/resurs/vocation-list>) från [Språkbanken](https://spraakbanken.gu.se/) är licensierad med CC-BY (attribution).
+[Yrken från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/vocation-list>) (`vocationTerms150120.utf.txt`) är licensierad med CC-BY (attribution).
