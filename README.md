@@ -14,9 +14,17 @@ Katalogen [/src](/src) innehåller kod för att konvertera originalfilerna till 
 
 ## Namn
 
-- 13 411 namn på kvinnor ([JSON](namn/kvinnonamn.json), [CSV](namn/kvinnonamn.csv)).
-- 11 755 namn på män ([JSON](namn/mansnamn.json), [CSV](namn/mansnamn.csv)).
-- samt [CSV med alla namn](namn/namn.csv) med headers `name` och `gender` (`female` samt `male`).
+25 166 namn på kvinnor och män ([CSV](namn/namn.csv)).
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`name` | Personnamnet  | Text
+`gender` | Om det är ett kvinnonamn (`female`) eller mansnamn (`name`) | Text
+
+Finns även som separata filer:
+
+- 13 411 kvinnonamn ([JSON](namn/kvinnonamn.json), [CSV](namn/kvinnonamn.csv))
+- 11 755 mansnamn ([JSON](namn/mansnamn.json), [CSV](namn/mansnamn.csv))
 
 <!--
 ```py
@@ -51,13 +59,13 @@ Källa: [TT-språket](https://tt.se/tt-spraket/ord-och-begrepp/internationellt/s
 
 ## Platser: svenska orter
 
-2 007 namn på svenska orter.
+2 007 namn på svenska orter ([JSON](platser/ortsnamn.json)).
 
 Källa: [Mattias Hising](https://github.com/hising/svensk-data)
 
 ## Platser: Sveriges län
 
-Sveriges 21 län.
+Sveriges 21 län ([CSV](platser/lan.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -87,13 +95,13 @@ Källa: [Världens flaggor](http://www.flaggorvarlden.se/lista)
 
 ## Stoppord
 
-427 svenska stoppord, textfil med ett ord per rad.
+427 svenska stoppord ([CSV](stoppord.csv)).
 
 Källa: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad av Peter Dahlgren
 
 ## Sentimentlexikon
 
-2 067 svenska ord med sentiment, CSV-fil med ett ord per rad. Fördelningen är ungefär 700 negativa ord och 1 300 positiva ord.
+2 067 svenska ord med sentiment ([CSV](sentiment/sentimentlex.csv)). Fördelningen är ungefär 700 negativa ord och 1 300 positiva ord.
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
