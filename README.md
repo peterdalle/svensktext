@@ -19,13 +19,13 @@ Katalogen [/src](/src) innehåller kod för att konvertera originalfilerna till 
 
 Från: [Mattias Hising](https://github.com/hising/svensk-data)
 
-## Platser: orter
+## Platser: svenska orter
 
 2 007 namn på svenska orter.
 
 Från: [Mattias Hising](https://github.com/hising/svensk-data)
 
-## Platser: län
+## Platser: Sveriges län
 
 Sveriges 21 län.
 
@@ -43,6 +43,17 @@ CSV headers:
 - `order_from_north_to_south` är ordningen från norr till söder (residensstad)
 
 Från: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n)
+
+## Platser: länder och huvudstäder
+
+Världens 199 länder samt deras huvudstäder ([CSV](platser/lander.csv)).
+
+CSV headers:
+
+- `country` är namnet på landet
+- `capital` är landets huvudstad
+
+Källa: [Världens flaggor](http://www.flaggorvarlden.se/lista)
 
 ## Stoppord
 
