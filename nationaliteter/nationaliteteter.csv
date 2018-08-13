@@ -1,0 +1,198 @@
+﻿id,country,country_alternativename,resident_singular,resident_plural,adjective
+0,Afghanistan,,['afghan'],['afghaner'],afghansk
+1,Albanien,,['alban'],['albaner'],albansk
+2,Algeriet,,['algerier'],['algerier'],algerisk
+3,Andorra,,['andorran'],['andorraner'],andorransk
+4,Angola,,['angolan'],['angolaner'],angolansk
+5,Antigua och Barbuda,,"['antiguan', 'barbudan']","['antiguaner', 'barbudaner']","antiguansk, barbudansk"
+6,Argentina,,['argentinare'],['argentinare'],argentinsk
+7,Armenien,,['armenier'],['armenier'],armenisk
+8,Australien,,['australier'],['australier'],australisk
+9,Azerbajdzjan,,"['azerbajdzjanier', 'azer', 'azerier']","['azerbajdzjanier', 'azerer', 'azerier']","azerbajdzjansk, azerisk"
+10,Bahamas,,['bahaman'],['bahamaner'],bahamansk
+11,Bahrain,,['bahrainier'],['bahrainier'],bahrainsk
+12,Bangladesh,,['bangladeshier'],['bangladeshier'],bangladeshisk
+13,Barbados,,['barbadier'],['barbadier'],barbadisk
+14,Belgien,,"['belgier', 'belgare']","['belgier', 'belgare']",belgisk
+15,Belize,,['belizier'],['belizier'],belizisk
+16,Benin,,['beninier'],['beninier'],beninsk
+17,Bhutan,,['bhutanes'],['bhutaneser'],bhutanesisk
+18,Bolivia,,['bolivian'],['bolivianer'],boliviansk
+19,Bosnien-Hercegovina,,['bosnier'],['bosnier'],bosnisk
+20,Botswana,,['botswanier'],['botswanier'],botswansk
+21,Brasilien,,['brasilian'],['brasilianer'],brasiliansk
+22,Brunei,,['bruneier'],['bruneier'],bruneisk
+23,Bulgarien,,['bulgar'],['bulgarer'],bulgarisk
+24,Burkina Faso,,['burkinier'],['burkinier'],burkinsk
+25,Burundi,,['burundier'],['burundier'],burundisk
+26,Centralafrikanska republiken,,['centralafrikan'],['centralafrikaner'],centralafrikansk
+27,Chile,,['chilenare'],['chilenare'],chilensk
+28,Colombia,,['colombian'],['colombianer'],colombiansk
+29,Costa Rica,,['costarican'],['costaricaner'],costaricansk
+30,Cypern,,['cypriot'],['cyprioter'],cypriotisk
+31,Danmark,,['dansk'],['danskar'],dansk
+32,Djibouti,,['djiboutier'],['djiboutier'],djiboutisk
+33,Dominica,,['dominiker'],['dominiker'],dominikisk
+34,Dominikanska republiken,,['dominikan'],['dominikaner'],dominikansk
+35,Ecuador,,['ecuadorian'],['ecuadorianer'],ecuadoriansk
+36,Egypten,,['egyptier'],['egyptier'],egyptisk
+37,Ekvatorialguinea,,['ekvatorialguinean'],['ekvatorialguineaner'],ekvatorialguineansk
+38,Elfenbenskusten,,['ivorian'],['ivorianer'],ivoriansk
+39,El Salvador,,['salvadoran'],['salvadoraner'],salvadoransk
+40,Eritrea,,['eritrean'],['eritreaner'],eritreansk
+41,Estland,,"['estländare', 'est']","['estländare', 'ester']","estländsk, estnisk"
+42,Etiopien,,['etiopier'],['etiopier'],etiopisk
+43,Fiji,,['fijian'],['fijianer'],fijiansk
+44,Filippinerna,,['filippinier'],['filippinier'],filippinsk
+45,Finland,,"['finländare', 'finne', 'finlandssvensk']","['finländare', 'finnar', 'finlandssvenskar']","finländsk, finsk, finlandssvensk"
+46,Frankrike,,['fransman'],['fransmän'],fransk
+47,Förenade arabemiraten,,['emiratier'],['emiratier'],emiratisk
+48,Gabon,,['gabones'],['gaboneser'],gabonesisk
+49,Gambia,,['gambier'],['gambier'],gambisk
+50,Georgien,,['georgier'],['georgier'],georgisk
+51,Ghana,,['ghanan'],['ghananer'],ghanansk
+52,Grekland,,['grek'],['greker'],grekisk
+53,Grenada,,['grenadier'],['grenadier'],grenadisk
+54,Guatemala,,['guatemalan'],['guatemalaner'],guatemalansk
+55,Guinea,,['guinean'],['guineaner'],guineansk
+56,Guinea-Bissau,,['bissauguinean'],['bissauguineaner'],bissauguineansk
+57,Guyana,,['guyanan'],['guyananer'],guyansk
+58,Haiti,,['haitier'],['haitier'],haitisk
+59,Honduras,,['honduran'],['honduraner'],honduransk
+60,Indien,,['indier'],['indier'],indisk
+61,Indonesien,,['indones'],['indoneser'],indonesisk
+62,Irak,,['irakier'],['irakier'],irakisk
+63,Iran,,['iranier'],['iranier'],iransk
+64,Irland,,['irländare'],['irländare'],irländsk
+65,Island,,['islänning'],['islänningar'],isländsk
+66,Israel,,['israel'],['israeler'],israelisk
+67,Italien,,['italienare'],['italienare'],italiensk
+68,Jamaica,,['jamaican'],['jamaicaner'],jamaicansk
+69,Japan,,['japan'],['japaner'],japansk
+70,Jemen,,['jemenit'],['jemeniter'],jemenitisk
+71,Jordanien,,['jordanier'],['jordanier'],jordansk
+72,Kambodja,,['kambodjan'],['kambodjaner'],kambodjansk
+73,Kamerun,,['kamerunier'],['kamerunier'],kamerunsk
+74,Kanada,,['kanadensare'],['kanadensare'],kanadensisk
+75,Kap Verde,,['kapverdian'],['kapverdianer'],kapverdiansk
+76,Kazakstan,,"['kazakstanier', 'kazak']","['kazakstanier', 'kazaker']","kazakstansk, kazakisk"
+77,Kenya,,['kenyan'],['kenyaner'],kenyansk
+78,Kina,,['kines'],['kineser'],kinesisk
+79,Kirgizistan,,"['kirgizistanier', 'kirgiz']","['kirgizistanier', 'kirgizer']","kirgizistansk, kirgizisk"
+80,Kiribati,,['kiribatier'],['kiribatier'],kiribatisk
+81,Komorerna,,['komorier'],['komorier'],komorisk
+82,Kongo-Brazzaville,Republiken Kongo,['(brazzaville)kongoles'],['(brazzaville)kongoleser'],"kongolesisk, brazzavillekongolesisk"
+83,Kongo-Kinshasa,Demokratiska republiken Kongo,['(kinshasa)kongoles'],['(kinshasa)kongoleser'],"kongolesisk, kinshasakongolesisk"
+84,Kosovo,,"['kosovan', 'kosovoserb', 'kosovoalban']","['kosovaner', 'kosovoserber', 'kosovoalbaner']","kosovansk, kosovoserbisk, kosovoalbansk"
+85,Kroatien,,['kroat'],['kroater'],kroatisk
+86,Kuba,,['kuban'],['kubaner'],kubansk
+87,Kuwait,,['kuwaitier'],['kuwaitier'],kuwaitisk
+88,Laos,,['laotier'],['laotier'],laotisk
+89,Lesotho,,['lesothier'],['lesothier'],lesothisk
+90,Lettland,,"['lettländare', 'lett']","['lettländare', 'letter']","lettländsk, lettisk"
+91,Libanon,,['libanes'],['libaneser'],libanesisk
+92,Liberia,,['liberian'],['liberianer'],liberiansk
+93,Libyen,,['libyer'],['libyer'],libysk
+94,Liechtenstein,,['liechtensteinare'],['liechtensteinare'],liechtensteinsk
+95,Litauen,,['litauer'],['litauer'],litauisk
+96,Luxemburg,,['luxemburgare'],['luxemburgare'],luxemburgsk
+97,Madagaskar,,['madagask'],['madagasker'],madagaskisk
+98,Makedonien,,['makedonier'],['makedonier'],"makedonisk, makedonsk"
+99,Malawi,,['malawier'],['malawier'],malawisk
+100,Malaysia,,['malaysier'],['malaysier'],malaysisk
+101,Maldiverna,,['maldivier'],['maldivier'],maldivisk
+102,Mali,,['malier'],['malier'],malisk
+103,Malta,,['maltes'],['malteser'],maltesisk
+104,Marocko,,['marockan'],['marockaner'],marockansk
+105,Marshallöarna,,['marshalles'],['marshalleser'],marshallesisk
+106,Mauretanien,,['mauretanier'],['mauretanier'],mauretansk
+107,Mauritius,,['mauritier'],['mauritier'],mauritisk
+108,Mexiko,,['mexikan'],['mexikaner'],mexikansk
+109,Mikronesien,,['mikronesier'],['mikronesier'],mikronesisk
+110,Moçambique,,['moçambikier'],['moçambikier'],moçambikisk
+111,Moldavien,,['moldavier'],['moldavier'],moldavisk
+112,Monaco,,['monegask'],['monegasker'],monegaskisk
+113,Mongoliet,,['mongolier'],['mongolier'],mongolisk
+114,Montenegro,,['montenegrin'],['montenegriner'],montenegrinsk
+115,Myanmar,Burma,['myanmarier'],['myanmarier'],myanmarisk
+116,Namibia,,['namibier'],['namibier'],namibisk
+117,Nauru,,['nauruer'],['nauruer'],naurisk
+118,Nederländerna,Holland,"['nederländare', 'holländare']","['nederländare', 'holländare']","nederländsk, holländsk"
+119,Nepal,,['nepales'],['nepaleser'],nepalesisk
+120,Nicaragua,,['nicaraguan'],['nicaraguaner'],nicaraguansk
+121,Niger,,['nigerier'],['nigerier'],nigerisk
+122,Nigeria,,['nigerian'],['nigerianer'],nigeriansk
+123,Nordkorea,,['nordkorean'],['nordkoreaner'],nordkoreansk
+124,Norge,,['norrman'],['norrmän'],norsk
+125,Nya Zeeland,,['nyzeeländare'],['nyzeeländare'],nyzeeländsk
+126,Oman,,['omanier'],['omanier'],omansk
+127,Pakistan,,['pakistanier'],['pakistanier'],pakistansk
+128,Palau,,['palauer'],['palauer'],palauisk
+129,Palestina,,['palestinier'],['palestinier'],palestinsk
+130,Panama,,['panaman'],['panamaner'],panamansk
+131,Papua Nya Guinea,,['papuan'],['papuaner'],papuansk
+132,Paraguay,,['paraguayan'],['paraguayaner'],paraguayansk
+133,Peru,,['peruan'],['peruaner'],peruansk
+134,Polen,,['polack'],['polacker'],polsk
+135,Portugal,,['portugis'],['portugiser'],portugisisk
+136,Qatar,,['qatarier'],['qatarier'],qatarisk
+137,Rumänien,,['rumän'],['rumäner'],rumänsk
+138,Rwanda,,['rwandier'],['rwandier'],rwandisk
+139,Ryssland,,['ryss'],['ryssar'],rysk
+140,Salomonöarna,,['salomonier'],['salomonier'],salomonsk
+141,Samoa,,['samoan'],['samoaner'],samoansk
+142,San Marino,,['sanmarinier'],['sanmarinier'],sanmarinsk
+143,Sao Tomé och Principe,,['(sao)tomean'],['(sao)tomeaner'],(sao)tomeansk
+144,Saudiarabien,,['saudier'],['saudier'],saudisk
+145,Schweiz,,['schweizare'],['schweizare'],schweizisk
+146,Senegal,,['senegales'],['senegaleser'],senegalesisk
+147,Serbien,,['serb'],['serber'],serbisk
+148,Seychellerna,,['seychellier'],['seychellier'],seychellisk
+149,Sierra Leone,,['sierraleonier'],['sierraleonier'],sierraleonsk
+150,Singapore,,['singaporian'],['singaporianer'],singaporiansk
+151,Slovakien,,['slovak'],['slovaker'],slovakisk
+152,Slovenien,,['sloven'],['slovener'],slovensk
+153,Somalia,,['somalier'],['somalier'],somalisk
+154,Spanien,,['spanjor'],['spanjorer'],spansk
+155,Sri Lanka,,['lankes'],['lankeser'],lankesisk
+156,Saint Kitts och Nevis,,"['kittsian', 'nevisian']","['kittsianer', 'nevisianer']","kittsiansk, nevisiansk"
+157,Saint Lucia,,['lucian'],['lucianer'],luciansk
+158,Saint Vincent och Grenadinerna,,"['vincentier', 'grenadinier']","['vincentier', 'grenadinier']","vincentisk, grenadinsk"
+159,Storbritannien,,['britt'],['britter'],brittisk
+160,Sudan,Nordsudan,['sudanes'],['sudaneser'],sudanesisk
+161,Surinam,,['surinames'],['surinameser'],surinamesisk
+162,Sverige,,['svensk'],['svenskar'],svensk
+163,Swaziland,,['swaziländare'],['swaziländare'],swaziländsk
+164,Sydafrika,,['sydafrikan'],['sydafrikaner'],sydafrikansk
+165,Sydkorea,,['sydkorean'],['sydkoreaner'],sydkoreansk
+166,Sydsudan,,['sydsudanes'],['sydsudaneser'],sydsudanesisk
+167,Syrien,,['syrier'],['syrier'],syrisk
+168,Tadzjikistan,,"['tadzjikistanier', 'tadzjik']","['tadzjikistanier', 'tadzjiker']","tadzjikistansk, tadzjikisk"
+169,Taiwan,,['taiwanes'],['taiwaneser'],taiwanesisk
+170,Tanzania,,['tanzanier'],['tanzanier'],tanzanisk
+171,Tchad,,['tchadier'],['tchadier'],tchadisk
+172,Thailand,,['thailändare'],['thailändare'],thailändsk
+173,Tjeckien,,['tjeck'],['tjecker'],tjeckisk
+174,Togo,,['togoles'],['togoleser'],togolesisk
+175,Tonga,,['tongan'],['tonganer'],tongansk
+176,Trinidad och Tobago,,"['trinidadier', 'tobagier']","['trinidadier', 'tobagier']","trinidadisk, tobagisk"
+177,Tunisien,,['tunisier'],['tunisier'],tunisisk
+178,Turkiet,,['turk'],['turkar'],turkisk
+179,Turkmenistan,,"['turkmenistanier', 'turkmen']","['turkmenistanier', 'turkmener']","turkmenistansk, turkmenisk"
+180,Tuvalu,,['tuvaluan'],['tuvaluaner'],tuvaluansk
+181,Tyskland,,['tysk'],['tyskar'],tysk
+182,Uganda,,['ugandier'],['ugandier'],ugandisk
+183,Ukraina,,['ukrainare'],['ukrainare'],ukrainsk
+184,Ungern,,['ungrare'],['ungrare'],ungersk
+185,Uruguay,,['uruguayan'],['uruguayaner'],uruguayansk
+186,USA,Förenta staterna,['amerikan'],['amerikaner'],amerikansk
+187,Uzbekistan,,"['uzbekistanier', 'uzbek']","['uzbekistanier', 'uzbeker']","uzbekistansk, uzbekisk"
+188,Vanuatu,,['vanuatuer'],['vanuatuer'],vanuatisk
+189,Vatikanstaten,,['vatikanare'],['vatikanare'],vatikansk
+190,Venezuela,,['venezuelan'],['venezuelaner'],venezuelansk
+191,Vietnam,,['vietnames'],['vietnameser'],vietnamesisk
+192,Vitryssland,,['vitryss'],['vitryssar'],vitrysk
+193,Zambia,,['zambier'],['zambier'],zambisk
+194,Zimbabwe,,['zimbabwier'],['zimbabwier'],zimbabwisk
+195,Österrike,,['österrikare'],['österrikare'],österrikisk
+196,Östtimor,,['östtimorian'],['östtimorianer'],östtimoriansk 
