@@ -19,7 +19,7 @@ Katalogen [/src](/src) innehåller kod för att konvertera originalfilerna till 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `name` | Personnamnet  | Text
-`gender` | Om det är ett kvinnonamn (`female`) eller mansnamn (`name`) | Text
+`gender` | Om det är ett kvinnonamn (`female`) eller mansnamn (`male`) | Text
 
 Finns även som separata filer:
 
