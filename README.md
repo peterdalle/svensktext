@@ -95,7 +95,7 @@ Källa: [Världens flaggor](http://www.flaggorvarlden.se/lista)
 
 ## Stoppord
 
-427 svenska stoppord ([CSV](stoppord.csv)).
+427 svenska stoppord ([CSV](stoppord/stoppord.csv)).
 
 Källa: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad av Peter Dahlgren
 
@@ -126,11 +126,11 @@ Det är svårt att hitta bra sentimentlexikon på svenska. Det finns några alte
 
 ## Yrken
 
-13 833 svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning.
+13 833 svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning ([CSV](yrken/vocations.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `vocation` |  Namnet på yrket | Text
-`gender` |  Huruvida det är kvinnlig eller manlig yrkesbeteckning (`male`, `female` eller `unknown`) | Text
+`gender` |  Om det är kvinnlig (`female`), manlig (`male`) eller okänd (`unknown`) yrkesbeteckning | Text
 
 Källa: [Yrken från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/vocation-list>) (`vocationTerms150120.utf.txt`) är licensierad med CC-BY (attribution).
