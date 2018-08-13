@@ -3,7 +3,7 @@ import pandas as pd
 # Läs in CSV-filen med är kopierad från TT-språkets sida
 # https://tt.se/tt-spraket/ord-och-begrepp/internationellt/stat-och-nationalitet/
 # första tabellen
-data = pd.read_csv("nationaliteter/nationaliteteter-ttspraket.csv")
+data = pd.read_csv("nationaliteter/nationaliteter-ttspraket.csv")
 
 # Parsa textsträng med singularformen av nationalitet, såsom "vitryss (-ar)",
 # och skapa singularform och pluralform separerade, det vill säga "vitryss"
@@ -64,4 +64,4 @@ data["resident_singular"] = singulars
 data["resident_plural"] = plurals
 
 # Spara till json eftersom singular-/pluralformerna är nästlade.
-data.to_json("nationaliteter/nationaliteteter.json")
+data.to_json("nationaliteter/nationaliteter.json")
