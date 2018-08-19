@@ -134,3 +134,7 @@ Kolumn | Beskrivning | Datatyp
 `gender` |  Om det är kvinnlig (`female`), manlig (`male`) eller okänd (`unknown`) yrkesbeteckning | Text
 
 Källa: [Yrken från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/vocation-list>) (`vocationTerms150120.utf.txt`) är licensierad med CC-BY (attribution).
+
+## Medier
+
+114 domäner till svenska nyhetsmedier ([CSV](medier/nyheter-domaner.csv)).
