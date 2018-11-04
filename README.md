@@ -12,6 +12,8 @@ Syftet är att samla svenska resurser som:
 
 Katalogen [/src](/src) innehåller kod för att konvertera originalfilerna till och från JSON respektive CSV.
 
+Vill du hjälpa till? [Läs hur du kan bidra](CONTRIBUTE.md).
+
 ## Namn
 
 25 166 namn på kvinnor och män ([CSV](namn/namn.csv)).
@@ -57,13 +59,13 @@ Kolumn | Beskrivning | Datatyp
 
 Källa: [TT-språket](https://tt.se/tt-spraket/ord-och-begrepp/internationellt/stat-och-nationalitet/)
 
-## Platser: svenska orter
+## Svenska orter
 
 2 007 namn på svenska orter ([JSON](platser/ortsnamn.json)).
 
 Källa: [Mattias Hising](https://github.com/hising/svensk-data)
 
-## Platser: Sveriges län
+## Sveriges län
 
 Sveriges 21 län ([CSV](platser/lan.csv)).
 
@@ -82,7 +84,7 @@ Kolumn | Beskrivning | Datatyp
 
 Källa: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n)
 
-## Platser: länder och huvudstäder
+## Länder och huvudstäder
 
 Världens 199 länder samt deras huvudstäder ([CSV](platser/lander.csv)).
 
@@ -92,6 +94,19 @@ Kolumn | Beskrivning | Datatyp
  `capital` | Namnet på huvudstaden | Text
 
 Källa: [Världens flaggor](http://www.flaggorvarlden.se/lista)
+
+## Landskoder
+
+245 landskoder i ISO 3166-1-format ([CSV](platser/landskoder.csv)).
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`code2` | Landskod i versaler om 2 bokstäver | Text
+`code3` | Landskod i versaler om 3 bokstäver | Text
+`number` | Nummer på land om 3 siffror | Tal
+`country` | Namnet på landet | Text
+
+Källa: [ISO 3166-1-koder](https://sv.wikipedia.org/wiki/ISO_3166)
 
 ## Stoppord
 
@@ -144,3 +159,9 @@ Källa: [Yrken från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/vocati
 11 domäner till sidor om immigration, rasism, nazism och dylikt ([CSV](medier/immigration-domaner.csv)).
 
 Källa: Bland annat mest delade länkar på #svpol.
+
+## Myndigheter
+
+Namn på svenska myndigheter. Textfiler exporterade direkt fårn SCB. *Att göra: gör om till CSV.*
+
+Källa: [Myndighetsregistret SCB](http://www.myndighetsregistret.scb.se/)
