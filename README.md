@@ -84,6 +84,32 @@ Kolumn | Beskrivning | Datatyp
 
 Källa: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n)
 
+## Sveriges kommuner
+
+Sveriges 290 kommuner ([CSV](platser/kommuner.csv)).
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+code | Kommunkod | Tal
+name | Kommunens namn | Text
+region | Län | Text
+population | Folkmängd | Decimaltal
+area | Total areal, kvadratkilometer | Decimaltal
+land | Landareal, kvadratkilometer | Decimaltal
+sea | Inlandsvattenareal, exklusive fyra största sjöarna, kvadratkilometer | Decimaltal
+ocean | Havsvattenareal, kvadratkilometer | Decimaltal
+density | Befolkningstäthet, invånare per kvadratkilometer land | Decimaltal
+bounds_ne_lat_google_2015_05_28 |  | Decimaltal
+bounds_ne_lng_google_2015_05_28 |  | Decimaltal
+bounds_sw_lat_google_2015_05_28 |  | Decimaltal
+bounds_sw_lng_google_2015_05_28 |  | Decimaltal
+location_lat_google_2015_05_28 |  | Decimaltal
+location_lng_google_2015_05_28 |  | Decimaltal
+
+(Data städad genom att göra om header till engelska namn samt ta bort mellanslag som tusentalavgränsare.)
+
+Källa: [Marcus Asplund](https://github.com/marcusasplund/kommundata)
+
 ## Länder och huvudstäder
 
 Världens 199 länder samt deras huvudstäder ([CSV](platser/lander.csv)).
