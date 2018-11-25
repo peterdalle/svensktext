@@ -42,4 +42,4 @@ Resurs | Kategori | Beskrivning
 
 [Läs hur du  kan bidra](CONTRIBUTE.md) till Svensk text.
 
-I korthet: bidra med komma-separerade CSV-filer på engelska som har en header, och som får användas fritt.
+I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska) och som får användas fritt.
