@@ -4,22 +4,23 @@ Bidra med egen data genom att följa dessa riktlinjer.
 
 ## Licens
 
-Filerna måste vara fria att använda utan begränsningar.
-
-Däremot ska alla som bidrar bli uppmärksammade för sina bidrag.
+- Filerna måste vara fria att använda utan begränsningar
+- Alla som bidrar ska bli uppmärksammade för sina bidrag
 
 ## Format
 
-Erbjud CSV och JSON.
+- CSV
+- JSON
+
+Katalogen [/src](/src) innehåller kod för att konvertera originalfiler till och från JSON respektive CSV.
 
 ## Dokumentation
 
 ### CSV
 
-- använd komma-separerad CSV i första hand, i andra hand ;-separerad, i tredje hand tab-separerad
-- använd headers på första raden (gemener, på engelska)
-- förklara vad varje header betyder
-- förklara datatypen för varje header
+- i första hand komma-separerad, i andra hand semikolon-separerad, i tredje hand tab-separerad
+- headers på första raden (gemener, på engelska)
+- dokumentera vad varje header betyder (samt dess datatyp)
 
 ### Datatyper
 
