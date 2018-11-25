@@ -4,13 +4,7 @@
 
 Här finns svenska resurser för:
 
-- namn på platser
-    - länder
-    - huvudstäder
-    - landskoder
-    - län
-    - kommuner
-    - orter
+- namn på platser: länder, huvudstäder, landskoder, län, kommuner, orter
 - kvinno- och mansnamn
 - nationaliteter
 - yrken
