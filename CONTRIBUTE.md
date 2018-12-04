@@ -12,7 +12,7 @@ Bidra med egen data genom att följa dessa riktlinjer.
 - CSV
 - JSON
 
-Katalogen [/src](/src) innehåller kod för att konvertera originalfiler till och från JSON respektive CSV.
+Katalogen `src` som finns inuti en del kataloger innehåller kod för att konvertera originalfiler (exempelvis till CSV). Var noga med att antingen ta med originalfilerna (om licensen tillåter det) eller beskriva hur originalfilerna kan hämtas!
 
 ## Dokumentation
 

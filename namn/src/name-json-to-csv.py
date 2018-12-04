@@ -1,3 +1,5 @@
+# Convert names in separate JSON files (kvinnonamn.json and mansnamn.json)
+# to separate CSV files.
 import json
 import csv
 
