@@ -10,6 +10,7 @@ Här finns svenska resurser för:
 - yrken
 - sentimentlexikon
 - stoppord
+- wikipedia-titlar
 
 Syftet är att samla svenska resurser som:
 
@@ -37,6 +38,7 @@ Resurs | Antal | Kategori | Beskrivning
 [Yrken](yrken/) | 13833 | Yrken |  Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 [Medier](medier/) | 112 | Medier | Domäner till svenska nyhetsmedier
 [Myndigheter](myndigheter/) | | Myndigheter | Namn på svenska myndigheter
+[Wikipedia-titlar](wikipedia/) | 6130751 | Wikipedia | Alla titlar på svenska Wikipedia-sidor
 
 ## Vill du hjälpa till?
 
