@@ -2,16 +2,6 @@
 
 **Svensk text** är en samling med data för språkresurser på svenska speciellt anpassat för att snabbt kunna läsas in av programspråk som Python, R eller dylikt.
 
-Här finns svenska resurser för:
-
-- namn på platser: länder, huvudstäder, landskoder, län, kommuner, orter
-- kvinno- och mansnamn
-- nationaliteter
-- yrken
-- sentimentlexikon
-- stoppord
-- wikipedia-titlar
-
 Syftet är att samla svenska resurser som:
 
 - är fria att använda
