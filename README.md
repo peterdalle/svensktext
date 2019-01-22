@@ -35,3 +35,7 @@ Resurs | Antal | Kategori | Beskrivning
 [Läs hur du  kan bidra](CONTRIBUTE.md) till Svensk text.
 
 I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska) och som får användas fritt.
+
+## Se även
+
+- [Språkbankens resurser på Göteborgs universitet](https://spraakbanken.gu.se/swe/resurser)
