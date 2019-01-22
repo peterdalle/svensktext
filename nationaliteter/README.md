@@ -1,6 +1,6 @@
 # Nationaliteter
 
-197 nationaliteter med namn på invånarna i landet, både singular och plural ([JSON](nationaliteter/nationaliteter.json), [CSV](nationaliteter/nationaliteter.csv)).
+197 nationaliteter med namn på invånarna i landet, både singular och plural ([JSON](nationaliteter.json), [CSV](nationaliteter.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------

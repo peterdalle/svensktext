@@ -26,8 +26,8 @@ Resurs | Antal | Kategori | Beskrivning
 [Politiska stoppord](stoppord/) | 285 | Stoppord | Svenska politiska stoppord
 [Sentimentlexikon](sentiment/) | 2067 | Sentiment | Svenska ord med sentiment
 [Yrken](yrken/) | 13833 | Yrken |  Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
-[Medier](medier/) | 112 | Medier | Domäner till svenska nyhetsmedier
-[Myndigheter](myndigheter/) | | Myndigheter | Namn på svenska myndigheter
+[Medier](organisationer/) | 158 | Organisationer | Domäner till svenska massmedier och nyhetsmedier
+[Myndigheter](organisationer/) | | Organisationer | Namn på svenska myndigheter
 [Wikipedia-titlar](wikipedia/) | 6130751 | Wikipedia | Alla titlar på svenska Wikipedia-sidor
 
 ## Vill du hjälpa till?

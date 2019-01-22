@@ -1,6 +1,6 @@
 # Sentimentlexikon
 
-2 067 svenska ord med sentiment ([CSV](sentiment/sentimentlex.csv)). Fördelningen är ungefär 700 negativa ord och 1 300 positiva ord.
+2 067 svenska ord med sentiment ([CSV](sentimentlex.csv)). Fördelningen är ungefär 700 negativa ord och 1 300 positiva ord.
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------

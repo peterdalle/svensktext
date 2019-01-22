@@ -1,6 +1,6 @@
 # Yrken
 
-13 833 svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning ([CSV](yrken/vocations.csv)).
+13 833 svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning ([CSV](vocations.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------

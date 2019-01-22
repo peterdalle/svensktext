@@ -12,9 +12,10 @@ Källa: [Wikimedia Downloads](https://dumps.wikimedia.org/) ([svwiki-latest-all-
 
 ## Källkod
 
-### Importera i R
+### R
 
 ```r
+# Read each file into a single list.
 sv_wikipedia_titles <- NULL
 for(char in c(letters, "aring", "auml", "ouml", "_", 0:9))
 {
@@ -31,6 +32,9 @@ for(char in c(letters, "aring", "auml", "ouml", "_", 0:9))
   sv_wikipedia_titles <- rbind(sv_wikipedia_titles, df)
 }
 
+# Set title encoding to UTF-8.
 Encoding(sv_wikipedia_titles$title) <- "UTF-8"
+
+# View.
 tail(sv_wikipedia_titles$title)
 ```

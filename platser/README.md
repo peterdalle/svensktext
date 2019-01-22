@@ -2,13 +2,13 @@
 
 ## Svenska orter
 
-2 007 namn på svenska orter ([JSON](platser/ortsnamn.json)).
+2 007 namn på svenska orter ([JSON](ortsnamn.json)).
 
 Källa: [Mattias Hising](https://github.com/hising/svensk-data)
 
 ## Sveriges län
 
-Sveriges 21 län ([CSV](platser/lan.csv)).
+Sveriges 21 län ([CSV](lan.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -27,33 +27,33 @@ Källa: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%
 
 ## Sveriges kommuner
 
-Sveriges 290 kommuner ([CSV](platser/kommuner.csv)).
+Sveriges 290 kommuner ([CSV](kommuner.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
-code | Kommunkod | Tal
-name | Kommunens namn | Text
-region | Län | Text
-population | Folkmängd | Decimaltal
-area | Total areal, kvadratkilometer | Decimaltal
-land | Landareal, kvadratkilometer | Decimaltal
-sea | Inlandsvattenareal, exklusive fyra största sjöarna, kvadratkilometer | Decimaltal
-ocean | Havsvattenareal, kvadratkilometer | Decimaltal
-density | Befolkningstäthet, invånare per kvadratkilometer land | Decimaltal
-bounds_ne_lat_google_2015_05_28 |  | Decimaltal
-bounds_ne_lng_google_2015_05_28 |  | Decimaltal
-bounds_sw_lat_google_2015_05_28 |  | Decimaltal
-bounds_sw_lng_google_2015_05_28 |  | Decimaltal
-location_lat_google_2015_05_28 |  | Decimaltal
-location_lng_google_2015_05_28 |  | Decimaltal
+`code` | Kommunkod | Tal
+`name` | Kommunens namn | Text
+`region` | Län | Text
+`population` | Folkmängd | Decimaltal
+`area` | Total areal, kvadratkilometer | Decimaltal
+`land` | Landareal, kvadratkilometer | Decimaltal
+`sea` | Inlandsvattenareal, exklusive fyra största sjöarna, kvadratkilometer | Decimaltal
+`ocean` | Havsvattenareal, kvadratkilometer | Decimaltal
+`density` | Befolkningstäthet, invånare per kvadratkilometer land | Decimaltal
+`bounds_ne_lat_google_2015_05_28` |  | Decimaltal
+`bounds_ne_lng_google_2015_05_28` |  | Decimaltal
+`bounds_sw_lat_google_2015_05_28` |  | Decimaltal
+`bounds_sw_lng_google_2015_05_28` |  | Decimaltal
+`location_lat_google_2015_05_28` |  | Decimaltal
+`location_lng_google_2015_05_28` |  | Decimaltal
 
-(Data städad genom att göra om header till engelska namn samt ta bort mellanslag som tusentalavgränsare.)
+Data städad genom att göra om header till engelska namn samt ta bort mellanslag som tusentalavgränsare.
 
 Källa: [Marcus Asplund](https://github.com/marcusasplund/kommundata)
 
 ## Länder och huvudstäder
 
-Världens 199 länder samt deras huvudstäder ([CSV](platser/lander.csv)).
+Världens 199 länder samt deras huvudstäder ([CSV](lander.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -64,7 +64,7 @@ Källa: [Världens flaggor](http://www.flaggorvarlden.se/lista)
 
 ## Landskoder
 
-245 landskoder i ISO 3166-1-format ([CSV](platser/landskoder.csv)).
+245 landskoder i ISO 3166-1-format ([CSV](landskoder.csv)).
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
