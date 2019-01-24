@@ -21,6 +21,7 @@ Katalogen `src` som finns inuti en del kataloger innehåller kod för att konver
 - i första hand komma-separerad, i andra hand semikolon-separerad, i tredje hand tab-separerad
 - headers på första raden (gemener, på engelska)
 - dokumentera vad varje header betyder (samt dess datatyp)
+- UTF-8 teckenkodning
 
 ### Datatyper
 
