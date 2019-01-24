@@ -55,7 +55,7 @@ BibTeX:
 	abstract = {Samling med språkresurser på svenska speciellt anpassat för att snabbt och enkelt kunna läsas in av programspråk som Python, R eller dylikt. Bland språkresurserna finns namn på kvinnor (förnamn), män (förnamn), städer, kommuner, län, huvudstäder, länder, nationaliteter, yrken, myndigheter, massmedier med mera. Syftet är att samla svenska resurser som är fria att använda, finns i flera öppna standardiserade format (exempelvis CSV och JSON), har en enkel datastruktur som enkelt kan maskinläsas, består av små filer utan onödigt krimskrams och har exempelkod (R och Python) för att snabbt kunna användas. Materialet utökas och uppdateras kontinuerligt under öppna licenser.},
 	language = {Svenska},
 	urldate = {2018-12-20},
-	publisher = {Svensk Nationell Datatjänst},
+	publisher = {Svensk nationell datatjänst},
 	author = {Dahlgren, Peter M.},
 	month = dec,
 	year = {2018},
