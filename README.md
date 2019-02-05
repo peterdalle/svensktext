@@ -22,9 +22,10 @@ Resurs | Antal | Kategori | Beskrivning
 [Sveriges kommuner](platser/) | 290 | Platser | Sveriges kommuner
 [Länder och huvudstäder](platser/) | 199 | Platser | Världens länder samt deras huvudstäder
 [Landskoder](platser/) | 245 | Platser | Landskoder i ISO 3166-1-format
-[Stoppord](stoppord/) | 427 | Stoppord | Svenska stoppord
-[Politiska stoppord](stoppord/) | 285 | Stoppord | Svenska politiska stoppord
-[Sentimentlexikon](sentiment/) | 2067 | Sentiment | Svenska ord med sentiment
+[Lemma](lemma/) | 675137 | Ord | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
+[Stoppord](stoppord/) | 427 | Ord | Svenska stoppord
+[Politiska stoppord](stoppord/) | 285 | Ord | Svenska politiska stoppord
+[Sentimentlexikon](sentiment/) | 2067 | Ord | Svenska ord med sentiment
 [Yrken](yrken/) | 13833 | Yrken |  Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 [Medier](organisationer/) | 158 | Organisationer | Domäner till svenska massmedier och nyhetsmedier
 [Myndigheter](organisationer/) | | Organisationer | Namn på svenska myndigheter
