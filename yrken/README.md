@@ -13,7 +13,7 @@ Kolumn | Beskrivning | Datatyp
 
 ## Källa
 
-- [Yrken från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/vocation-list>) (`vocationTerms150120.utf.txt`) är licensierad med CC-BY (attribution).
+- [Yrken från Språkbanken](<https://spraakbanken.gu.se/swe/resurs/vocation-list>), licensierad med CC-BY (attribution).
 
 ## Källkod
 
