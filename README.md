@@ -40,6 +40,15 @@ I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska)
 
 - [Språkbankens resurser på Göteborgs universitet](https://spraakbanken.gu.se/swe/resurser)
 
+Datakällor
+
+- [Öppna data](https://oppnadata.se/)
+- [Statistiska centralbyrån](http://www.scb.se/)
+- [Bebyggelseregistret – BeBR](https://www.raa.se/hitta-information/bebyggelseregistret-bebr/)
+- [Lantmäteriet](https://www.lantmateriet.se/) ([öppna geodata](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/oppna-data/))
+- [Öppna data från SKL](https://skl.se/naringslivarbetedigitalisering/digitalisering/informationsforsorjningochdigitalinfrastruktur/oppnadata/sklsoppnadata.psidata.html)
+- [Valmyndigheten](https://www.val.se/)
+
 ## Citera
 
 Svensk text finns på [Svensk nationell datatjänst](https://snd.gu.se/sv/catalogue/study/ext0278) och kan citeras på följande sätt:
