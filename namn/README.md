@@ -6,14 +6,16 @@
 - 13 411 enbart kvinnonamn ([JSON](kvinnonamn.json), [CSV](kvinnonamn.csv))
 - 11 755 enbart mansnamn ([JSON](mansnamn.json), [CSV](mansnamn.csv))
 
-## Format
+## Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `name` | Personnamnet  | Text
 `gender` | Om det är ett kvinnonamn (`female`) eller mansnamn (`male`) | Text
 
-Källa: [Mattias Hising](https://github.com/hising/svensk-data)
+## Källa
+
+- [Mattias Hising](https://github.com/hising/svensk-data)
 
 ## Källkod
 

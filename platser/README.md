@@ -2,13 +2,25 @@
 
 ## Svenska orter
 
-2 007 namn på svenska orter ([JSON](ortsnamn.json)).
+### Filer
 
-Källa: [Mattias Hising](https://github.com/hising/svensk-data)
+2 007 namn på svenska orter ([CSV](ortsnamn.csv), [JSON](ortsnamn.json)).
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`city` | Namnet på orten | Text
+
+### Källa
+
+- [Mattias Hising](https://github.com/hising/svensk-data)
 
 ## Sveriges län
 
-Sveriges 21 län ([CSV](lan.csv)).
+### Filer
+
+- Sveriges 21 län ([CSV](lan.csv)).
+
+### Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -23,11 +35,17 @@ Kolumn | Beskrivning | Datatyp
 `founded ` | Året då länet inrättades | Text
 `order_from_north_to_south` | Ordningen från norr till söder (residensstad) | Heltal
 
-Källa: [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n)
+### Källa
+
+- [Wikipedia - Sveriges län](https://sv.wikipedia.org/wiki/Sveriges_l%C3%A4n#Lista_%C3%B6ver_Sveriges_l%C3%A4n)
 
 ## Sveriges kommuner
 
+### Filer
+
 Sveriges 290 kommuner ([CSV](kommuner.csv)).
+
+### Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -49,22 +67,34 @@ Kolumn | Beskrivning | Datatyp
 
 Data städad genom att göra om header till engelska namn samt ta bort mellanslag som tusentalavgränsare.
 
-Källa: [Marcus Asplund](https://github.com/marcusasplund/kommundata)
+### Källa
+
+- [Marcus Asplund](https://github.com/marcusasplund/kommundata)
 
 ## Länder och huvudstäder
 
+### Filer
+
 Världens 199 länder samt deras huvudstäder ([CSV](lander.csv)).
+
+### Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
  `country` | Namnet på landet | Text
  `capital` | Namnet på huvudstaden | Text
 
-Källa: [Världens flaggor](http://www.flaggorvarlden.se/lista)
+### Källa
+
+- [Världens flaggor](http://www.flaggorvarlden.se/lista)
 
 ## Landskoder
 
+### Filer
+
 245 landskoder i ISO 3166-1-format ([CSV](landskoder.csv)).
+
+### Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -73,4 +103,6 @@ Kolumn | Beskrivning | Datatyp
 `number` | Nummer på land om 3 siffror | Tal
 `country` | Namnet på landet | Text
 
-Källa: [ISO 3166-1-koder](https://sv.wikipedia.org/wiki/ISO_3166)
+### Källa
+
+- [ISO 3166-1-koder](https://sv.wikipedia.org/wiki/ISO_3166)

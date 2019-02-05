@@ -1,6 +1,10 @@
 # Nationaliteter
 
+## Filer
+
 197 nationaliteter med namn på invånarna i landet, både singular och plural ([JSON](nationaliteter.json), [CSV](nationaliteter.csv)).
+
+## Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
@@ -11,4 +15,6 @@ Kolumn | Beskrivning | Datatyp
 `resident_plural` | Vad invånarna kallas i plural (t.ex. britter) | ['Lista']
 `adjective` | Vad invånarna kallas som adjektiv (t.ex. brittisk) | Text
 
-Källa: [TT-språket](https://tt.se/tt-spraket/ord-och-begrepp/internationellt/stat-och-nationalitet/)
+## Källa
+
+- [TT-språket](https://tt.se/tt-spraket/ord-och-begrepp/internationellt/stat-och-nationalitet/)

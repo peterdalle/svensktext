@@ -1,5 +1,7 @@
 # Wikipedia
 
+## Filer
+
 6 130 751 titlar från alla svenska Wikipedia-sidor, fördelat med en fil per begynnelsebokstav (exempelvis `a.txt` för bokstaven A) för alla ord A-Ö och 0-9 samt övriga titlar sorterade under `_.txt`.
 
 Svenska tecken som Å, Ä och Ö fungerar inte speciellt bra som filnamn och har därför fått följande namn i stället (baserade på deras HTML-tecken):
@@ -8,7 +10,13 @@ Svenska tecken som Å, Ä och Ö fungerar inte speciellt bra som filnamn och har
 - Ä = auml.txt
 - Ö = ouml.txt
 
-Källa: [Wikimedia Downloads](https://dumps.wikimedia.org/) ([svwiki-latest-all-titles-in-ns0.gz](http://dumps.wikimedia.org/svwiki/latest/svwiki-latest-all-titles-in-ns0.gz) ~30 MB, ~120 MB uppackat)
+## Datastruktur
+
+En Wikipedia-titel per rad.
+
+## Källa
+
+- [Wikimedia Downloads](https://dumps.wikimedia.org/) (Ladda ned direkt: [svwiki-latest-all-titles-in-ns0.gz](http://dumps.wikimedia.org/svwiki/latest/svwiki-latest-all-titles-in-ns0.gz) 30 MB, 120 MB uppackat)
 
 ## Källkod
 

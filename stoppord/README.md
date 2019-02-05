@@ -1,13 +1,21 @@
 # Stoppord
 
+## Filer
+
 - 427 svenska stoppord ([CSV](stoppord.csv)).
 - 285 svenska politiska stoppord ([CSV](stoppord-politik.csv)). Framför allt baserad på stoppordlistan ovan.
+
+## Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `word` | Stoppord | Text
 
-Källa: [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords), kompletterad av Peter Dahlgren
+
+## Källa
+
+- [Nico Lehmann](https://github.com/ekorn/Keywords/tree/master/stopwords)
+- Kompletterad av Peter Dahlgren
 
 ## Se även
 
