@@ -6,6 +6,8 @@
 
 2 007 namn på svenska orter ([CSV](ortsnamn.csv), [JSON](ortsnamn.json)).
 
+### Datastruktur
+
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `city` | Namnet på orten | Text
@@ -18,7 +20,7 @@ Kolumn | Beskrivning | Datatyp
 
 ### Filer
 
-- Sveriges 21 län ([CSV](lan.csv)).
+Sveriges 21 län ([CSV](lan.csv)).
 
 ### Datastruktur
 
