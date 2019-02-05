@@ -29,7 +29,7 @@ Kolumn | Beskrivning | Datatyp
 - https://github.com/michelleludovici/SynonymProject
 - https://github.com/fnielsen/afinn
 
-## Källdkod
+## Källkod
 
 ### Python
 
