@@ -23,6 +23,11 @@ Katalogen `src` som finns inuti en del kataloger innehåller kod för att konver
 - dokumentera vad varje header betyder (samt dess datatyp)
 - UTF-8 teckenkodning
 
+### JSON
+
+- använd JSON då CSV inte räcker till
+- försök hålla en så platt struktur som möjligt (det vill säga, få nästlade element)
+
 ### Datatyper
 
 Använd ett enkelt språkbruk (decimaltal, heltal, datum, text, lista) och undvik att använda namnet på programspecifika datatyper.
