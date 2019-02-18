@@ -19,7 +19,8 @@ Kolumn | Beskrivning | Datatyp
 
 ## Se även
 
-- [stopwords-iso för svenska](https://github.com/stopwords-iso/stopwords-sv/blob/master/stopwords-sv.txt)
+- https://github.com/stopwords-iso/stopwords-sv/blob/master/stopwords-sv.txt
+- https://github.com/codelucas/newspaper/blob/master/newspaper/resources/text/stopwords-sv.txt
 
 ## Källkod
 
