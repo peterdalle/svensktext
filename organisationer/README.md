@@ -34,7 +34,15 @@ Namn på svenska myndigheter. Textfiler exporterade direkt från SCB.
 
 ### Filer
 
-Filen [eu.csv](eu.csv) innehåller 14 namn på EU:s institutioner och organ, en på varje rad.
+Filen [eu.csv](eu.csv) innehåller 17 namn på EU:s institutioner och organ,
+
+### Datastruktur
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`name` | Namn på organisation | Text
+`alternative_name` | Alternativt namn på organisation | Text
+`acronym` | Förkortning av namnet eller annan vanlig typ av förkortning | Text
 
 ### Källa
 
