@@ -30,6 +30,7 @@ Resurs | Antal | Kategori | Beskrivning
 [Yrken](yrken/) | 13833 | Yrken |  Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 [Medier](organisationer/) | 158 | Organisationer | Domäner till svenska massmedier och nyhetsmedier
 [Myndigheter](organisationer/) | | Organisationer | Namn på svenska myndigheter
+[EU-institutioner](organisationer/) | | Organisationer | Namn på EU:s institutioner och organ
 [Wikipedia-titlar](wikipedia/) | 6130751 | Wikipedia | Alla titlar på svenska Wikipedia-sidor
 
 ## Vill du hjälpa till?

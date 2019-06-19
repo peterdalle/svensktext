@@ -29,3 +29,13 @@ Namn på svenska myndigheter. Textfiler exporterade direkt från SCB.
 ### Källa
 
 - [Myndighetsregistret SCB](http://www.myndighetsregistret.scb.se/)
+
+## EU:s institutioner och organ
+
+### Filer
+
+Filen [eu.csv](eu.csv) innehåller 14 namn på EU:s institutioner och organ, en på varje rad.
+
+### Källa
+
+- [EU:s institutioner och andra organ](https://europa.eu/european-union/about-eu/institutions-bodies_sv)
