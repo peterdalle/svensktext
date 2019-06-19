@@ -16,6 +16,7 @@ Syftet är att samla svenska resurser som:
 Resurs | Antal | Kategori | Beskrivning
 :----------------  | ------: | :------- |  :-------------------------------------------- 
 [Namn](namn/) | 25166 | Namn | Namn på män och kvinnor
+[Efternamn](namn/) | 1000 | Namn | Vanliga efternamn i Sverige
 [Nationaliteter](nationaliteter/) | 197 | Nationaliteter | Nationaliteter med namn på invånarna i landet, både singular och plural
 [Svenska orter](platser/) | 2007 | Platser | Namn på svenska orter
 [Sveriges län](platser/) | 21 | Platser | Sveriges län
