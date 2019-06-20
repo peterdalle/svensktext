@@ -28,7 +28,7 @@ Resurs | Antal | Kategori | Beskrivning
 [Lemma](lemma/) | 675137 | Ord | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
 [Stoppord](stoppord/) | 427 | Ord | Svenska stoppord
 [Politiska stoppord](stoppord/) | 285 | Ord | Svenska politiska stoppord
-[Sentimentlexikon](sentiment/) | 2067 | Ord | Svenska ord med sentiment
+[Sentimentlexikon](sentiment/) | 2067 | Ord | Positiva och negativa svensk ord
 [Yrken](yrken/) | 13833 | Yrken |  Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 [Medier](organisationer/) | 158 | Organisationer | Domäner till svenska massmedier och nyhetsmedier
 [Myndigheter](organisationer/) | | Organisationer | Namn på svenska myndigheter
