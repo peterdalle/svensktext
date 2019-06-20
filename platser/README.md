@@ -108,3 +108,34 @@ Kolumn | Beskrivning | Datatyp
 ### Källa
 
 - [ISO 3166-1-koder](https://sv.wikipedia.org/wiki/ISO_3166)
+
+## Valutor
+
+### Filer
+
+- 216 valutor ([CSV](valutor.csv)).
+
+### Datastruktur
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`country` | Namnet på landet eller området för valutan | Text
+`currency` | Namnet på valutan | Text
+`code` | Valutakod med 2-3 tecken (ISO 4217) | Text
+
+
+Notera att länder kan förekomma flera gånger, exempelvis:
+
+```
+Panama,Balboa,PAB
+Panama,Amerikansk dollar,USD
+```
+
+### Källa
+
+- https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_l%C3%A4nders_valutor
+
+### Se även
+
+- https://sv.wikipedia.org/wiki/ISO_4217
+- https://en.wikipedia.org/wiki/ISO_4217

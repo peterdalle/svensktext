@@ -1,0 +1,217 @@
+country,currency,code
+Afghanistan,Afghani,AFA
+Albanien,Lek,ALL
+Algeriet,Dinar,DZD
+Amerikanska Jungfruöarna,Amerikansk dollar,USD
+Amerikanska Samoa,Amerikansk dollar,USD
+Andorra,Euro,EUR
+Angola,Kwanza,AOA
+Anguilla,Östkaribisk dollar,XCD
+Antigua och Barbuda,Östkaribisk dollar,XCD
+Argentina,Peso,ARS
+Armenien,Dram,AMD
+Aruba,Florin,AWG
+Australien,Australisk dollar,AUD
+Azerbajdzjan,Manat,AZN
+Bahamas,Bahamansk dollar,BSD
+Bahrain,Dinar,BHD
+Bangladesh,Taka,BDT
+Barbados,Barbadisk dollar,BBD
+Belgien,Euro,EUR
+Belize,Belizisk dollar,BZD
+Benin,Franc,XOF
+Bermudas,Bermudisk dollar,BMD
+Bhutan,Ngultrum,BTN
+Bhutan,Rupie,INR
+Bolivia,Boliviana,BOB
+Bosnien och Hercegovina,Marka,BAM
+Botswana,Pula,BWP
+Brasilien,Real,BRL
+Brittiska jungfruöarna,Amerikansk dollar,USD
+Brunei,Bruneisk dollar,BND
+Bulgarien,Leva,BGN
+Burkina Faso,Franc,XOF
+Burma,Kyat,MMK
+Burundi,Franc,BIF
+Caymanöarna,Caymansk dollar,KYD
+Centralafrikanska republiken,Franc,XAF
+Chile,Peso,CLP
+Colombia,Peso,COP
+Cooköarna,Nyzeeländsk dollar,NZD
+Costa Rica,Colón,CRC
+Cypern,Euro,EUR
+Danmark,Krone,DKK
+Dominica,Östkaribisk dollar,XCD
+Dominikanska republiken,Peso,DOP
+Ecuador,Amerikansk dollar,USD
+Egypten,Pund,EGP
+Elfenbenskusten,Franc,CFA
+El Salvador,Amerikansk dollar,USD
+Ekvatorialguinea,Franc,XAF
+Eritrea,Nakfa,ERN
+Estland,Euro,EUR
+Etiopien,Birr,ETB
+Filippinerna,Peso,PHP
+Färöarna,Krone,DKK
+Falklandsöarna,Pund,FKP
+Fiji,Fijidollar,FJD
+Finland,Euro,EUR
+Frankrike,Euro,EUR
+Franska Guyana,Euro,EUR
+Franska Polynesien,Franc,XPF
+Gabon,Franc,XAF
+Gambia,Dalasi,GMD
+Georgien,Lari,GEL
+Ghana,Cedi,GHC
+Gibraltar,Gibraltar pund,GIP
+Gibraltar,Pund,GBP
+Grekland,Euro,EUR
+Grenada,Östkaribisk dollar,XCD
+Grönland,Krone,DKK
+Guadeloupe,Euro,EUR
+Guam,Amerikansk dollar,USD
+Guatemala,Quetzal,GTQ
+Guatemala,Amerikansk dollar,USD
+Guinea,Franc,GNF
+Guinea-Bissau,Franc,XOF
+Guyana,Guyansk dollar,GYD
+Haiti,Gourde,HTG
+Honduras,Lempira,HNL
+Hongkong,Hongkongdollar,HKD
+Indien,Rupie,INR
+Indonesien,Rupiah,IDR
+Iran,Rial,IRR
+Irak,Dinar,IQD
+Irland,Euro,EUR
+Island,Krona,ISK
+Isle of Man,Pund,GBP
+Israel,Shekel,ILS
+Italien,Euro,EUR
+Jamaica,Jamaicansk dollar,JMD
+Japan,Yen,JPY
+Jemen,Rial,YER
+Jordanien,Dinar,JOD
+Kambodja,Riel,KHR
+Kamerun,Franc,XAF
+Kanada,Kanadensisk dollar,CAD
+Kenya,Shilling,KES
+Kina,Yuan,CNY
+Kiribati,Australisk dollar,AUD
+Komorerna,Franc,KMF
+Kongo-Brazzaville,Franc,XAF
+Kongo-Kinshasa,Franc,CDF
+Kosovo,Euro,EUR
+Kroatien,Kuna,HRK
+Kuba,Peso,CUP
+Kuwait,Dinar,KWD
+Laos,Kip,LAK
+Lesotho,Loti,LSL
+Lesotho,Rand,ZAR
+Lettland,Lats,LVL
+Libanon,Pund,LBP
+Liberia,Liberiansk dollar,LRD
+Libyen,Dinar,LYD
+Liechtenstein,Franc,CHF
+Litauen,Litas,LTL
+Luxemburg,Euro,EUR
+Madagaskar,Franc/Ariary,MGF
+Malawi,Kwacha,MWK
+Malaysia,Ringgit,MYR
+Maldiverna,Rufiyaa,MVR
+Mali,Franc,XOF
+Malta,Euro,EUR
+Marocko,Dirham,MAD
+Marshallöarna,Amerikansk dollar,USD
+Martinique,Euro,EUR
+Mauritius,Rupie,MUR
+Mayotte,Euro,EUR
+Mexiko,Peso,MXN
+Mikronesiska federationen,Amerikansk dollar,USD
+Moçambique,Metical,MZM
+Moldavien,Leu,MDL
+Monaco,Euro,EUR
+Mongoliet,Tögrög tugrik,MNT
+Namibia,Namibisk dollar,NAD
+Namibia,Rand,ZAR
+Nauru,Dollar,AUD
+Nederländerna,Euro,EUR
+Nederländska Antillerna,Gulden,ANG
+Nepal,Rupie,NPR
+Nicaragua,Cordoba,NIO
+Niger,Franc,XOF
+Nigeria,Naira,NGN
+Nordkorea,Won,KPW
+Nordmakedonien,Denar,MKD
+Norge,Krone,NOK
+Nya Zeeland,Nyzeeländsk dollar,NZD
+Oman,Rial,OMR
+Pakistan,Rupie,PKR
+Panama,Balboa,PAB
+Panama,Amerikansk dollar,USD
+Papua Nya Guinea,Kina,PGK
+Paraguay,Guarani,PYG
+Peru,Nuevo sol,PEN
+Pitcairnöarna,Nyzeeländsk dollar,NZD
+Polen,Złoty,PLN
+Portugal,Euro,EUR
+Puerto Rico,Amerikansk dollar,USD
+Réunion,Euro,EUR
+Rumänien,Leu,RON
+Ryssland,Rubel,RUB
+Rwanda,Franc,RWF
+Saint Kitts och Nevis,Östkaribisk dollar,XCD
+Saint Lucia,Östkaribisk dollar,XCD
+Saint-Pierre-et-Miquelon,Euro,EUR
+Saint Vincent och Grenadinerna,Östkaribisk dollar,XCD
+Salomonöarna,Salomondollar,SBD
+Samoa,Tala,SAT
+Sankta Helena,Pund,SHP
+São Tomé och Príncipe,Dobra,STD
+Saudiarabien,Riyal,SAR
+Schweiz,Franc,CHF
+Senegal,Franc,XOF
+Serbien,Dinar,RSD
+Sierra Leone,Leone,SLL
+Singapore,Singaporiansk dollar,SGD
+Slovakien,Euro,EUR
+Slovenien,Euro,EUR
+Spanien,Euro,EUR
+Sri Lanka,Rupie,LKR
+Storbritannien,Pund,GBP
+Sudan,Dinar,SDD
+Surinam,Surinamesisk dollar,SRD
+Swaziland,Lilangeni,SZL
+Sverige,Krona,SEK
+Sydafrika,Rand,ZAR
+Sydkorea,Won,KRW
+Syrien,Pund,SYP
+Tadzjikistan,Somoni,TJS
+Taiwan,Taiwanesisk dollar,TWD
+Tanzania,Shilling,TZS
+Tchad,Franc,XAF
+Thailand,Baht,THB
+Tjeckien,Koruna,CZK
+Togo,Franc,XOF
+Tonga,Pa'anga,TOP
+Trinidad och Tobago,Trinidaddollar,TTD
+Tunisien,Dinar,TND
+Turkiet,Lira,TL
+Turkmenistan,Manat,TMM
+Turks- och Caicosöarna,Amerikansk dollar,USD
+Tuvalu,Australisk dollar,AUD
+Tyskland,Euro,EUR
+Uganda,Shilling,UGX
+Ukraina,Hryvnia,UAH
+Ungern,Forint,HUF
+Uruguay,Peso,UYU
+USA,Amerikansk dollar,USD
+Uzbekistan,Sum,UZS
+Vanuatu,Vatu,UVU
+Venezuela,Bolivar,VEB
+Vietnam,Dong,VND
+Vitryssland,Rubel,BYN
+Wallis- och Futunaöarna,Franc,XPF
+Zambia,Kwacha,ZMK
+Zimbabwe,Amerikansk dollar,USD
+Österrike,Euro,EUR
+Östtimor,Amerikansk dollar,USD

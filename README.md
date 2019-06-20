@@ -22,7 +22,9 @@ Resurs | Antal | Kategori | Beskrivning
 [Sveriges län](platser/) | 21 | Platser | Sveriges län
 [Sveriges kommuner](platser/) | 290 | Platser | Sveriges kommuner
 [Länder och huvudstäder](platser/) | 199 | Platser | Världens länder samt deras huvudstäder
-[Landskoder](platser/) | 245 | Platser | Landskoder i ISO 3166-1-format
+[Landskoder](platser/) | 245 | Platser | Landskoder (ISO 3166-1)
+[Valutor](platser/) | 245 | Platser | Länder och deras valutor och valutakoder (ISO 4217)
+[Helgdagar](tider/) | 23 | Tider | Svenska helgdagar
 [Lemma](lemma/) | 675137 | Ord | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
 [Stoppord](stoppord/) | 427 | Ord | Svenska stoppord
 [Politiska stoppord](stoppord/) | 285 | Ord | Svenska politiska stoppord
