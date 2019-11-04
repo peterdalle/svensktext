@@ -13,28 +13,28 @@ Syftet är att samla svenska resurser som:
 
 ## Alla resurser
 
-Resurs | Antal | Kategori | Beskrivning
-:----------------  | ------: | :------- |  :-------------------------------------------- 
-[Namn](namn/) | 25166 | Namn | Namn på män och kvinnor
-[Efternamn](namn/) | 1000 | Namn | Vanliga efternamn i Sverige
-[Nationaliteter](nationaliteter/) | 197 | Nationaliteter | Nationaliteter med namn på invånarna i landet, både singular och plural
-[Svenska orter](platser/) | 2007 | Platser | Namn på svenska orter
-[Sveriges län](platser/) | 21 | Platser | Sveriges län
-[Sveriges kommuner](platser/) | 290 | Platser | Sveriges kommuner
-[Länder och huvudstäder](platser/) | 199 | Platser | Världens länder samt deras huvudstäder
-[Landskoder](platser/) | 245 | Platser | Landskoder (ISO 3166-1)
-[Valutor](platser/) | 245 | Platser | Länder och deras valutor och valutakoder (ISO 4217)
-[Vägar](platser/) | 278 | Platser | Svenska Europavägar, riksvägar och landsvägar
-[Helgdagar](tider/) | 23 | Tider | Svenska helgdagar
-[Lemma](lemma/) | 675137 | Ord | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
-[Stoppord](stoppord/) | 427 | Ord | Svenska stoppord
-[Politiska stoppord](stoppord/) | 285 | Ord | Svenska politiska stoppord
-[Sentimentlexikon](sentiment/) | 2067 | Ord | Positiva och negativa svenska ord
-[Yrken](yrken/) | 13833 | Yrken |  Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
-[Medier](organisationer/) | 158 | Organisationer | Domäner till svenska massmedier och nyhetsmedier
-[Myndigheter](organisationer/) | | Organisationer | Namn på svenska myndigheter
-[EU-institutioner](organisationer/) | 17 | Organisationer | Namn på EU:s institutioner och organ
-[Wikipedia-titlar](wikipedia/) | 6130751 | Wikipedia | Alla titlar på svenska Wikipedia-sidor
+Kategori         | Resurs                                | Antal   | Beskrivning
+:--------------- | :------------------------------------ | ------: | :-------------------------------------------- 
+Namn             | [Förnamn](namn/)                      | 25166   | Namn på män och kvinnor
+Namn             | [Efternamn](namn/)                    | 1000    | Vanliga efternamn i Sverige
+Nationaliteter   | [Nationaliteter](nationaliteter/)     | 197     | Nationaliteter med namn på invånarna i landet, både singular och plural
+Platser          | [Svenska orter](platser/)             | 2007    | Namn på svenska orter
+Platser          | [Sveriges län](platser/)              | 21      | Sveriges län
+Platser          | [Sveriges kommuner](platser/)         | 290     | Sveriges kommuner
+Platser          | [Länder och huvudstäder](platser/)    | 199     | Världens länder samt deras huvudstäder
+Platser          | [Landskoder](platser/)                | 245     | Landskoder (ISO 3166-1)
+Platser          | [Valutor](platser/)                   | 245     | Länder och deras valutor och valutakoder (ISO 4217)
+Platser          | [Vägar](platser/)                     | 278     | Svenska Europavägar, riksvägar och landsvägar
+Tider            | [Helgdagar](tider/)                   | 23      | Svenska helgdagar
+Ord              | [Lemma](lemma/)                       | 675137  | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
+Ord              | [Stoppord](stoppord/)                 | 427     | Svenska stoppord
+Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska politiska stoppord
+Ord              | [Sentimentlexikon](sentiment/)        | 2067    | Positiva och negativa svenska ord
+Jobb             | [Yrken](yrken/)                       | 13833   | Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
+Organisationer   | [Medier](organisationer/)             | 158     | Domäner till svenska massmedier och nyhetsmedier
+Organisationer   | [Myndigheter](organisationer/)        | -       | Namn på svenska myndigheter
+Organisationer   | [EU-institutioner](organisationer/)   | 17      | Namn på EU:s institutioner och organ
+Wikipedia        | [Wikipedia-titlar](wikipedia/)        | 6130751 | Alla titlar på svenska Wikipedia-sidor
 
 ## Vill du hjälpa till?
 
