@@ -24,6 +24,7 @@ Resurs | Antal | Kategori | Beskrivning
 [Länder och huvudstäder](platser/) | 199 | Platser | Världens länder samt deras huvudstäder
 [Landskoder](platser/) | 245 | Platser | Landskoder (ISO 3166-1)
 [Valutor](platser/) | 245 | Platser | Länder och deras valutor och valutakoder (ISO 4217)
+[Vägar](platser/) | 278 | Platser | Svenska Europavägar, riksvägar och landsvägar
 [Helgdagar](tider/) | 23 | Tider | Svenska helgdagar
 [Lemma](lemma/) | 675137 | Ord | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
 [Stoppord](stoppord/) | 427 | Ord | Svenska stoppord
