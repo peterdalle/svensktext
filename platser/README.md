@@ -139,3 +139,22 @@ Panama,Amerikansk dollar,USD
 
 - https://sv.wikipedia.org/wiki/ISO_4217
 - https://en.wikipedia.org/wiki/ISO_4217
+
+## Svenska vägar
+
+### Filer
+
+- 278 vägnamn ([CSV](vagar.csv))
+
+### Datastruktur
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`road` | Namnet på vägen | Text
+`number` | Nummer på vägen (extraherat från namnet) | Tal
+`reach` | Sträckning (d.v.s. orter där vägen passerar) | Text
+`type` | Typ av väg (`Europaväg`, `Riksväg` eller `Länsväg`) | Text
+
+### Källa
+
+- https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_v%C3%A4gar_i_nummerordning

@@ -1,0 +1,279 @@
+road;number;reach;type
+E4;4;Helsingborg - Jönköping - Stockholm - Uppsala - Gävle - Sundsvall - Umeå - Haparanda (- Torneå);Europaväg
+E6;6;(Kirkenes -) norska gränsen - Uddevalla - Göteborg - Helsingborg - Malmö - Trelleborg;Europaväg
+E10;10;Luleå - Gällivare - Kiruna - Riksgränsen (- Lofoten);Europaväg
+E12;12;(Helsingfors -) Holmsund - Umeå - Lycksele - Storuman - norska gränsen (- Mo i Rana);Europaväg
+E14;14;Sundsvall - Östersund - Åre - norska gränsen (- Trondheim);Europaväg
+E16;16;(Londonderry -) norska gränsen - Torsby - Malung - Borlänge - Falun - Gävle;Europaväg
+E18;18;(Craigavon -) norska gränsen - Karlstad - Örebro - Västerås - Stockholm - Norrtälje - Kapellskär (- Sankt Petersburg);Europaväg
+E20;20;(Shannon Airport -) Öresundsbron - Malmö - Göteborg - Örebro - Eskilstuna - Stockholm (- Sankt Petersburg);Europaväg
+E22;22;(Holyhead -) Trelleborg - Malmö - Kalmar - Oskarshamn - Norrköping (- Isjim, Ryssland);Europaväg
+E45;45;(Gela -) Göteborg - Grums - Mora - Östersund - Arvidsjaur - Gällivare - Karesuando (- Alta);Europaväg
+E65;65;Malmö - Ystad (- Kreta);Europaväg
+E265;265;Kapellskär (- Tallinn);Europaväg
+Riksväg 9;9;Trelleborg - Ystad - Simrishamn - Brösarp (Kristianstad);Riksväg
+Riksväg 11;11;Malmö - Simrishamn;Riksväg
+Riksväg 13;13;Ystad - Höör - Ängelholm;Riksväg
+Riksväg 15;15;Halmstad - Markaryd - Osby - Olofström - Karlshamn;Riksväg
+Riksväg 17;17;Landskrona - Eslöv - Fogdarp (Hörby);Riksväg
+Riksväg 19;19;Ystad - Tomelilla - Brösarp - Kristianstad - Osby;Riksväg
+Riksväg 21;21;Kristianstad - Hässleholm - Åstorp(Helsingborg);Riksväg
+Riksväg 23;23;Malmö - Växjö - Linköping;Riksväg
+Riksväg 24;24;(Halmstad) Mellbystrand - Hässleholm;Riksväg
+Riksväg 25;25;Halmstad - Växjö - Kalmar;Riksväg
+Riksväg 26;26;Halmstad - Gislaved - Jönköping - Mariestad - Kristinehamn - Mora;Riksväg
+Riksväg 27;27;Ronneby - Växjö - Värnamo - Borås - Göteborg;Riksväg
+Riksväg 28;28;Karlskrona - Vägershult (Vetlanda);Riksväg
+Riksväg 29;29;Karlshamn - Tingsryd - Växjö;Riksväg
+Riksväg 30;30;Växjö - Jönköping;Riksväg
+Riksväg 31;31;Kalmar - Nybro - Vetlanda - Nässjö - Jönköping;Riksväg
+Riksväg 32;32;Vetlanda - Mjölby - Motala;Riksväg
+Riksväg 34;34;Kalmar - Vimmerby - Linköping - Motala;Riksväg
+Riksväg 35;35;Västervik - Linköping;Riksväg
+Riksväg 37;37;Växjö - Oskarshamn;Riksväg
+Riksväg 40;40;Göteborg - Borås - Jönköping - Nässjö - Västervik;Riksväg
+Riksväg 41;41;Varberg - Borås;Riksväg
+Riksväg 42;42;Borås - Trollhättan;Riksväg
+Riksväg 44;44;Uddevalla - Lidköping - Götene;Riksväg
+Riksväg 46;46;Ulricehamn - Skövde;Riksväg
+Riksväg 47;47;Oskarshamn - Jönköping - Falköping - Grästorp - Trollhättan;Riksväg
+Riksväg 49;49;Skara - Skövde - Askersund;Riksväg
+Riksväg 50;50;Jönköping - Ödeshög - Mjölby - Motala - Örebro - Falun - Alfta - Bollnäs - Söderhamn;Riksväg
+Riksväg 51;51;Norrköping - Örebro;Riksväg
+Riksväg 52;52;Nyköping - Katrineholm - Örebro;Riksväg
+Riksväg 53;53;Oxelösund - Nyköping - Malmköping - Eskilstuna;Riksväg
+Riksväg 55;55;Norrköping - Katrineholm - Strängnäs - Enköping - Uppsala;Riksväg
+Riksväg 56;56;Norrköping - Katrineholm - Kungsör - Västerås - Sala - Heby - Gävle;Riksväg
+Riksväg 57;57;Katrineholm - Södertälje;Riksväg
+Riksväg 61;61;Karlstad - Arvika - Morokulien;Riksväg
+Riksväg 62;62;Karlstad - Långflon - norska gränsen;Riksväg
+Riksväg 63;63;Karlstad - Kopparberg (Ludvika);Riksväg
+Riksväg 66;66;Västerås - Fagersta - Ludvika - Björbo - Vansbro - Malung - Sälen - norska gränsen;Riksväg
+Riksväg 68;68;Örebro - Lindesberg - Fagersta - Avesta - Storvik - Gävle;Riksväg
+Riksväg 69;69;Fagersta - Norberg - Hedemora - Falun - Rättvik;Riksväg
+Riksväg 70;70;Enköping - Sala - Avesta - Borlänge - Mora - Älvdalen - Idre - norska gränsen;Riksväg
+Riksväg 72;72;Uppsala - Sala;Riksväg
+Riksväg 73;73;Stockholm - Haninge - Nynäshamn;Riksväg
+Riksväg 75;75;(Södra länken) E4/E20 Västberga - Årsta - Länsväg 222 Nacka;Riksväg
+Riksväg 76;76;Norrtälje - Östhammar - Älvkarleby - Gävle;Riksväg
+Riksväg 77;77;Norrtälje - Knivsta (Uppsala);Riksväg
+Riksväg 83;83;Tönnebro - Bollnäs - Järvsö - Ljusdal - Ånge;Riksväg
+Riksväg 84;84;Hudiksvall - Ljusdal - Sveg - Funäsdalen - norska gränsen;Riksväg
+Riksväg 86;86;Sundsvall - Bispgården;Riksväg
+Riksväg 87;87;Östersund - Sollefteå;Riksväg
+Riksväg 90;90;Härnösand - Sollefteå - Åsele - Vilhelmina;Riksväg
+Riksväg 92;92;Umeå - Åsele - Dorotea;Riksväg
+Riksväg 94;94;Luleå - Antnäs - Älvsbyn - Arvidsjaur;Riksväg
+Riksväg 95;95;Skellefteå - Boliden - Arvidsjaur - Arjeplog - Kuoletisjaure - norska gränsen;Riksväg
+Riksväg 97;97;Luleå - Boden - Jokkmokk;Riksväg
+Riksväg 98;98;Överkalix - Övertorneå;Riksväg
+Riksväg 99;99;Haparanda - Övertorneå - Pajala - Karesuando;Riksväg
+Länsväg 100;100;Skanör med Falsterbo - Vellinge;Länsväg
+Länsväg 101;101;Malmö - Anderslöv - Mossbystrand;Länsväg
+Länsväg 102;102;Skurup - Veberöd - Dalby - Lund;Länsväg
+Länsväg 103;103;Lund - Lomma;Länsväg
+Länsväg 104;104;Saxtorp - Kävlinge - Gårdstånga - Sjöbo;Länsväg
+Länsväg 105;105;Båstad - Ängelholm;Länsväg
+Länsväg 106;106;Teckomatorp - Svalöv - Kågeröd;Länsväg
+Länsväg 107;107;Ängelholm - Åstorp - Bjuv;Länsväg
+Länsväg 108;108;Trelleborg - Svedala - Lund - Kävlinge - Ljungbyhed - Åsljunga;Länsväg
+Länsväg 109;109;Ask - Kågeröd - Billesholm;Länsväg
+Länsväg 110;110;Saxtorp - Asmundtorp - Bjuv - Hyllinge;Länsväg
+Länsväg 111;111;Helsingborg - Höganäs - Mölle;Länsväg
+Länsväg 112;112;Åstorp - Höganäs;Länsväg
+Länsväg 113;113;Gårdstånga - Eslöv - Stockamöllan;Länsväg
+Länsväg 114;114;Munka-Ljungby - Örkelljunga;Länsväg
+Länsväg 115;115;Våxtorp - Torekov;Länsväg
+Länsväg 116;116;Bromölla - Olofström - Ryd;Länsväg
+Länsväg 117;117;Hässleholm - Markaryd;Länsväg
+Länsväg 118;118;Olseröd - Åhus - Kristianstad - Bjärlöv;Länsväg
+Länsväg 119;119;Hässleholm - Ryd;Länsväg
+Länsväg 120;120;Strömsnäsbruk - Älmhult - Tingsryd - Emmaboda - Nybro;Länsväg
+Länsväg 121;121;Lönsboda - Älmhult;Länsväg
+Länsväg 122;122;Karlskrona - Rödeby - Ingelstad - Växjö;Länsväg
+Länsväg 123;123;Sölvesborg - Nogersund;Länsväg
+Länsväg 124;124;Ljungby - Liatorp;Länsväg
+Länsväg 125;125;Kalmar - Lindsdal - Fagerhult - Vetlanda;Länsväg
+Länsväg 126;126;Karlshamn - Ryd - Alvesta - Lammhult;Länsväg
+Länsväg 127;127;Värnamo - Vrigstad - Vetlanda;Länsväg
+Länsväg 128;128;Sävsjö - Eksjö;Länsväg
+Länsväg 129;129;Hultsfred - Mariannelund;Länsväg
+Länsväg 130;130;Söderåkra - Torsås;Länsväg
+Länsväg 131;131;Tranås - Österbymo;Länsväg
+Länsväg 132;132;Huskvarna - Aneby;Länsväg
+Länsväg 133;133;Gränna - Tranås;Länsväg
+Länsväg 134;134;Eksjö - Kisa - Åtvidaberg;Länsväg
+Länsväg 135;135;Gamleby - Bränntorp - Kisa;Länsväg
+Länsväg 136;136;Ottenby - Färjestaden - Borgholm - Byxelkrok - Nabbelund;Länsväg
+Länsväg 137;137;(Ölandsleden) Kalmar - Ölandsbron - Färjestaden;Länsväg
+Länsväg 140;140;Visby - Klintehamn - Fidenäs;Länsväg
+Länsväg 141;141;Klintehamn - Hemse;Länsväg
+Länsväg 142;142;Visby - Hemse - Fidenäs - Burgsvik;Länsväg
+Länsväg 143;143;Visby - Roma - Ljugarn;Länsväg
+Länsväg 144;144;Länsväg 143 Ljugarn - Hemse;Länsväg
+Länsväg 146;146;Slite - Boge - Ala Länsväg 143;Länsväg
+Länsväg 147;147;Visby - Slite - Lärbro;Länsväg
+Länsväg 148;148;Visby - Fårösund;Länsväg
+Länsväg 149;149;Visby - Kappelshamn - Lärbro;Länsväg
+Länsväg 150;150;Falkenberg - Torup;Länsväg
+Länsväg 151;151;Värnamo - Gnosjö;Länsväg
+Länsväg 152;152;Bredaryd - Skillingaryd;Länsväg
+Länsväg 153;153;Varberg - Ullared - Smålandsstenar - Bredaryd - Värnamo;Länsväg
+Länsväg 154;154;Falkenberg - Ullared - Hillared - Borås;Länsväg
+Länsväg 155;155;Göteborg - Öckerö;Länsväg
+Länsväg 156;156;Härryda - Kinna - Tranemo - Norra Unnaryd;Länsväg
+Länsväg 157;157;Ulricehamn - Limmared;Länsväg
+Länsväg 158;158;Göteborg - Särö - Kungsbacka;Länsväg
+Länsväg 160;160;Lanesund - Henån - Varekil - Stenungsund - Stora Höga;Länsväg
+Länsväg 161;161;Uddevalla - Lysekil;Länsväg
+Länsväg 162;162;Munkedal - Lysekil;Länsväg
+Länsväg 163;163;Dingle - Fjällbacka - Grebbestad - Bullarebygden och Smeberg;Länsväg
+Länsväg 164;164;Åmål - Billingsfors - Dals-Ed - Skee - Strömstad;Länsväg
+Länsväg 165;165;Dingle - Hällevadsholm - Holtet - norska gränsen;Länsväg
+Länsväg 166;166;Mellerud - Dals-Ed;Länsväg
+Länsväg 167;167;Lilla Edet - Ljungskile;Länsväg
+Länsväg 168;168;Kungälv - Marstrand;Länsväg
+Länsväg 169;169;Myggenäs - Rönnäng;Länsväg
+Länsväg 170;170;Från E6 till norra Stenungsund;Länsväg
+Länsväg 171;171;Hallinden - Hunnebostrand;Länsväg
+Länsväg 172;172;Uddevalla - Bengtsfors - Arvika;Länsväg
+Länsväg 173;173;Frändefors - Färgelanda;Länsväg
+Länsväg 174;174;Dingle - Smögen;Länsväg
+Länsväg 175;175;Säffle - Arvika;Länsväg
+Länsväg 176;176;Strömstad - Värmlandsbro;Länsväg
+Länsväg 177;177;Årjäng - Vännacka - Åmotfors;Länsväg
+Länsväg 178;178;Varekil - Ellös;Länsväg
+Länsväg 180;180;(Trollhättan) - Anten - Alingsås - Borås;Länsväg
+Länsväg 181;181;Vårgårda - Falköping;Länsväg
+Länsväg 182;182;Ulricehamn - Timmele - Vårgårda;Länsväg
+Länsväg 183;183;Fristad - Herrljunga;Länsväg
+Länsväg 184;184;Falköping - Skara - Lidköping;Länsväg
+Länsväg 185;185;Bottnaryd - Mullsjö;Länsväg
+Länsväg 186;186;Grästorp - Nossebro - Lekåsa;Länsväg
+Länsväg 187;187;Lidköping - Vara;Länsväg
+Länsväg 190;190;Hjällbo - Gråbo - Sollebrunn - Nossebro;Länsväg
+Länsväg 193;193;Falköping - Tidaholm - Hjo;Länsväg
+Länsväg 194;194;Skövde - Hjo;Länsväg
+Länsväg 195;195;Jönköping - Hjo - Karlsborg;Länsväg
+Länsväg 200;200;Otterbäcken - Hova - Skövde;Länsväg
+Länsväg 201;201;Mariestad - Hjo;Länsväg
+Länsväg 202;202;Mariestad - Hultet;Länsväg
+Länsväg 204;204;Gullspång-Vintrosa - Lanna;Länsväg
+Länsväg 205;205;Askersund - Laxå - Karlskoga-Hällefors;Länsväg
+Länsväg 206;206;Mantorp - Skänninge – Vadstena;Länsväg
+Länsväg 207;207;Örebro - Odensbacken;Länsväg
+Länsväg 209;209;Norrköping - Arkösund;Länsväg
+Länsväg 210;210;Norsholm - Söderköping - Tyrislöt;Länsväg
+Länsväg 211;211;Borensberg - Hjortkvarn;Länsväg
+Länsväg 212;212;Valdemarsvik - Gryt;Länsväg
+Länsväg 213;213;Björnsholm – Loftahammar;Länsväg
+Länsväg 214;214;Eskilstuna - Läppe;Länsväg
+Länsväg 215;215;Finspång - Norsholm;Länsväg
+Länsväg 216;216;Gammelsta - Dämbol;Länsväg
+Länsväg 218;218;Från E4 - Vagnhärad - Trosa;Länsväg
+Länsväg 219;219;Länsväg 223/Nyköping - Sjösa - Studsvik - Vagnhärad;Länsväg
+Länsväg 221;221;Riksväg 52 Bettna - Riksväg 55 Flen f.d. Riksväg 58;Länsväg
+Länsväg 222;222;Riksväg 75 Stockholm - Stavsnäs;Länsväg
+Länsväg 223;223;E4 Nyköping - Björnlunda - Läggesta E20 - Mariefred;Länsväg
+Länsväg 224;224;E4 Lästringe kyrka - Gnesta (Sigtunarondellen) Riksväg 57;Länsväg
+Länsväg 225;225;E4 Södertälje - Ösmo Riksväg 73;Länsväg
+Länsväg 226;226;Riksväg 75 Årsta – Huddinge - Vårsta Länsväg 225;Länsväg
+Länsväg 227;227;Riksväg 73 Handen - Dalarö;Länsväg
+Länsväg 228;228;Länsväg 222 Nacka - Saltsjöbaden;Länsväg
+Länsväg 229;229;Örby - Tyresö;Länsväg
+Länsväg 230;230;E20 Eskilstuna - Alberga;Länsväg
+Länsväg 233;233;Kopparberg - Ramnäs Riksväg 66;Länsväg
+Länsväg 236;236;Karlstad-Skoghall;Länsväg
+Länsväg 237;237;Karlskoga - Storfors;Länsväg
+Länsväg 238;238;Riksväg 61 Brunskog - Västra Ämtervik E45;Länsväg
+Länsväg 239;239;Riksväg 62 Ekshärad - Torsby E45;Länsväg
+Länsväg 240;240;E18 Väse – Molkom Riksväg 63 - Hagfors;Länsväg
+Länsväg 241;241;E45 Sunne - Munkfors Riksväg 62;Länsväg
+Länsväg 243;243;Åtorp - Degerfors – Karlskoga – Nora;Länsväg
+Länsväg 244;244;Hällefors - Nora Riksväg 50 Riksväg 68;Länsväg
+Länsväg 245;245;Ludvika - Fredriksberg - Hagfors - Uddeholm;Länsväg
+Länsväg 246;246;Filipstad - Hagfors;Länsväg
+Länsväg 249;249;Arboga - Lindesberg Riksväg 50 Riksväg 68;Länsväg
+Länsväg 250;250;E20 Kungsör - Köping - Fagersta Riksväg 66 Riksväg 68;Länsväg
+Länsväg 252;252;Kvicksund - Ramnäs;Länsväg
+Länsväg 254;254;Riksväg 72 Heby - Fjärdhundra Riksväg 70;Länsväg
+Länsväg 255;255;Uppsala - Märsta;Länsväg
+Länsväg 256;256;Sala - Norberg;Länsväg
+Länsväg 257;257;Länsväg 225 Rosenhill - Västerhaninge Riksväg 73;Länsväg
+Länsväg 258;258;Hågelbyleden: E4 Alby - Tumba Länsväg 226;Länsväg
+Länsväg 259;259;Botkyrkaleden: E4 Fittja Haninge Riksväg 73;Länsväg
+Länsväg 260;260;Stockholm – Nacka - Handen;Länsväg
+Länsväg 261;261;Stockholm(Brommaplan) - Ekerö;Länsväg
+Länsväg 262;262;Häggvik - Danderyd;Länsväg
+Länsväg 263;263;Märsta - Skölsta (Enköping);Länsväg
+Länsväg 264;264;Arninge - Vallentuna;Länsväg
+Länsväg 265;265;Häggvik - Rosenkälla;Länsväg
+Länsväg 267;267;Stäket - Rotebro;Länsväg
+Länsväg 268;268;Upplands Väsby - Brottby;Länsväg
+Länsväg 269;269;Bro – Håtunaholm (Skokloster);Länsväg
+Länsväg 270;270;Hedemora - Ängelsfors (Hofors);Länsväg
+Länsväg 271;271;Västertorp – Farsta - Trångsund;Länsväg
+Länsväg 272;272;Uppsala - Gysinge - Sandviken - Ockelbo - Sibo (- Bollnäs) Riksväg 83;Länsväg
+Länsväg 273;273;Märsta/Arlandastad - Arlanda - Almunge - Alunda;Länsväg
+Länsväg 274;274;Arninge – Vaxholm - Ålstäket (Gustavsberg);Länsväg
+Länsväg 275;275;Stockholm - Vällingby – Sollentuna;Länsväg
+Länsväg 276;276;Rosenkälla - Åkersberga - Norrtälje;Länsväg
+Länsväg 277;277;Stockholm - Lidingö;Länsväg
+Länsväg 278;278;Norrtälje - Furusund;Länsväg
+Länsväg 279;279;Ulvsunda - Helenelund;Länsväg
+Länsväg 280;280;E18 Söderhall - Rimbo - Ekensborg Riksväg 76;Länsväg
+Länsväg 282;282;Uppsala - Edsbro;Länsväg
+Länsväg 283;283;Riksväg 76 Svanberga - Grisslehamn;Länsväg
+Länsväg 288;288;Uppsala - Östhammar Riksväg 76;Länsväg
+Länsväg 290;290;Uppsala - Forsmark;Länsväg
+Länsväg 291;291;Mehedeby - Älvkarleby Riksväg 76;Länsväg
+Länsväg 292;292;Söderfors - Tierp - Österbybruk - Harg Riksväg 76;Länsväg
+Länsväg 293;293;Falun - Norr Amsberg;Länsväg
+Länsväg 296;296;(E45) Orsa - Voxna - Los - Ytterhogdal (E45);Länsväg
+Länsväg 301;301;Alfta - Edsbyn - Rättvik;Länsväg
+Länsväg 302;302;Kungsgården - Medskog;Länsväg
+Länsväg 303;303;Ockelbo - Hagsta;Länsväg
+Länsväg 305;305;Delsbo - Hassela - Stöde;Länsväg
+Länsväg 307;307;Jättendal - Hassela;Länsväg
+Länsväg 310;310;(E45) Västbacka - Los - Korskrogen (Riksväg 84);Länsväg
+Länsväg 311;311;Sälen - Särna - Tännäs;Länsväg
+Länsväg 314;314;Ytterhogdal - Kölsillre;Länsväg
+Länsväg 315;315;Hedlanda - Östavall;Länsväg
+Länsväg 316;316;Klövsjö - Åsarna;Länsväg
+Länsväg 320;320;Kovland - Kälarne;Länsväg
+Länsväg 321;321;Svenstavik - Mattmar(Åre);Länsväg
+Länsväg 322;322;Staa (Åre) - Skalstugan - norska gränsen;Länsväg
+Länsväg 323;323;Bräcke - Hammarstrand;Länsväg
+Länsväg 330;330;Indal - Bergeforsen;Länsväg
+Länsväg 331;331;Bergeforsen - Backe;Länsväg
+Länsväg 332;332;Lunde - Gallsätter;Länsväg
+Länsväg 333;333;Bollstabruk - Sandslån;Länsväg
+Länsväg 334;334;Lugnvik - Överlännäs;Länsväg
+Länsväg 335;335;Sollefteå - Örnsköldsvik;Länsväg
+Länsväg 336;336;Järpen - Kall - norska gränsen;Länsväg
+Länsväg 339;339;Krokom - Föllinge - Strömsund;Länsväg
+Länsväg 340;340;Krokom - Valsjöbyn - norska gränsen;Länsväg
+Länsväg 342;342;Strömsund - Gäddede - norska gränsen;Länsväg
+Länsväg 344;344;Lillholmsjö - Föllinge - Hammerdal - Selsviken;Länsväg
+Länsväg 345;345;Strömsund - Ramsele;Länsväg
+Länsväg 346;346;Hoting - Junsele;Länsväg
+Länsväg 348;348;Örnsköldsvik - Hälla(Åsele);Länsväg
+Länsväg 352;352;Örnsköldsvik - Fredrika;Länsväg
+Länsväg 353;353;Nordmaling - Bjurholm - Lycksele;Länsväg
+Länsväg 356;356;Älvsbyn - Boden - Niemisel - Morjärv;Länsväg
+Länsväg 360;360;Lycksele - Vilhelmina;Länsväg
+Länsväg 363;363;Umeå - Vindeln - Rusksele - Sorsele - Ammarnäs;Länsväg
+Länsväg 364;364;Umeå - Botsmark - Burträsk - Skellefteå;Länsväg
+Länsväg 365;365;Åsele - Lycksele - Glommersträsk;Länsväg
+Länsväg 370;370;Boliden - Malå - Holmfors;Länsväg
+Länsväg 372;372;Skellefteå - Skelleftehamn;Länsväg
+Länsväg 373;373;Piteå - Abborrträsk (Arvidsjaur);Länsväg
+Länsväg 374;374;Piteå - Älvsbyn - Ottostorp (Jokkmokk);Länsväg
+Länsväg 383;383;Börjelslandet - Boden;Länsväg
+Länsväg 392;392;Överkalix - Korpilombolo - Pajala;Länsväg
+Länsväg 394;394;Gällivare - Tärendö - Pajala;Länsväg
+Länsväg 395;395;Pajala - Junosuando - Vittangi;Länsväg
+Länsväg 398;398;Sangis - Hedenäset;Länsväg
+Länsväg 402;402;Riksväg 99 - Pello - finska gränsen;Länsväg
+Länsväg 403;403;Pajala - Kaunisjoensuu - finska gränsen;Länsväg
+Länsväg 404;404;Muodoslompolo - Muoniovaara - finska gränsen;Länsväg
