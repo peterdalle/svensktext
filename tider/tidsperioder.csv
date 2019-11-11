@@ -1,0 +1,20 @@
+name,duration,duration_seconds
+millenium,1000 år,31557600000
+sekel,100 år,3155760000
+decennium,10 år,315576000
+lustrun,5 år,157788000
+år,12 månader,31557600
+halvår,6 månader,15778800
+tertial,4 månader,10519200
+kvartal,3 månader,7889400
+månad,28-31 dygn,2629800
+vecka,7 dygn,604800
+dygn,24 timmar,86400
+natt,12 timmar,43200
+dag,12 timmar,43200
+timme,60 minuter,3600
+halvtimme,30 minuter,1800
+Kvartal,15 minuter,900
+ke,1/100 dygn,864
+minut,60 sekunder,60
+sekund,1 sekund,1
