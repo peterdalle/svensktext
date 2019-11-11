@@ -26,6 +26,7 @@ Platser          | [Landskoder](platser/)                | 245     | Landskoder 
 Platser          | [Valutor](platser/)                   | 245     | Länder och deras valutor och valutakoder (ISO 4217)
 Platser          | [Vägar](platser/)                     | 278     | Svenska Europavägar, riksvägar och landsvägar
 Tider            | [Helgdagar](tider/)                   | 23      | Svenska helgdagar
+Tider            | [Tidsperioder](tider/)                | 19      | Tidsenheter och tidsintervall
 Ord              | [Lemma](lemma/)                       | 675137  | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
 Ord              | [Stoppord](stoppord/)                 | 427     | Svenska stoppord
 Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska politiska stoppord
