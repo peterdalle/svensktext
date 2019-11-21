@@ -14,7 +14,7 @@ natt,12 timmar,43200
 dag,12 timmar,43200
 timme,60 minuter,3600
 halvtimme,30 minuter,1800
-kvartal,15 minuter,900
+kvart,15 minuter,900
 ke,1/100 dygn,864
 minut,60 sekunder,60
 sekund,1 sekund,1
