@@ -31,3 +31,29 @@ Kolumn | Beskrivning | Datatyp
 ### Källa
 
 - https://sv.wikipedia.org/wiki/Tidsperiod
+
+## Månader
+
+### Filer
+
+- 12 månader ([CSV](manader.csv))
+
+### Datastruktur
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`number` | Månadens nummer, 1 till 12 | Heltal
+`name` | Namnet på månaden | Text
+
+## Veckodag
+
+### Filer
+
+- 7 veckodagar ([CSV](veckodag.csv))
+
+### Datastruktur
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`number` | Veckodagens nummer, 1 till 7 | Heltal
+`name` | Namnet på veckodagen | Text

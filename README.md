@@ -27,6 +27,8 @@ Platser          | [Valutor](platser/)                   | 245     | Länder och
 Platser          | [Vägar](platser/)                     | 278     | Svenska Europavägar, riksvägar och landsvägar
 Tider            | [Helgdagar](tider/)                   | 23      | Svenska helgdagar
 Tider            | [Tidsperioder](tider/)                | 19      | Tidsenheter och tidsintervall
+Tider            | [Månader](tider/)                     | 12      | Månader januari till december
+Tider            | [Veckodagar](tider/)                  | 7       | Veckodagar måndag till söndag
 Ord              | [Lemma](lemma/)                       | 675137  | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
 Ord              | [Stoppord](stoppord/)                 | 427     | Svenska stoppord
 Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska politiska stoppord
