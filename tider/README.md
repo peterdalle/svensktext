@@ -49,7 +49,7 @@ Kolumn | Beskrivning | Datatyp
 
 ### Filer
 
-- 7 veckodagar ([CSV](veckodag.csv))
+- 7 veckodagar ([CSV](veckodagar.csv))
 
 ### Datastruktur
 
