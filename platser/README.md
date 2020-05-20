@@ -158,3 +158,24 @@ Kolumn | Beskrivning | Datatyp
 ### Källa
 
 - https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_v%C3%A4gar_i_nummerordning
+
+## Källkod
+
+### Python
+
+```py
+# Import.
+import pandas as pd
+url = "https://raw.githubusercontent.com/peterdalle/svensktext/master/platser/lander.csv"
+df_countries = pd.read_csv(url, encoding="utf8")
+```
+
+### R
+
+```r
+# Import.
+url <- "https://raw.githubusercontent.com/peterdalle/svensktext/master/platser/lander.csv"
+df_countries <- read.csv(url, sep=",", encoding="UTF-8", stringsAsFactors=FALSE, 
+                         header=TRUE, col.names=c("country", "capital"))
+
+```
