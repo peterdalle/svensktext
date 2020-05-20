@@ -179,6 +179,6 @@ df_countries = pd.read_csv(url, encoding="utf8")
 # Import.
 url <- "https://raw.githubusercontent.com/peterdalle/svensktext/master/platser/lander.csv"
 df_countries <- read.csv(url, sep=",", encoding="UTF-8", stringsAsFactors=FALSE, 
-                         header=TRUE, col.names=c("country", "capital"))
+                         header=TRUE, col.names=c("country", "capital", "continent", "alternative_name"))
 
 ```
