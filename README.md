@@ -35,7 +35,7 @@ Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska pol
 Ord              | [Sentimentlexikon](sentiment/)        | 2067    | Positiva och negativa svenska ord
 Jobb             | [Yrken](yrken/)                       | 13833   | Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 Organisationer   | [Medier](organisationer/)             | 158     | Domäner till svenska massmedier och nyhetsmedier
-Organisationer   | [Myndigheter](organisationer/)        | -       | Namn på svenska myndigheter
+Organisationer   | [Myndigheter](organisationer/)        | 354     | Namn på svenska myndigheter
 Organisationer   | [EU-institutioner](organisationer/)   | 17      | Namn på EU:s institutioner och organ
 Wikipedia        | [Wikipedia-titlar](wikipedia/)        | 6130751 | Alla titlar på svenska Wikipedia-sidor
 

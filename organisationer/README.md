@@ -22,9 +22,17 @@ Kolumn | Beskrivning | Datatyp
 
 ### Filer
 
-Namn på svenska myndigheter. Textfiler exporterade direkt från SCB. 
+- 354 svenska myndigheter ([TSV](myndigheter.tsv))
 
-*Att göra: gör om till CSV.*
+Svenska ambassader är inte med eftersom de består av variationer av samma fras (exempelvis "Sveriges ambassad i Berlin").
+
+### Datastruktur
+
+Kolumn | Beskrivning | Datatyp
+:------- | :----------  | :----------
+`type` | En av fem kategoriseringar av myndigheterna enligt SCB (`AP-fond`, `Myndighet under riksdagen`, `Statligt affärsverk`, `Statlig förvaltningsmyndighet` eller `Domstol`) | Text
+`name` | Svenskt namn på myndigheten | Text
+`city` | Stad där myndigheten finns | Text
 
 ### Källa
 

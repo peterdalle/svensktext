@@ -1,0 +1,355 @@
+type	name	city
+AP-fond	Första AP-fonden	Stockholm
+AP-fond	Andra AP-fonden	Göteborg
+AP-fond	Tredje AP-fonden	Stockholm
+AP-fond	Fjärde AP-fonden	Stockholm
+AP-fond	Sjätte AP-fonden	Göteborg
+AP-fond	Sjunde AP-fonden	Stockholm
+Myndighet under riksdagen	Riksdagens ombudsmän	Stockholm
+Myndighet under riksdagen	Riksdagsförvaltningen	Stockholm
+Myndighet under riksdagen	Riksrevisionen	Stockholm
+Myndighet under riksdagen	Sveriges riksbank	Stockholm
+Statligt affärsverk	Luftfartsverket	Norrköping
+Statligt affärsverk	Sjöfartsverket	Norrköping
+Statligt affärsverk	Svenska kraftnät	Sundbyberg
+Statligt förvaltningsmyndighet	Alkoholsortimentsnämnden	
+Statligt förvaltningsmyndighet	Allmänna reklamationsnämnden	Stockholm
+Statligt förvaltningsmyndighet	Ansvarsnämnden för djurens hälso- och sjukvård	
+Statligt förvaltningsmyndighet	Arbetsförmedlingen	Stockholm
+Statligt förvaltningsmyndighet	Arbetsgivarverket	Stockholm
+Statligt förvaltningsmyndighet	Arbetsmiljöverket (av)	Stockholm
+Statligt förvaltningsmyndighet	Arvfondsdelegationen	Stockholm
+Statligt förvaltningsmyndighet	Barnombudsmannen	Stockholm
+Statligt förvaltningsmyndighet	Blekinge tekniska högskola	Karlskrona
+Statligt förvaltningsmyndighet	Bokföringsnämnden	Stockholm
+Statligt förvaltningsmyndighet	Bolagsverket	Sundsvall
+Statligt förvaltningsmyndighet	Boverket	Karlskrona
+Statligt förvaltningsmyndighet	Brottsförebyggande rådet	Stockholm
+Statligt förvaltningsmyndighet	Brottsoffermyndigheten	Umeå
+Statligt förvaltningsmyndighet	Centrala djurförsöksetiska nämnden	
+Statligt förvaltningsmyndighet	Centrala etikprövningsnämnden	Stockholm
+Statligt förvaltningsmyndighet	Centrala studiestödsnämnden	Sundsvall
+Statligt förvaltningsmyndighet	Datainspektionen	Stockholm
+Statligt förvaltningsmyndighet	Delegationen för folkrättslig granskning av vapenprojekt	
+Statligt förvaltningsmyndighet	Delegationen mot segregation	Huddinge
+Statligt förvaltningsmyndighet	Diskrimineringsombudsmannen	Solna
+Statligt förvaltningsmyndighet	Domarnämnden	Stockholm
+Statligt förvaltningsmyndighet	E-hälsomyndigheten	Kalmar
+Statligt förvaltningsmyndighet	Ekobrottsmyndigheten	Stockholm
+Statligt förvaltningsmyndighet	Ekonomistyrningsverket	Stockholm
+Statligt förvaltningsmyndighet	E-legitimationsnämnden	
+Statligt förvaltningsmyndighet	Elsäkerhetsverket	Kristinehamn
+Statligt förvaltningsmyndighet	Energimarknadsinspektionen	Eskilstuna
+Statligt förvaltningsmyndighet	Exportkreditnämnden	Stockholm
+Statligt förvaltningsmyndighet	Fastighetsmäklarinspektionen	Karlstad
+Statligt förvaltningsmyndighet	Fideikommissnämnden	
+Statligt förvaltningsmyndighet	Finansinspektionen	Stockholm
+Statligt förvaltningsmyndighet	Finanspolitiska rådet	Stockholm
+Statligt förvaltningsmyndighet	Folke bernadotteakademin	Sandöverken
+Statligt förvaltningsmyndighet	Folkhälsomyndigheten	Solna
+Statligt förvaltningsmyndighet	Forskarskattenämnden	
+Statligt förvaltningsmyndighet	Forskningsrådet f miljö arella näringar och samh	Stockholm
+Statligt förvaltningsmyndighet	Forskningsrådet för hälsa, arbetsliv och välfärd	Stockholm
+Statligt förvaltningsmyndighet	Fortifikationsverket	Eskilstuna
+Statligt förvaltningsmyndighet	Forum för levande historia	Stockholm
+Statligt förvaltningsmyndighet	Försvarets materielverk	Stockholm
+Statligt förvaltningsmyndighet	Försvarets radioanstalt	Drottningholm
+Statligt förvaltningsmyndighet	Försvarshögskolan	Stockholm
+Statligt förvaltningsmyndighet	Försvarsmakten	Stockholm
+Statligt förvaltningsmyndighet	Försäkringskassan	Hägersten
+Statligt förvaltningsmyndighet	Gentekniknämnden	Solna
+Statligt förvaltningsmyndighet	Granskningsnämnden för försvarsuppfinningar	
+Statligt förvaltningsmyndighet	Gymnastik- och idrottshögskolan (gih)	Stockholm
+Statligt förvaltningsmyndighet	Göteborgs universitet	Göteborg
+Statligt förvaltningsmyndighet	Harpsundsnämnden	Mellösa
+Statligt förvaltningsmyndighet	Havs- och vattenmyndigheten	Göteborg
+Statligt förvaltningsmyndighet	Hälso- & sjukvårdens ansvarsnämnd	
+Statligt förvaltningsmyndighet	Högskolan dalarna	Falun
+Statligt förvaltningsmyndighet	Högskolan i Borås	Borås
+Statligt förvaltningsmyndighet	Högskolan i Gävle	Gävle
+Statligt förvaltningsmyndighet	Högskolan i Halmstad	Halmstad
+Statligt förvaltningsmyndighet	Högskolan i Kristianstad	Kristianstad
+Statligt förvaltningsmyndighet	Högskolan i Skövde	Skövde
+Statligt förvaltningsmyndighet	Högskolan väst	Trollhättan
+Statligt förvaltningsmyndighet	Högskolans avskiljandenämnd	
+Statligt förvaltningsmyndighet	Ilo-kommittén	
+Statligt förvaltningsmyndighet	Inspektionen för arbetslöshetsförsäkring	Katrineholm
+Statligt förvaltningsmyndighet	Inspektionen för socialförsäkringen	Stockholm
+Statligt förvaltningsmyndighet	Inspektionen för strategiska produkter	Kista
+Statligt förvaltningsmyndighet	Inspektionen för vård och omsorg	Stockholm
+Statligt förvaltningsmyndighet	Institutet för arbetsmarknads-och utbildningspolitisk utvärdering	Uppsala
+Statligt förvaltningsmyndighet	Institutet för rymdfysik	Kiruna
+Statligt förvaltningsmyndighet	Institutet för språk och folkminnen	Uppsala
+Statligt förvaltningsmyndighet	Justitiekanslern	Stockholm
+Statligt förvaltningsmyndighet	Jämställdhetsmyndigheten	Angered
+Statligt förvaltningsmyndighet	Kammarkollegiet	Stockholm
+Statligt förvaltningsmyndighet	Karlstads universitet	Karlstad
+Statligt förvaltningsmyndighet	Karolinska institutet	Solna
+Statligt förvaltningsmyndighet	Kemikalieinspektionen	Sundbyberg
+Statligt förvaltningsmyndighet	Klimatpolitiska rådet	
+Statligt förvaltningsmyndighet	Kommerskollegium	Stockholm
+Statligt förvaltningsmyndighet	Konjunkturinstitutet	Stockholm
+Statligt förvaltningsmyndighet	Konkurrensverket	Stockholm
+Statligt förvaltningsmyndighet	Konstfack	Hägersten
+Statligt förvaltningsmyndighet	Konstnärsnämnden	Stockholm
+Statligt förvaltningsmyndighet	Konsumentverket	Karlstad
+Statligt förvaltningsmyndighet	Krigsförsäkringsnämnden	
+Statligt förvaltningsmyndighet	Kriminalvården	Norrköping
+Statligt förvaltningsmyndighet	Kronofogdemyndigheten	Sundbyberg
+Statligt förvaltningsmyndighet	Kungliga biblioteket	Stockholm
+Statligt förvaltningsmyndighet	Kungliga konsthögskolan	Stockholm
+Statligt förvaltningsmyndighet	Kungliga musikhögskolan	Stockholm
+Statligt förvaltningsmyndighet	Kungliga tekniska högskolan	Stockholm
+Statligt förvaltningsmyndighet	Kustbevakningen	Karlskrona
+Statligt förvaltningsmyndighet	Kärnavfallsfonden	Stockholm
+Statligt förvaltningsmyndighet	Lagrådet	
+Statligt förvaltningsmyndighet	Lantmäteriet	Gävle
+Statligt förvaltningsmyndighet	Linköpings universitet	Linköping
+Statligt förvaltningsmyndighet	Linnéuniversitetet	Växjö
+Statligt förvaltningsmyndighet	Livrustkammaren och skoklosters slott med stiftelsen hallwylska museet	
+Statligt förvaltningsmyndighet	Livsmedelsverket	Uppsala
+Statligt förvaltningsmyndighet	Lokala säkerhetsnämnden vid Barsebäck	
+Statligt förvaltningsmyndighet	Lokala säkerhetsnämnden vid Forsmark	
+Statligt förvaltningsmyndighet	Lokala säkerhetsnämnden vid Oskarshamn	
+Statligt förvaltningsmyndighet	Lokala säkerhetsnämnden vid Ringhals	
+Statligt förvaltningsmyndighet	Lokala säkerhetsnämnden vid Studsvik	
+Statligt förvaltningsmyndighet	Lotteriinspektionen	Strängnäs
+Statligt förvaltningsmyndighet	Luleå tekniska universitet	Luleå
+Statligt förvaltningsmyndighet	Lunds universitet	Lund
+Statligt förvaltningsmyndighet	Läkemedelsverket	Uppsala
+Statligt förvaltningsmyndighet	Länsstyrelsen i Blekinge län	Karlskrona
+Statligt förvaltningsmyndighet	Länsstyrelsen i Dalarnas län	Falun
+Statligt förvaltningsmyndighet	Länsstyrelsen i Gotlands län	Visby
+Statligt förvaltningsmyndighet	Länsstyrelsen i Gävleborgs län	Gävle
+Statligt förvaltningsmyndighet	Länsstyrelsen i Hallands län	Halmstad
+Statligt förvaltningsmyndighet	Länsstyrelsen i Jämtlands län	Östersund
+Statligt förvaltningsmyndighet	Länsstyrelsen i Jönköpings län	Jönköping
+Statligt förvaltningsmyndighet	Länsstyrelsen i Kalmar län	Kalmar
+Statligt förvaltningsmyndighet	Länsstyrelsen i Kronobergs län	Växjö
+Statligt förvaltningsmyndighet	Länsstyrelsen i Norrbottens län	Luleå
+Statligt förvaltningsmyndighet	Länsstyrelsen i Skåne län	Malmö
+Statligt förvaltningsmyndighet	Länsstyrelsen i Stockholms län	Stockholm
+Statligt förvaltningsmyndighet	Länsstyrelsen i Södermanlands län	Nyköping
+Statligt förvaltningsmyndighet	Länsstyrelsen i Uppsala län	Uppsala
+Statligt förvaltningsmyndighet	Länsstyrelsen i Värmlands län	Karlstad
+Statligt förvaltningsmyndighet	Länsstyrelsen i Västerbottens län	Umeå
+Statligt förvaltningsmyndighet	Länsstyrelsen i Västernorrlands län	Härnösand
+Statligt förvaltningsmyndighet	Länsstyrelsen i Västmanlands län	Västerås
+Statligt förvaltningsmyndighet	Länsstyrelsen i Västra götalands län	Göteborg
+Statligt förvaltningsmyndighet	Länsstyrelsen i Örebro län	Örebro
+Statligt förvaltningsmyndighet	Länsstyrelsen i Östergötlands län	Linköping
+Statligt förvaltningsmyndighet	Malmö universitet	Malmö
+Statligt förvaltningsmyndighet	Medlingsinstitutet	Stockholm
+Statligt förvaltningsmyndighet	Migrationsverket	Norrköping
+Statligt förvaltningsmyndighet	Mittuniversitetet	Sundsvall
+Statligt förvaltningsmyndighet	Moderna museet	Stockholm
+Statligt förvaltningsmyndighet	Myndigheten för arbetsmiljökunskap	Gävle
+Statligt förvaltningsmyndighet	Myndigheten för delaktighet	Sundbyberg
+Statligt förvaltningsmyndighet	Myndigheten för digital förvaltning	Sundsvall
+Statligt förvaltningsmyndighet	Myndigheten för familjerätt och föräldraskapsstöd	Stockholm
+Statligt förvaltningsmyndighet	Myndigheten för kulturanalys	Stockholm
+Statligt förvaltningsmyndighet	Myndigheten för press, radio och tv	Johanneshov
+Statligt förvaltningsmyndighet	Myndigheten för samhällsskydd och beredskap (msb)	Karlstad
+Statligt förvaltningsmyndighet	Myndigheten för stöd till trossamfund	Bromma
+Statligt förvaltningsmyndighet	Myndigheten för tillgängliga medier	Johanneshov
+Statligt förvaltningsmyndighet	Myndigheten för tillväxtpolitiska utvärderingar och analyser	Östersund
+Statligt förvaltningsmyndighet	Myndigheten för ungdoms-och civilsamhällesfrågor	Stockholm
+Statligt förvaltningsmyndighet	Myndigheten för vård- och omsorgsanalys	Stockholm
+Statligt förvaltningsmyndighet	Myndigheten för yrkeshögskolan	Västerås
+Statligt förvaltningsmyndighet	Mälardalens högskola	Västerås
+Statligt förvaltningsmyndighet	Nationalmuseum	Stockholm
+Statligt förvaltningsmyndighet	Naturhistoriska riksmuseet	Stockholm
+Statligt förvaltningsmyndighet	Naturvårdsverket	Stockholm
+Statligt förvaltningsmyndighet	Nordiska afrikainstitutet	Uppsala
+Statligt förvaltningsmyndighet	Notarienämnden	
+Statligt förvaltningsmyndighet	Nämnden för hemslöjdsfrågor	Stockholm
+Statligt förvaltningsmyndighet	Nämnden för styrelserepresentationsfrågor	
+Statligt förvaltningsmyndighet	Nämnden mot diskriminering	
+Statligt förvaltningsmyndighet	Oljekrisnämnden	
+Statligt förvaltningsmyndighet	Patent- och registreringsverket	Stockholm
+Statligt förvaltningsmyndighet	Patentombudsnämnden	Sundsvall
+Statligt förvaltningsmyndighet	Pensionsmyndigheten	Stockholm
+Statligt förvaltningsmyndighet	Polarforskningssekretariatet	Stockholm
+Statligt förvaltningsmyndighet	Polismyndigheten	Stockholm
+Statligt förvaltningsmyndighet	Post- och telestyrelsen	Stockholm
+Statligt förvaltningsmyndighet	Regeringskansliet	Stockholm
+Statligt förvaltningsmyndighet	Regionala etikprövningsnämnden i Göteborg	Göteborg
+Statligt förvaltningsmyndighet	Regionala etikprövningsnämnden i Linköping	Linköping
+Statligt förvaltningsmyndighet	Regionala etikprövningsnämnden i Lund	Lund
+Statligt förvaltningsmyndighet	Regionala etikprövningsnämnden i Stockholm	Solna
+Statligt förvaltningsmyndighet	Regionala etikprövningsnämnden i Umeå	Umeå
+Statligt förvaltningsmyndighet	Regionala etikprövningsnämnden i Uppsala	Uppsala
+Statligt förvaltningsmyndighet	Resegarantinämnden	
+Statligt förvaltningsmyndighet	Revisorsinspektionen	Stockholm
+Statligt förvaltningsmyndighet	Riksantikvarieämbetet	Stockholm
+Statligt förvaltningsmyndighet	Riksarkivet	Stockholm
+Statligt förvaltningsmyndighet	Riksdagens arvodesnämnd	
+Statligt förvaltningsmyndighet	Riksgäldskontoret	Stockholm
+Statligt förvaltningsmyndighet	Riksvärderingsnämnden	
+Statligt förvaltningsmyndighet	Rymdstyrelsen	Solna
+Statligt förvaltningsmyndighet	Rättshjälpnämnden	
+Statligt förvaltningsmyndighet	Rättshjälpsmyndigheten	
+Statligt förvaltningsmyndighet	Rättsmedicinalverket	Stockholm
+Statligt förvaltningsmyndighet	Sameskolstyrelsen	Jokkmokk
+Statligt förvaltningsmyndighet	Sametinget	Kiruna
+Statligt förvaltningsmyndighet	Sida	Stockholm
+Statligt förvaltningsmyndighet	Skatterättsnämnden	
+Statligt förvaltningsmyndighet	Skatteverket	Solna
+Statligt förvaltningsmyndighet	Skiljenämnden i vissa trygghetsfrågor	
+Statligt förvaltningsmyndighet	Skogsstyrelsen	Jönköping
+Statligt förvaltningsmyndighet	Skolforskningsinstitutet	Solna
+Statligt förvaltningsmyndighet	Skolväsendets överklagandenämnd	
+Statligt förvaltningsmyndighet	Socialstyrelsen	Stockholm
+Statligt förvaltningsmyndighet	Specialpedagogiska skolmyndigheten	Härnösand
+Statligt förvaltningsmyndighet	Statens ansvarsnämnd	
+Statligt förvaltningsmyndighet	Statens beredning för medicinsk och social utvärdering	Stockholm
+Statligt förvaltningsmyndighet	Statens centrum för arkitektur och design	Stockholm
+Statligt förvaltningsmyndighet	Statens energimyndighet	Eskilstuna
+Statligt förvaltningsmyndighet	Statens fastighetsverk	Stockholm
+Statligt förvaltningsmyndighet	Statens försvarshistoriska museer	Stockholm
+Statligt förvaltningsmyndighet	Statens geotekniska institut	Linköping
+Statligt förvaltningsmyndighet	Statens haverikommission	Stockholm
+Statligt förvaltningsmyndighet	Statens historiska museer	Stockholm
+Statligt förvaltningsmyndighet	Statens inspektion för försvarsunderrättelseverksamheten (siun)	Kista
+Statligt förvaltningsmyndighet	Statens institutionsstyrelse	Stockholm
+Statligt förvaltningsmyndighet	Statens jordbruksverk	Jönköping
+Statligt förvaltningsmyndighet	Statens konstråd	Stockholm
+Statligt förvaltningsmyndighet	Statens kulturråd	Stockholm
+Statligt förvaltningsmyndighet	Statens maritima museer	Karlskrona
+Statligt förvaltningsmyndighet	Statens medieråd	Stockholm
+Statligt förvaltningsmyndighet	Statens museer för världskultur	Göteborg
+Statligt förvaltningsmyndighet	Statens musikverk	Stockholm
+Statligt förvaltningsmyndighet	Statens nämnd för arbetstagares uppfinningar	
+Statligt förvaltningsmyndighet	Statens servicecenter	Gävle
+Statligt förvaltningsmyndighet	Statens skaderegleringsnämnd	
+Statligt förvaltningsmyndighet	Statens skolinspektion	Stockholm
+Statligt förvaltningsmyndighet	Statens skolverk	Stockholm
+Statligt förvaltningsmyndighet	Statens tjänstepensions- och grupplivnämnd	
+Statligt förvaltningsmyndighet	Statens tjänstepensionsverk	Sundsvall
+Statligt förvaltningsmyndighet	Statens veterinärmedicinska anstalt	Uppsala
+Statligt förvaltningsmyndighet	Statens väg- och transportforskningsinstitut	Linköping
+Statligt förvaltningsmyndighet	Statens överklagandenämnd	
+Statligt förvaltningsmyndighet	Statistiska centralbyrån	Örebro
+Statligt förvaltningsmyndighet	Statskontoret	Stockholm
+Statligt förvaltningsmyndighet	Stockholms konstnärliga högskola	Stockholm
+Statligt förvaltningsmyndighet	Stockholms universitet	Stockholm
+Statligt förvaltningsmyndighet	Strålsäkerhetsmyndigheten	Solna
+Statligt förvaltningsmyndighet	Styrelsen för ackreditering och teknisk kontroll	Borås
+Statligt förvaltningsmyndighet	Styrelsen för samefonden	
+Statligt förvaltningsmyndighet	Svenska esf-rådet	Stockholm
+Statligt förvaltningsmyndighet	Svenska fao-kommittén	
+Statligt förvaltningsmyndighet	Svenska institutet	Stockholm
+Statligt förvaltningsmyndighet	Svenska institutet för europapolitiska studier	Stockholm
+Statligt förvaltningsmyndighet	Sveriges författarfond	Stockholm
+Statligt förvaltningsmyndighet	Sveriges geologiska undersökning	Uppsala
+Statligt förvaltningsmyndighet	Sveriges lantbruksuniversitet	Uppsala
+Statligt förvaltningsmyndighet	Sveriges meteorologiska och hydrologiska institut	Norrköping
+Statligt förvaltningsmyndighet	Säkerhets- och integritetsskyddsnämnden	Stockholm
+Statligt förvaltningsmyndighet	Säkerhetspolisen	Solna
+Statligt förvaltningsmyndighet	Södertörns högskola	Huddinge
+Statligt förvaltningsmyndighet	Tandvårds-och läkemedelsförmånsverket, tlv	Stockholm
+Statligt förvaltningsmyndighet	Tillväxtverket	Stockholm
+Statligt förvaltningsmyndighet	Totalförsvarets forskningsinstitut, foi	Kista
+Statligt förvaltningsmyndighet	Totalförsvarets rekryteringsmyndighet	Karlstad
+Statligt förvaltningsmyndighet	Trafikanalys	Stockholm
+Statligt förvaltningsmyndighet	Trafikverket	Borlänge
+Statligt förvaltningsmyndighet	Transportstyrelsen	Norrköping
+Statligt förvaltningsmyndighet	Tullverket	Stockholm
+Statligt förvaltningsmyndighet	Umeå universitet	Umeå
+Statligt förvaltningsmyndighet	Universitets- och högskolerådet	Stockholm
+Statligt förvaltningsmyndighet	Universitetskanslersämbetet	Stockholm
+Statligt förvaltningsmyndighet	Upphandlingsmyndigheten	Solna
+Statligt förvaltningsmyndighet	Uppsala universitet	Uppsala
+Statligt förvaltningsmyndighet	Utrikesförvaltningens antagningsnämnd	
+Statligt förvaltningsmyndighet	Valmyndigheten	
+Statligt förvaltningsmyndighet	Verket för innovationssystem	Stockholm
+Statligt förvaltningsmyndighet	Vetenskapsrådet	Stockholm
+Statligt förvaltningsmyndighet	Åklagarmyndigheten	Stockholm
+Statligt förvaltningsmyndighet	Örebro universitet	Örebro
+Statligt förvaltningsmyndighet	Överklagandenämnden för högskolan	
+Statligt förvaltningsmyndighet	Överklagandenämnden för nämndemannauppdrag	
+Statligt förvaltningsmyndighet	Överklagandenämnden för studiestöd	Härnösand
+Domstol	Arbetsdomstolen	Stockholm
+Domstol	Domstolsverket	Jönköping
+Domstol	Försvarsunderrättelsedomstolen	Kista
+Domstol	Alingsås tingsrätt	Alingsås
+Domstol	Attunda tingsrätt	Sollentuna
+Domstol	Blekinge tingsrätt	Karlskrona
+Domstol	Borås tingsrätt	Borås
+Domstol	Eksjö tingsrätt	Eksjö
+Domstol	Eskilstuna tingsrätt	Eskilstuna
+Domstol	Falu tingsrätt	Falun
+Domstol	Förvaltningsrätten i Falun	Falun
+Domstol	Förvaltningsrätten i Göteborg och migrationsdoms	Göteborg
+Domstol	Förvaltningsrätten i Härnösand	Härnösand
+Domstol	Förvaltningsrätten i Jönköping	Jönköping
+Domstol	Förvaltningsrätten i Karlstad	Karlstad
+Domstol	Förvaltningsrätten i Linköping	Linköping
+Domstol	Förvaltningsrätten i Luleå och migrationsdomstol	Luleå
+Domstol	Förvaltningsrätten i Malmö	Malmö
+Domstol	Förvaltningsrätten i Stockholm och migrationsdom	Stockholm
+Domstol	Förvaltningsrätten i Umeå	Umeå
+Domstol	Förvaltningsrätten i Uppsala	Uppsala
+Domstol	Förvaltningsrätten i Växjö	Växjö
+Domstol	Gotlands tingsrätt	Visby
+Domstol	Gällivare tingsrätt	Gällivare
+Domstol	Gävle tingsrätt	Gävle
+Domstol	Göta hovrätt	Jönköping
+Domstol	Göteborgs tingsrätt	Göteborg
+Domstol	Halmstads tingsrätt	Halmstad
+Domstol	Haparanda tingsrätt	Haparanda
+Domstol	Helsingborgs tingsrätt	Helsingborg
+Domstol	Hovrätten för nedre norrland	Sundsvall
+Domstol	Hovrätten för västra sverige	Göteborg
+Domstol	Hovrätten för övre norrland	Umeå
+Domstol	Hovrätten över skåne och blekinge	Malmö
+Domstol	Hudiksvalls tingsrätt	Hudiksvall
+Domstol	Hyres och arrendenämnden i Göteborg	Göteborg
+Domstol	Hyres och arrendenämnden i Jönköping	Jönköping
+Domstol	Hyres och arrendenämnden i Linköping	Linköping
+Domstol	Hyres och arrendenämnden i Stockholm	Stockholm
+Domstol	Hyres och arrendenämnden i Sundsvall	Sundsvall
+Domstol	Hyres och arrendenämnden i Umeå	Umeå
+Domstol	Hyres och arrendenämnden i Västerås	Västerås
+Domstol	Hyres och arrendenämnen i Malmö	Malmö
+Domstol	Hässleholms tingsrätt	Hässleholm
+Domstol	Högsta domstolen	Stockholm
+Domstol	Högsta förvaltningsdomstolen	Stockholm
+Domstol	Jönköpings tingsrätt	Jönköping
+Domstol	Kalmar tingsrätt	Kalmar
+Domstol	Kammarrätten i Göteborg	Göteborg
+Domstol	Kammarrätten i Jönköping	Jönköping
+Domstol	Kammarrätten i Stockholm och migrationsöverdomst	Stockholm
+Domstol	Kammarrätten i Sundsvall	Sundsvall
+Domstol	Kristianstads tingsrätt	Kristianstad
+Domstol	Linköpings tingsrätt	Linköping
+Domstol	Luleå tingsrätt	Luleå
+Domstol	Lunds tingsrätt	Lund
+Domstol	Lycksele tingsrätt	Lycksele
+Domstol	Malmö tingsrätt	Malmö
+Domstol	Mora tingsrätt	Mora
+Domstol	Nacka tingsrätt	Nacka Strand
+Domstol	Norrköpings tingsrätt	Norrköping
+Domstol	Norrtälje tingsrätt	Norrtälje
+Domstol	Nyköpings tingsrätt	Nyköping
+Domstol	Rättshjälpsmyndigheten	Sundsvall
+Domstol	Skaraborgs tingsrätt	Skövde
+Domstol	Skellefteå tingsrätt	Skellefteå
+Domstol	Solna tingsrätt	Solna
+Domstol	Stockholms tingsrätt och patent och marknadsdom	Stockholm
+Domstol	Sundsvalls tingsrätt	Sundsvall
+Domstol	Svea hovrätt o mark o miljö och patent	Stockholm
+Domstol	Södertälje tingsrätt	Södertälje
+Domstol	Södertörns tingsrätt	Huddinge
+Domstol	Uddevalla tingsrätt	Uddevalla
+Domstol	Umeå tingsrätt	Umeå
+Domstol	Uppsala tingsrätt	Uppsala
+Domstol	Varbergs tingsrätt	Varberg
+Domstol	Vänersborgs tingsrätt och mark och miljödomstol	Vänersborg
+Domstol	Värmlands tingsrätt	Karlstad
+Domstol	Västmanlands tingsrätt	Västerås
+Domstol	Växjö tingsrätt och mark och miljödomstol	Växjö
+Domstol	Ystads tingsrätt	Ystad
+Domstol	Ångermanlands tingsrätt	Härnösand
+Domstol	Örebro tingsrätt	Örebro
+Domstol	Östersunds tingsrätt och mark och miljödomstol	Östersund
