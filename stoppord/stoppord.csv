@@ -68,6 +68,7 @@ därför
 då
 efter
 eftersom
+ej
 elfte
 eller
 elva
@@ -166,6 +167,7 @@ högre
 högst
 i
 ibland
+icke
 idag
 igen
 igår
@@ -183,6 +185,7 @@ inte
 inuti
 ja
 jag
+ju
 jämfört
 kan
 kanske
@@ -261,6 +264,7 @@ noll
 nr
 nu
 nummer
+nya
 när
 nästa
 någon
@@ -281,6 +285,7 @@ olika
 olikt
 om
 oss
+procent
 på
 rakt
 redan
@@ -294,6 +299,7 @@ sen
 senare
 senast
 sent
+ser
 sex
 sextio
 sextionde
@@ -306,6 +312,7 @@ sist
 sista
 siste
 sitt
+sitta
 sju
 sjunde
 sjuttio
@@ -316,6 +323,7 @@ själv
 sjätte
 ska
 skall
+skriver
 skulle
 slutligen
 små
@@ -334,6 +342,9 @@ sämre
 sämst
 sätt
 så
+sådan
+sådana
+sådant
 ta
 tack
 tar
@@ -353,6 +364,7 @@ tjugonde
 tjugotre
 tjugotvå
 tjungo
+tog
 tolfte
 tolv
 tre
@@ -381,6 +393,7 @@ varifrån
 varit
 varje
 varken
+vars
 varsågod
 vart
 vem
@@ -395,6 +408,7 @@ viktigare
 viktigast
 viktigt
 vilka
+vilkas
 vilken
 vilket
 vill
@@ -411,6 +425,8 @@ vårt
 ännu
 är
 även
+året
+åt
 åtminstone
 åtta
 åttio
@@ -420,9 +436,3 @@ vårt
 övermorgon
 överst
 övre
-nya
-procent
-ser
-skriver
-tog
-året

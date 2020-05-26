@@ -30,7 +30,7 @@ Tider            | [Tidsperioder](tider/)                | 19      | Tidsenheter
 Tider            | [Månader](tider/)                     | 12      | Månader januari till december
 Tider            | [Veckodagar](tider/)                  | 7       | Veckodagar måndag till söndag
 Ord              | [Lemma](lemma/)                       | 675137  | Grundformen av ord (t ex "springa" är grundform av "sprungit" och "sprang")
-Ord              | [Stoppord](stoppord/)                 | 427     | Svenska stoppord
+Ord              | [Stoppord](stoppord/)                 | 437     | Svenska stoppord
 Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska politiska stoppord
 Ord              | [Sentimentlexikon](sentiment/)        | 2067    | Positiva och negativa svenska ord
 Jobb             | [Yrken](yrken/)                       | 13833   | Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
