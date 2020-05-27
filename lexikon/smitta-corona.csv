@@ -1,0 +1,254 @@
+category,word,word_variant
+cv,coronavirus,coronapandemi
+cv,coronavirus,coronavirus
+cv,coronavirus,coronaviruspandemi
+cv,coronavirus,nytt coronavirus
+cv,coronavirus,sars
+cv,coronavirus,sars cov 2
+cv,coronavirus,sars-cov-2
+cv,coronavirus,sars-cov2
+cv,coronavirus,sarscov2
+cv,covid,covid
+cv,covid,covid 19
+cv,covid,covid-19
+cv,covid,covid19
+cv,covid,covid_19
+interventions,antiviral,anti-viral
+interventions,antiviral,anti-virala
+interventions,antiviral,anti_viral
+interventions,antiviral,anti_virala
+interventions,antiviral,antiviral
+interventions,antiviral,antivirala
+interventions,azithromycin,azithromycin
+interventions,hydroxychloroquine,hydroxiklorokin
+interventions,hydroxychloroquine,hydroxychloroquine
+interventions,hydroxychloroquine,klorokin
+interventions,remdesivir,remdesivir
+interventions,vaccin,vaccin
+interventions,vaccin,vacciner
+interventions,vaccin,vaccinering
+medical_response,corona-app,app för corona
+medical_response,corona-app,corona-app
+medical_response,corona-app,corona-appen
+medical_response,corona-app,coronaapp
+medical_response,corona-app,coronaappen
+medical_response,drive in-testning,drive in-test
+medical_response,drive in-testning,drive in-teststation
+medical_response,drive in-testning,mobil teststation
+medical_response,drive in-testning,testning via drive-in
+medical_response,klinisk prövning,klinisk data
+medical_response,klinisk prövning,klinisk fas
+medical_response,klinisk prövning,klinisk forskning
+medical_response,klinisk prövning,klinisk nytta
+medical_response,klinisk prövning,klinisk prövning
+medical_response,klinisk prövning,klinisk studie
+medical_response,klinisk prövning,kliniska prövningar
+medical_response,klinisk prövning,kliniska studier
+medical_response,läkemedelsbehandling,behandla med läkmedel
+medical_response,läkemedelsbehandling,behandling
+medical_response,läkemedelsbehandling,läkemedel
+medical_response,läkemedelsbehandling,läkemedelesbehandla
+medical_response,läkemedelsbehandling,läkemedelesbehandling
+medical_response,n95-respirator,n95
+medical_response,n95-respirator,n95 respirator
+medical_response,n95-respirator,n95 respiratorer
+medical_response,n95-respirator,n95-respirator
+medical_response,n95-respirator,n95-respiratorer
+medical_response,n95-respirator,n95:a
+medical_response,n95-respirator,n95:er
+medical_response,n95-respirator,n95_respirator
+medical_response,n95-respirator,n95_respirators
+medical_response,n95-respirator,n95respirator
+medical_response,n95-respirator,n95respiratorer
+medical_response,n95-respirator,n95s
+medical_response,respirator,respirator
+medical_response,respirator,respiratorer
+medical_response,respirator,respiratorerna
+medical_response,smittspårning,kontaktpårning
+medical_response,smittspårning,kontaktspår
+medical_response,smittspårning,kontaktspåra
+medical_response,smittspårning,kontaktspårare
+medical_response,smittspårning,kontaktspåras
+medical_response,smittspårning,smittspåra
+medical_response,smittspårning,smittspårarna
+medical_response,smittspårning,smittspårarne
+medical_response,smittspårning,smittspårning
+medical_response,ventilator,ventilator
+medical_response,ventilator,ventilatorer
+medical_response,ventilator,ventilera
+prevention,ansiktsmask,ansiktsmask
+prevention,ansiktsmask,ansiktsmask
+prevention,ansiktsmask,ansiktsmaskar
+prevention,ansiktsmask,ansiktsmaskar
+prevention,ansiktsmask,ansiktsmasker
+prevention,ansiktsmask,ansiktsmasker
+prevention,ansiktsmask,ansiktsskydd
+prevention,ansiktsmask,mask
+prevention,ansiktsmask,skydd för munnen
+prevention,ansiktsmask,skyddsmask
+prevention,ansiktsmask,täcka ansiktet
+prevention,ansiktsmask,täcka munnen
+prevention,arbeta hemifrån,arbeta från hemmet
+prevention,arbeta hemifrån,arbeta hemifrån
+prevention,arbeta hemifrån,arbeta hemma
+prevention,arbeta hemifrån,distansarbeta
+prevention,arbeta hemifrån,distansarbete
+prevention,arbeta hemifrån,distansarbetet
+prevention,arbeta hemifrån,hemarbeta
+prevention,arbeta hemifrån,hemarbete
+prevention,distansundervisning,distansundervisning
+prevention,distansundervisning,fjärrundervisning
+prevention,distansundervisning,hemskolning
+prevention,distansundervisning,hemundervisning
+prevention,handhygien,handhygien
+prevention,handhygien,handskar
+prevention,handhygien,handsprit
+prevention,handhygien,handsprita
+prevention,handhygien,handtvätt
+prevention,handhygien,tvätta handen
+prevention,handhygien,tvätta händer
+prevention,handhygien,tvätta händerna
+prevention,immunosuppressiv,immunosuppressiv
+prevention,immunosuppressiv,immunosuppressiva
+prevention,inte resa,avråder från att resa
+prevention,inte resa,avråder resor
+prevention,inte resa,icke-nödvändiga resor
+prevention,inte resa,nödvändiga resor
+prevention,inte resa,reseavrådan
+prevention,inte resa,reseförbud
+prevention,isolering,besöksförbud
+prevention,isolering,hemisolering
+prevention,isolering,isolation
+prevention,isolering,isolera sig hemma
+prevention,isolering,isolera sig i hemmet
+prevention,isolering,isolerar
+prevention,isolering,isolering
+prevention,isolering,social isolering
+prevention,isolering,vara hemma
+prevention,karantän,karantän
+prevention,karantän,karantänen
+prevention,karantän,karantänerna
+prevention,karantän,karantänernas
+prevention,karantän,karantäns
+prevention,lockdown,lockdown
+prevention,lockdown,nedstängd
+prevention,lockdown,nedstängning
+prevention,lockdown,nedstängt
+prevention,lockdown,nerstängd
+prevention,lockdown,nerstängning
+prevention,lockdown,nerstängt
+prevention,lockdown,stänga ned
+prevention,lockdown,stänga ner
+prevention,långtidsvård,långtidsjukvård
+prevention,långtidsvård,långtidssjukvård
+prevention,långtidsvård,långtidsvård
+prevention,långtidsvård,långtidsvårda
+prevention,långtidsvård,sjukvård länge
+prevention,långtidsvård,sjukvård lång tid
+prevention,långtidsvård,sjukvårdas länge
+prevention,långtidsvård,sjukvårdas lång tid
+prevention,långtidsvård,vård länge
+prevention,långtidsvård,vård lång tid
+prevention,långtidsvård,vårdas länge
+prevention,långtidsvård,vårdas lång tid
+prevention,palliativ vård,dödshjälp
+prevention,palliativ vård,palliativ vård
+prevention,palliativ vård,vård i livets slutskede
+prevention,planerad sjukvård,elektiv kirurgi
+prevention,planerad sjukvård,elektiv sjukvård
+prevention,planerad sjukvård,elektiv vård
+prevention,planerad sjukvård,planerad sjukvård
+prevention,planerad sjukvård,planerad vård
+prevention,platta ut kurvan,kurva platt
+prevention,platta ut kurvan,platta ned kurva
+prevention,platta ut kurvan,platta ned kurvan
+prevention,platta ut kurvan,platta till kurva
+prevention,platta ut kurvan,platta till kurvan
+prevention,platta ut kurvan,platta ut kurva
+prevention,platta ut kurvan,platta ut kurvan
+prevention,platta ut kurvan,platta ut vår kurva
+prevention,riskgrupper,70 plus
+prevention,riskgrupper,70 pluss
+prevention,riskgrupper,70 plussare
+prevention,riskgrupper,70+
+prevention,riskgrupper,70-plus
+prevention,riskgrupper,70-pluss
+prevention,riskgrupper,70-plussare
+prevention,riskgrupper,riskgrupp
+prevention,riskgrupper,riskgrupper
+prevention,riskgrupper,riskgrupperna
+prevention,riskgrupper,sjutti-plussare
+prevention,riskgrupper,sjuttio-plussare
+prevention,riskgrupper,sjuttiplus
+prevention,riskgrupper,sjuttipluss
+prevention,riskgrupper,sjuttiplussare
+prevention,riskgrupper,utsatta grupper
+prevention,riskgrupper,äldre äldre
+prevention,sjukvård,sjukvård
+prevention,sjukvård,sjukvårda
+prevention,sjukvård,sjukvårdas
+prevention,sjukvård,sjukvården
+prevention,självisolering,isolera mig
+prevention,självisolering,isolera sig själv
+prevention,självisolering,självisolera
+prevention,självisolering,självisolerande
+prevention,självisolering,självisolering
+prevention,social distansering,fysisk distans
+prevention,social distansering,fysisk distansering
+prevention,social distansering,fysisk närhet
+prevention,social distansering,social distans
+prevention,social distansering,social distansering
+prevention,social distansering,social närhet
+prevention,stanna hemma,inte resa
+prevention,stanna hemma,stanna hemma
+prevention,stanna hemma,var hemma
+prevention,äldreboenden,äldrebroende
+socio-political,ekonomisk kris,ekonomisk kris
+socio-political,ekonomisk kris,ekonomiska kriser
+socio-political,global hälsokris,global hälsokris
+socio-political,global hälsokris,hälsokris
+socio-political,medborgerliga rättigheter,frihet
+socio-political,medborgerliga rättigheter,medborgerliga rättigheter
+socio-political,återvända till jobbet,börja jobba
+socio-political,återvända till jobbet,återvända till jobbet
+spread_of_disease,endemisk,endemisk
+spread_of_disease,endemisk,endemiska
+spread_of_disease,endemisk,endemiskt
+spread_of_disease,epidemiologi,epidemiologi
+spread_of_disease,epidemiologi,hobbyepidemiolog
+spread_of_disease,global pandemi,global pandemi
+spread_of_disease,patient noll,0-patient
+spread_of_disease,patient noll,noll-patient
+spread_of_disease,patient noll,nollpatient
+spread_of_disease,patient noll,patient 0
+spread_of_disease,patient noll,patient noll
+spread_of_disease,patient noll,patient-0
+spread_of_disease,utbrott,pandemiutbrott
+spread_of_disease,utbrott,sjukdomsutbrott
+spread_of_disease,utbrott,utbrott
+transmission,antikroppar,antikropp
+transmission,antikroppar,antikroppar
+transmission,antikroppar,antikropps
+transmission,asymtomatisk,asymtomatisk
+transmission,droppsmitta,droppsmitta
+transmission,droppsmitta,droppsmittan
+transmission,droppsmitta,droppsmittor
+transmission,droppsmitta,smitta via droppar
+transmission,droppsmitta,smittar via droppar
+transmission,flockimmunitet,flockimmunitet
+transmission,flockimmunitet,flockimmuniteten
+transmission,flockimmunitet,immunitet
+transmission,inkubationstid,inbukation
+transmission,inkubationstid,inkubationen
+transmission,inkubationstid,inkubationsperiod
+transmission,inkubationstid,inkubationstid
+transmission,person till person-spridning,person till person
+transmission,person till person-spridning,person till person
+transmission,person till person-spridning,personspridning
+transmission,person till person-spridning,spridning
+transmission,person till person-spridning,spridning mellan människor
+transmission,person till person-spridning,spridning mellan personer
+transmission,superspridare,superspridare
+transmission,superspridare,superspridare
+transmission,superspridare,superspridning
+transmission,symtomatisk,symtomatisk
