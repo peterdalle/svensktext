@@ -112,8 +112,14 @@ prevention,immunosuppressiv,immunosuppressiv
 prevention,immunosuppressiv,immunosuppressiva
 prevention,inte resa,avråder från att resa
 prevention,inte resa,avråder resor
+prevention,inte resa,undvika att resa
+prevention,inte resa,undvik att resa
+prevention,inte resa,undvik resor
+prevention,inte resa,avstå från att resa
+prevention,inte resa,avstå resor
 prevention,inte resa,icke-nödvändiga resor
 prevention,inte resa,nödvändiga resor
+prevention,inte resa,onödiga resor
 prevention,inte resa,reseavrådan
 prevention,inte resa,reseförbud
 prevention,isolering,besöksförbud
@@ -124,7 +130,6 @@ prevention,isolering,isolera sig i hemmet
 prevention,isolering,isolerar
 prevention,isolering,isolering
 prevention,isolering,social isolering
-prevention,isolering,vara hemma
 prevention,karantän,karantän
 prevention,karantän,karantänen
 prevention,karantän,karantänerna
@@ -174,6 +179,10 @@ prevention,riskgrupper,70+
 prevention,riskgrupper,70-plus
 prevention,riskgrupper,70-pluss
 prevention,riskgrupper,70-plussare
+prevention,riskgrupper,70 år och äldre
+prevention,riskgrupper,70 och äldre
+prevention,riskgrupper,70-åringar
+prevention,riskgrupper,över 70 år
 prevention,riskgrupper,riskgrupp
 prevention,riskgrupper,riskgrupper
 prevention,riskgrupper,riskgrupperna
@@ -196,12 +205,20 @@ prevention,självisolering,självisolering
 prevention,social distansering,fysisk distans
 prevention,social distansering,fysisk distansering
 prevention,social distansering,fysisk närhet
+prevention,social distansering,håll avstånd
+prevention,social distansering,hålla avstånd
+prevention,social distansering,markera avstånd
+prevention,social distansering,markerar avstånd
 prevention,social distansering,social distans
 prevention,social distansering,social distansering
+prevention,social distansering,social distansiering
 prevention,social distansering,social närhet
 prevention,stanna hemma,inte resa
 prevention,stanna hemma,stanna hemma
+prevention,stanna hemma,hålla dig hemma
+prevention,stanna hemma,hålla sig hemma
 prevention,stanna hemma,var hemma
+prevention,stanna hemma,vara hemma
 prevention,äldreboenden,äldrebroende
 socio-political,ekonomisk kris,ekonomisk kris
 socio-political,ekonomisk kris,ekonomiska kriser
@@ -229,12 +246,38 @@ spread_of_disease,utbrott,utbrott
 transmission,antikroppar,antikropp
 transmission,antikroppar,antikroppar
 transmission,antikroppar,antikropps
+transmission,antikroppar,antikroppssvar
 transmission,asymtomatisk,asymtomatisk
+transmission,asymtomatisk,asymptomatisk
+transmission,smitta,smitta
+transmission,smitta,smittor
+transmission,smitta,smittar
+transmission,smitta,smittorisk
+transmission,smitta,smittspridning
 transmission,droppsmitta,droppsmitta
 transmission,droppsmitta,droppsmittan
 transmission,droppsmitta,droppsmittor
 transmission,droppsmitta,smitta via droppar
 transmission,droppsmitta,smittar via droppar
+transmission,aerosolsmitta,aerosolsmitta
+transmission,aerosolsmitta,luftsmitta
+transmission,aerosolsmitta,luftsmittas
+transmission,aerosolsmitta,luftsmittor
+transmission,aerosolsmitta,smittar via luft
+transmission,aerosolsmitta,smitta via luft
+transmission,aerosolsmitta,smitta genom luft
+transmission,aerosolsmitta,smittar genom luft
+transmission,kontaktsmitta,kontaktsmitta
+transmission,kontaktsmitta,kontaktsmittas
+transmission,kontaktsmitta,kontaktsmittor
+transmission,kontaktsmitta,smitta via kontakt
+transmission,kontaktsmitta,smittar via kontakt
+transmission,kontaktsmitta,smitta genom kontakt
+transmission,kontaktsmitta,smittar genom kontakt
+transmission,kontaktsmitta,smitta via kroppskontakt
+transmission,kontaktsmitta,smittar via kroppskontakt
+transmission,kontaktsmitta,smitta genom kroppskontakt
+transmission,kontaktsmitta,smittar genom kroppskontakt
 transmission,flockimmunitet,flockimmunitet
 transmission,flockimmunitet,flockimmuniteten
 transmission,flockimmunitet,immunitet
@@ -252,3 +295,4 @@ transmission,superspridare,superspridare
 transmission,superspridare,superspridare
 transmission,superspridare,superspridning
 transmission,symtomatisk,symtomatisk
+transmission,symtomatisk,symptomatisk
