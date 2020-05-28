@@ -2,15 +2,15 @@
 
 ## Filer
 
-- 427 svenska stoppord ([CSV](stoppord.csv)).
-- 285 svenska politiska stoppord ([CSV](stoppord-politik.csv)). Framför allt baserad på stoppordlistan ovan.
+- 438 svenska stoppord, som är väligt inkluderande för vad som räknas som stoppord där även värdeord finns med ([CSV](stoppord-mycket.csv)).
+- 330 svenska stoppord, som endast innehåller de vanligaste småorden oberoende av typen av text ([CSV](stoppord.csv)). Använd denna om du är osäker på vilken du ska använda!
+- 285 svenska politiska stoppord, som framför allt är lämplig för att användas inom politik ([CSV](stoppord-politik.csv)). Framför allt baserad på stoppord.csv.
 
 ## Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `word` | Stoppord | Text
-
 
 ## Källa
 
