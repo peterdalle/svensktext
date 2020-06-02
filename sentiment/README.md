@@ -37,13 +37,12 @@ Kolumn | Beskrivning | Datatyp
 # Import.
 import pandas as pd
 
-df = pd.read_csv("https://github.com/peterdalle/svensktext/raw/master/sentiment/sentimentlex.csv",
-                na_values = "None",
-                encoding = "utf-8",
-                header = 0,
-                sep = ",")
+def get_sentiments():
+    url = "https://github.com/peterdalle/svensktext/raw/master/sentiment/sentimentlex.csv"
+    return pd.read_csv(url, na_values="None", encoding="utf-8", header=0, sep=",")
 
 # Count number of negative and positive words.
+df = get_sentiments()
 df["polarity"].value_counts()
 ```
 
@@ -51,12 +50,12 @@ df["polarity"].value_counts()
 
 ```r
 # Import.
-df <- read.csv("https://github.com/peterdalle/svensktext/raw/master/sentiment/sentimentlex.csv", 
-               na.strings = "None",
-               encoding = "UTF-8",
-               header = TRUE,
-               sep = ",")
+get_sentiments <- function() {
+    url <- "https://github.com/peterdalle/svensktext/raw/master/sentiment/sentimentlex.csv"
+    return(read.csv(url, na.strings="None", encoding="UTF-8", header=TRUE, sep=",", stringsAsFactors=FALSE))
+}
 
 # Count number of negative and positive words.
+df <- get_sentiments()
 table(df$polarity)
 ```
