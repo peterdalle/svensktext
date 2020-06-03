@@ -77,16 +77,17 @@ Data städad genom att göra om header till engelska namn samt ta bort mellansla
 
 ### Filer
 
-Världens 200 länder samt deras huvudstäder ([CSV](lander.csv)).
+Världens 201 länder samt deras huvudstäder ([CSV](lander.csv)).
 
 ### Datastruktur
 
 Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
- `country` | Namnet på landet | Text
- `capital` | Namnet på huvudstaden | Text
- `continent` | Namnet på kontinenten | Text
- `alternative_name` | Alternativt namn på landet | Text
+`country` | Namnet på landet | Text
+`capital` | Namnet på huvudstaden | Text
+`continent` | Namnet på kontinenten | Text
+`alternative_name` | Alternativt namn på landet | Text
+`english` | Landet på engelska | Text
 
 ### Källa
 
