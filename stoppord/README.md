@@ -29,11 +29,20 @@ Kolumn | Beskrivning | Datatyp
 ```py
 # Import stop words.
 import pandas as pd
-stopwords = pd.read_csv("https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord.csv",
-                         header = 1,
-                         encoding = "utf-8")
+
+def get_stopwords(wordlist = "standard"):
+    if wordlist == "standard":
+        url = "https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord.csv"
+    elif wordlist == "many":
+        url = "https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord-mycket.csv"
+    elif wordlist == "politics":
+        url = "https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord-politik.csv"
+    else:
+        raise ValueError("Argument 'wordlist' must be 'standard', 'many' or 'politics', not '{}'.".format(wordlist))
+    return pd.read_csv(url, header=1, encoding="utf-8")
 
 # Print stop words.
+stopwords = get_stopwords()
 stopwords["word"]
 ```
 
@@ -41,11 +50,22 @@ stopwords["word"]
 
 ```r
 # Import stop words.
-stopwords <- read.csv("https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord.csv", 
-                       header = TRUE, 
-                       encoding = "UTF-8",
-                       stringsAsFactors = FALSE)
+get_stopwords <- function(wordlist = "standard") {
+  if (wordlist == "standard") {
+    url <- "https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord.csv"
+  } else if (wordlist == "many") {
+    url <- "https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord-mycket.csv"
+  } else if (wordlist == "politics") {
+    url <- "https://raw.githubusercontent.com/peterdalle/svensktext/master/stoppord/stoppord-politik.csv"
+  } else {
+    stop(paste0("Argument 'wordlist' must be 'standard', 'many' or",
+                " 'politics', not '", wordlist, "'."), call.=FALSE)
+  }
+  return(read.csv(url, header=TRUE, encoding="UTF-8", stringsAsFactors=FALSE,
+                  col.names=c("word")))
+}
 
-# Print stop words.
+# Print stopwords.
+stopwords <- get_stopwords()
 stopwords$word
 ```
