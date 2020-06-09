@@ -24,7 +24,6 @@ Brasilien,Brasília,Sydamerika,,Brazil
 Brunei,Bandar Seri Begawan,Asien,,Brunei
 Bulgarien,Sofia,Europa,,Bulgaria
 Burkina Faso,Ouagadougou,Afrika,,Burkina Faso
-Burma,Naypyidaw,Asien,Myanmar,Burma
 Burundi,Bujumbura,Afrika,,Burundi
 Centralafrikanska republiken,Bangui,Afrika,,Central African Republic
 Chile,Santiago de Chile,Sydamerika,,Chile
@@ -111,11 +110,12 @@ Mauretanien,Nouakchott,Afrika,,Mauritania
 Mauritius,Port Louis,Afrika,,Mauritius
 Mexiko,Mexico City,Nordamerika,,Mexico
 Mikronesien,Palikir,Oceanien,,Micronesia
-Moçambique,Maputo,Afrika,,Mozambique
 Moldavien,Chișinău,Europa,,Moldova
 Monaco,Monaco,Europa,,Monaco
 Mongoliet,Ulan Bator,Asien,,Mongolia
 Montenegro,Podgorica,Europa,,Montenegro
+Moçambique,Maputo,Afrika,,Mozambique
+Myanmar,Naypyidaw,Asien,Burma,Myanmar
 Namibia,Windhoek,Afrika,,Namibia
 Nauru,Yaren,Oceanien,,Nauru
 Nederländerna,Amsterdam,Europa,,Netherlands
@@ -147,7 +147,6 @@ Saint Vincent och Grenadinerna,Kingstown,Nordamerika,,Saint Vincent and the Gren
 Salomonöarna,Honiara,Oceanien,,Salomon Islands
 Samoa,Apia,Oceanien,,Samoa
 San Marino,San Marino,Europa,,San Marino
-São Tomé och Príncipe,São Tomé,Afrika,,São Tomé and Príncipe
 Saudiarabien,Riyadh,Asien,,Saudi Arabia
 Schweiz,Bern,Europa,,Switzerland
 Senegal,Dakar,Afrika,,Senegal
@@ -170,6 +169,7 @@ Sydafrika,Pretoria,Afrika,,South Africa
 Sydkorea,Seoul,Asien,,South Korea
 Sydsudan,Juba,Afrika,,South Sudan
 Syrien,Damaskus,Asien,,Syria
+São Tomé och Príncipe,São Tomé,Afrika,,São Tomé and Príncipe
 Tadzjikistan,Dusjanbe,Asien,,Tajikistan
 Taiwan,Taipei,Asien,,Taiwan
 Tanzania,Dodoma,Afrika,,Tanzania
