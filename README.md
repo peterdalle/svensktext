@@ -33,7 +33,7 @@ Ord              | [Lemma](lemma/)                       | 675137  | Grundformen
 Ord              | [Stoppord](stoppord/)                 | 438     | Svenska stoppord
 Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska politiska stoppord
 Ord              | [Sentimentlexikon](sentiment/)        | 2067    | Positiva och negativa svenska ord
-Ord              | [Emotioner](emotioner/)               | 8519    | Positiva och negativa svenska ord, uppdelade efter 8 känslor
+Ord              | [Emotioner](emotioner/)               | 8519    | Känsloladdade ord och deras intensitet, uppdelade på 8 känslor
 Ord              | [Corona/smitta](lexikon/)             | 297     | Lexikon för ord relaterade till corona/smitta i nyhetsmedier
 Jobb             | [Yrken](yrken/)                       | 13833   | Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 Organisationer   | [Medier](organisationer/)             | 158     | Domäner till svenska massmedier och nyhetsmedier
