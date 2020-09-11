@@ -37,16 +37,13 @@ Kolumn | Beskrivning | Datatyp
 
 ## Källa
 
-[NRC Word-Emotion Association Lexicon](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+[The NRC Emotion Intensity Lexicon (NRC-EIL)](http://saifmohammad.com/WebPages/AffectIntensity.htm). Se källan för rättigheter vid kommersiell/icke-kommersiell användning. Referera följande papper om du använder lexikonet:
 
-Se källan för rättigheter vid kommersiell/icke-kommersiell användning. Referera följande papper om du använder lexikonet:
-
-- Crowdsourcing a Word-Emotion Association Lexicon, Saif Mohammad and Peter Turney, *Computational Intelligence, 29*(3), 436-465, 2013.
-- Emotions Evoked by Common Words and Phrases: Using Mechanical Turk to Create an Emotion Lexicon, Saif Mohammad and Peter Turney, In *Proceedings of the NAACL-HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text*, June 2010, LA, California.
+- Word Affect Intensities. Saif M. Mohammad. In *Proceedings of the 11th Edition of the Language Resources and Evaluation Conference (LREC-2018)*, May 2018, Miyazaki, Japan.
 
 ## Se även
 
-NRC-lexikonet används även inom följande:
+NRC-lexikonet (och övriga lexikon från NRC) används även inom följande:
 
 - [TidyText](https://www.tidytextmining.com/sentiment.html) - R-paket för textanalys där NRC-lexikonet finns inbyggt (se också [Syuzhet](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)-paketet).
 - [lexicon](https://cran.r-project.org/web/packages/lexicon/index.html) - R-paket för NRC-lexikonet.
