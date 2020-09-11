@@ -1,0 +1,1 @@
+TSV originalfiler är kopierade från <https://github.com/ryanjgallagher/shifterator>.
