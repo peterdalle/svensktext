@@ -34,6 +34,7 @@ Ord              | [Stoppord](stoppord/)                 | 438     | Svenska sto
 Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska politiska stoppord
 Ord              | [Sentimentlexikon](sentiment/)        | 2067    | Positiva och negativa svenska ord
 Ord              | [Emotioner](emotioner/)               | 8519    | Känsloladdade ord och deras intensitet, uppdelade på 8 känslor
+Ord              | [Moral](moral/)                       | 2104    | Moraliska ord enligt Moral Foundations Theory, uppdelade på 5 fundament
 Ord              | [Corona/smitta](lexikon/)             | 297     | Lexikon för ord relaterade till corona/smitta i nyhetsmedier
 Jobb             | [Yrken](yrken/)                       | 13833   | Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 Organisationer   | [Medier](organisationer/)             | 158     | Domäner till svenska massmedier och nyhetsmedier
