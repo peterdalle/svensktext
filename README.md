@@ -51,6 +51,7 @@ I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska)
 ## Se även
 
 - [Språkbankens resurser på Göteborgs universitet](https://spraakbanken.gu.se/swe/resurser)
+  - [Förtränade inbäddningar - En lista över förtränade inbäddningar för svenska](https://spraakbanken.gu.se/resurser/embeddings)
 - [Öppna data](https://oppnadata.se/)
 - [Statistiska centralbyrån](http://www.scb.se/)
 - [Bebyggelseregistret – BeBR](https://www.raa.se/hitta-information/bebyggelseregistret-bebr/)
