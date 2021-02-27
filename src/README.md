@@ -4,7 +4,7 @@ Använd dessa programbibliotek för att snabbt läsa in svensk text i ditt proje
 
 Här finns programbibliotek (inklusive unit tests) för:
 
-- [C# .NET Standard 2.0 Class library (strongly typed)](charp/) 
+- [C# .NET Standard 2.0 Class library (strongly typed)](csharp/) 
 - [Python](python/)
 - [R](r/)
 
