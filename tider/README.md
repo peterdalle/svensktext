@@ -18,7 +18,7 @@ En helgdag per rad.
 
 ### Filer
 
-- 19 tidsperioder ([CSV](tidsperioder.csv)).
+- 27 tidsperioder ([CSV](tidsperioder.csv)).
 
 ### Datastruktur
 
@@ -26,7 +26,7 @@ Kolumn | Beskrivning | Datatyp
 :------- | :----------  | :----------
 `name` | Namnet på tidsperioden (t ex `dygn`) | Text
 `duration` | Varaktighet på tidsperioden i läsbar form (t ex `24 timmar`) | Text
-`duration_seconds` | Varaktighet på tidsperioden i sekunder (t ex `86400`) | Heltal
+`duration_seconds` | Varaktighet på tidsperioden i sekunder (t ex `86400` och `0.0001`) | Decimaltal
 
 ### Källa
 
