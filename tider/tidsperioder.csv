@@ -18,3 +18,11 @@ kvart,15 minuter,900
 ke,1/100 dygn,864
 minut,60 sekunder,60
 sekund,1 sekund,1
+millisekund,tusendels sekund,0.001
+mikrosekund,miljondels sekund,0.000001
+nanosekund,miljarddels sekund,0.000000001
+pikosekund,biljondels sekund,0.000000000001	
+femtosekund,biljarddels sekund,0.000000000000001
+attosekund,triljondels sekund,0.000000000000000001
+zeptosekund,triljarddels sekund,0.000000000000000000001
+yoktosekund,kvadriljondels sekund,0.000000000000000000000001
