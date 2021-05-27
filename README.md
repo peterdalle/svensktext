@@ -21,7 +21,7 @@ Nationaliteter   | [Nationaliteter](nationaliteter/)     | 197     | Nationalite
 Platser          | [Svenska orter](platser/)             | 2007    | Namn på svenska orter
 Platser          | [Sveriges län](platser/)              | 21      | Sveriges län
 Platser          | [Sveriges kommuner](platser/)         | 290     | Sveriges kommuner
-Platser          | [Länder och huvudstäder](platser/)    | 200     | Världens länder samt deras huvudstäder
+Platser          | [Länder och huvudstäder](platser/)    | 202     | Världens länder samt deras huvudstäder
 Platser          | [Landskoder](platser/)                | 245     | Landskoder (ISO 3166-1)
 Platser          | [Valutor](platser/)                   | 245     | Länder och deras valutor och valutakoder (ISO 4217)
 Platser          | [Vägar](platser/)                     | 278     | Svenska Europavägar, riksvägar och landsvägar

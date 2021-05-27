@@ -77,7 +77,7 @@ Data städad genom att göra om header till engelska namn samt ta bort mellansla
 
 ### Filer
 
-Världens 201 länder samt deras huvudstäder ([CSV](lander.csv)).
+Världens 202 länder samt deras huvudstäder ([CSV](lander.csv)).
 
 ### Datastruktur
 
@@ -88,7 +88,8 @@ Kolumn | Beskrivning | Datatyp
 `continent` | Namnet på kontinenten | Text
 `alternative_name` | Alternativt namn på landet | Text
 `english` | Landet på engelska | Text
-
+`iso_code` | Landskod i versaler om 3 bokstäver (ISO 3166-1) | Text
+ 
 ### Källa
 
 - [Världens flaggor](http://www.flaggorvarlden.se/lista)
