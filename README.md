@@ -59,6 +59,7 @@ I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska)
 - [Öppna data från SKL](https://skl.se/naringslivarbetedigitalisering/digitalisering/informationsforsorjningochdigitalinfrastruktur/oppnadata/sklsoppnadata.psidata.html)
 - [Valmyndigheten](https://www.val.se/)
 - [Rikstermbanken](http://www.rikstermbanken.se/)
+- [PAP API Lite - öppet REST API med Sveriges postnummer och postorter](https://papilite.se/)
 
 ## Citera
 
