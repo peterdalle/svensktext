@@ -15,8 +15,9 @@ Syftet är att samla svenska resurser som:
 
 Kategori         | Resurs                                | Antal   | Beskrivning
 :--------------- | :------------------------------------ | ------: | :-------------------------------------------- 
-Namn             | [Förnamn](namn/)                      | 25166   | Namn på män och kvinnor
-Namn             | [Efternamn](namn/)                    | 1000    | Vanliga efternamn i Sverige
+Namn             | [Tilltalsnamn](namn/)                 | 103584  | Tilltalsnamn på män och kvinnor i Sverige
+Namn             | [Förnamn](namn/)                      | 163213  | Förnamn på män och kvinnor i Sverige
+Namn             | [Efternamn](namn/)                    | 382492  | Efternamn i Sverige
 Nationaliteter   | [Nationaliteter](nationaliteter/)     | 197     | Nationaliteter med namn på invånarna i landet, både singular och plural
 Platser          | [Svenska orter](platser/)             | 2007    | Namn på svenska orter
 Platser          | [Sveriges län](platser/)              | 21      | Sveriges län
