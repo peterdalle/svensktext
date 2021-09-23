@@ -61,6 +61,7 @@ I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska)
 - [Valmyndigheten](https://www.val.se/)
 - [Rikstermbanken](http://www.rikstermbanken.se/)
 - [PAP API Lite - öppet REST API med Sveriges postnummer och postorter](https://papilite.se/)
+- [Dataportal](https://www.dataportal.se/) - sök och utforska öppna data i Sverige (från Myndigheten för digital förvaltning, DIGG)
 
 ## Citera
 
