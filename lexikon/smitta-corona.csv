@@ -1,37 +1,115 @@
 category,word,word_variant
-cv,coronavirus,coronapandemi
-cv,coronavirus,coronavirus
-cv,coronavirus,coronaviruspandemi
-cv,coronavirus,nytt coronavirus
-cv,coronavirus,sars
-cv,coronavirus,sars cov 2
-cv,coronavirus,sars-cov-2
-cv,coronavirus,sars-cov2
-cv,coronavirus,sarscov2
-cv,covid,covid
-cv,covid,covid 19
-cv,covid,covid-19
-cv,covid,covid19
-cv,covid,covid_19
-interventions,antiviral,anti-viral
-interventions,antiviral,anti-virala
-interventions,antiviral,anti_viral
-interventions,antiviral,anti_virala
-interventions,antiviral,antiviral
-interventions,antiviral,antivirala
-interventions,azithromycin,azithromycin
-interventions,hydroxychloroquine,hydroxiklorokin
-interventions,hydroxychloroquine,hydroxychloroquine
-interventions,hydroxychloroquine,klorokin
-interventions,remdesivir,remdesivir
-interventions,vaccin,vaccin
-interventions,vaccin,vacciner
-interventions,vaccin,vaccinering
+virus,mutationer,virusmutationer
+virus,mutationer,mutation
+virus,mutationer,mutationer
+virus,mutationer,dubbelmutation
+virus,mutationer,virusvariant
+virus,mutationer,virusvarianter
+virus,mutationer,brittiska varianten
+virus,mutationer,brittisk covid-varianten
+virus,mutationer,brittiska covid-varianten
+virus,mutationer,sydafrikanska varianten
+virus,mutationer,sydafrikanska covid-variant
+virus,mutationer,sydafrikanska covid-varianten
+virus,mutationer,brasiliansk covid-variant
+virus,mutationer,brasilianska varianten
+virus,mutationer,brasilianska covid-varianten
+virus,mutationer,indiska
+virus,mutationer,indisk covid-variant
+virus,mutationer,indiska variant
+virus,mutationer,indiska varianten
+virus,mutationer,indiska varianten
+virus,mutationer,indiska covid-varianten
+virus,coronavirus,spikprotein
+virus,coronavirus,coronapandemi
+virus,coronavirus,coronavirus
+virus,coronavirus,coronaviruspandemi
+virus,coronavirus,nytt coronavirus
+virus,coronavirus,sars
+virus,coronavirus,sars cov 2
+virus,coronavirus,sars-cov-2
+virus,coronavirus,sars-cov2
+virus,coronavirus,sarscov-2
+virus,coronavirus,sars-cov2
+virus,coronavirus,sarscov2
+virus,covid,covid
+virus,covid,covid 19
+virus,covid,covid-19
+virus,covid,covid19
+virus,covid,covid_19
+vaccin,antiviral,anti-viral
+vaccin,antiviral,anti-virala
+vaccin,antiviral,anti_viral
+vaccin,antiviral,anti_virala
+vaccin,antiviral,antiviral
+vaccin,antiviral,antivirala
+vaccin,azithromycin,azithromycin
+vaccin,hydroxiklorokin,hydroxiklorokin
+vaccin,hydroxiklorokin,hydroxychloroquine
+vaccin,hydroxiklorokin,klorokin
+vaccin,remdesivir,remdesivir
+vaccin,remdesivir,remdesvir
+vaccin,vaccin,vaccin
+vaccin,vaccin,vacciner
+vaccin,vaccin,vaccinera
+vaccin,vaccin,vaccinering
+vaccin,vaccin,vaccination
+vaccin,vaccin,vaccinbokning
+vaccin,biverkningar,biverkning
+vaccin,biverkningar,biverkningen
+vaccin,biverkningar,biverkningar
+vaccin,biverkningar,biverkningarna
+vaccin,biverkningar,hjärtåkommor
+vaccin,biverkningar,koagulationsrelaterade
+vaccin,biverkningar,skeptiska till vaccin
+vaccin,biverkningar,skeptisk till vaccinet
+vaccin,biverkningar,vaccinskeptiker
+vaccin,vaccinläkemedel/företag,oxford-astrazeneca
+vaccin,vaccinläkemedel/företag,astrazeneca
+vaccin,vaccinläkemedel/företag,astra zeneca
+vaccin,vaccinläkemedel/företag,astra
+vaccin,vaccinläkemedel/företag,astra-dos
+vaccin,vaccinläkemedel/företag,astra-doserna
+vaccin,vaccinläkemedel/företag,astra-dosernas
+vaccin,vaccinläkemedel/företag,zeneca
+vaccin,vaccinläkemedel/företag,zenecas
+vaccin,vaccinläkemedel/företag,vaxzevria
+vaccin,vaccinläkemedel/företag,zeneca-vaccin
+vaccin,vaccinläkemedel/företag,covid-19-vaccin
+vaccin,vaccinläkemedel/företag,coronavaccin
+vaccin,vaccinläkemedel/företag,covidvaccin
+vaccin,vaccinläkemedel/företag,vaccindoser
+vaccin,vaccinläkemedel/företag,mrna-vaccin
+vaccin,vaccinläkemedel/företag,zeneca-vaccinet
+vaccin,vaccinläkemedel/företag,pfizer
+vaccin,vaccinläkemedel/företag,biontech
+vaccin,vaccinläkemedel/företag,pfizer-biontech
+vaccin,vaccinläkemedel/företag,pfizer biontech
+vaccin,vaccinläkemedel/företag,pfizerbiontech
+vaccin,vaccinläkemedel/företag,comirnaty
+vaccin,vaccinläkemedel/företag,novavax
+vaccin,vaccinläkemedel/företag,moderna
+vaccin,vaccinläkemedel/företag,covid-19 vaccin
+vaccin,vaccinläkemedel/företag,covid-19-vaccin
+vaccin,vaccinläkemedel/företag,covid-19-vaccinet
+vaccin,vaccinläkemedel/företag,covid-19 vaccine
+vaccin,vaccinläkemedel/företag,sputnik
+vaccin,vaccinläkemedel/företag,sputnik
+vaccin,vaccinläkemedel/företag,johnson and johnson
+vaccin,vaccinläkemedel/företag,janssen
 medical_response,corona-app,app för corona
 medical_response,corona-app,corona-app
 medical_response,corona-app,corona-appen
 medical_response,corona-app,coronaapp
 medical_response,corona-app,coronaappen
+medical_response,testning,snabbtest
+medical_response,testning,snabbtester
+medical_response,testning,tester
+medical_response,testning,testar
+medical_response,testning,testade
+medical_response,testning,testning
+medical_response,testning,pcr-test
+medical_response,testning,pcr
 medical_response,drive in-testning,drive in-test
 medical_response,drive in-testning,drive in-teststation
 medical_response,drive in-testning,mobil teststation
@@ -76,40 +154,89 @@ medical_response,smittspårning,smittspårning
 medical_response,ventilator,ventilator
 medical_response,ventilator,ventilatorer
 medical_response,ventilator,ventilera
-prevention,ansiktsmask,ansiktsmask
-prevention,ansiktsmask,ansiktsmask
-prevention,ansiktsmask,ansiktsmaskar
-prevention,ansiktsmask,ansiktsmaskar
-prevention,ansiktsmask,ansiktsmasker
-prevention,ansiktsmask,ansiktsmasker
-prevention,ansiktsmask,ansiktsskydd
-prevention,ansiktsmask,mask
-prevention,ansiktsmask,skydd för munnen
-prevention,ansiktsmask,skyddsmask
-prevention,ansiktsmask,täcka ansiktet
-prevention,ansiktsmask,täcka munnen
+prevention,immunosuppressiv,immunosuppressiv
+prevention,immunosuppressiv,immunosuppressiva
+prevention,långtidsvård,långtidsjukvård
+prevention,långtidsvård,långtidssjukvård
+prevention,långtidsvård,långtidsvård
+prevention,långtidsvård,långtidsvårda
+prevention,långtidsvård,sjukvård länge
+prevention,långtidsvård,sjukvård lång tid
+prevention,långtidsvård,sjukvårdas länge
+prevention,långtidsvård,sjukvårdas lång tid
+prevention,långtidsvård,vård länge
+prevention,långtidsvård,vård lång tid
+prevention,långtidsvård,vårdas länge
+prevention,långtidsvård,vårdas lång tid
+prevention,långtidsvård,långtidscorona
+prevention,långtidsvård,långtidscovid
+prevention,långtidsvård,covid lång tid
+prevention,långtidsvård,långtidssjuk
+prevention,långtidsvård,långtidssjuka
+prevention,palliativ vård,dödshjälp
+prevention,palliativ vård,palliativ vård
+prevention,palliativ vård,vård i livets slutskede
+prevention,planerad sjukvård,elektiv kirurgi
+prevention,planerad sjukvård,elektiv sjukvård
+prevention,planerad sjukvård,elektiv vård
+prevention,planerad sjukvård,planerad sjukvård
+prevention,planerad sjukvård,planerad vård
+prevention,vårdhygien,handhygien
+prevention,vårdhygien,handskar
+prevention,vårdhygien,handsprit
+prevention,vårdhygien,handsprita
+prevention,vårdhygien,handtvätt
+prevention,vårdhygien,tvätta handen
+prevention,vårdhygien,tvätta händer
+prevention,vårdhygien,tvätta händerna
+prevention,vårdhygien,tvättat händerna
+prevention,vårdhygien,skyddsmaterial
+prevention,vårdhygien,skyddsmateriel
+prevention,vårdhygien,skyddskläder
+prevention,munskydd,ansiktsmask
+prevention,munskydd,ansiktsmask
+prevention,munskydd,ansiktsmaskar
+prevention,munskydd,ansiktsmaskar
+prevention,munskydd,ansiktsmasker
+prevention,munskydd,ansiktsmasker
+prevention,munskydd,ansiktsskydd
+prevention,munskydd,mask
+prevention,munskydd,skydd för munnen
+prevention,munskydd,skyddsmask
+prevention,munskydd,täcka ansiktet
+prevention,munskydd,täcka munnen
+prevention,munskydd,täcka för munnen
+prevention,munskydd,munskydd
+prevention,munskydd,munskydden
+prevention,munskydd,munskyddet
+prevention,munskydd,munsskydd
 prevention,arbeta hemifrån,arbeta från hemmet
 prevention,arbeta hemifrån,arbeta hemifrån
 prevention,arbeta hemifrån,arbeta hemma
 prevention,arbeta hemifrån,distansarbeta
 prevention,arbeta hemifrån,distansarbete
 prevention,arbeta hemifrån,distansarbetet
+prevention,arbeta hemifrån,distansjobb
+prevention,arbeta hemifrån,distansjobba
 prevention,arbeta hemifrån,hemarbeta
 prevention,arbeta hemifrån,hemarbete
+prevention,arbeta hemifrån,jobba hemifrån
+prevention,arbeta hemifrån,jobba hemma
+prevention,arbeta hemifrån,hemmakontor
+prevention,arbeta hemifrån,hemkontor
+prevention,arbeta hemifrån,hemjobb
+prevention,arbeta hemifrån,hemmajob
+prevention,stanna hemma,inte resa
+prevention,stanna hemma,stanna hemma
+prevention,stanna hemma,hålla dig hemma
+prevention,stanna hemma,hålla sig hemma
+prevention,stanna hemma,var hemma
+prevention,stanna hemma,vara hemma
+prevention,distansundervisning,distansundervisa
 prevention,distansundervisning,distansundervisning
 prevention,distansundervisning,fjärrundervisning
 prevention,distansundervisning,hemskolning
 prevention,distansundervisning,hemundervisning
-prevention,handhygien,handhygien
-prevention,handhygien,handskar
-prevention,handhygien,handsprit
-prevention,handhygien,handsprita
-prevention,handhygien,handtvätt
-prevention,handhygien,tvätta handen
-prevention,handhygien,tvätta händer
-prevention,handhygien,tvätta händerna
-prevention,immunosuppressiv,immunosuppressiv
-prevention,immunosuppressiv,immunosuppressiva
 prevention,inte resa,avråder från att resa
 prevention,inte resa,avråder resor
 prevention,inte resa,undvika att resa
@@ -129,6 +256,7 @@ prevention,isolering,isolera sig hemma
 prevention,isolering,isolera sig i hemmet
 prevention,isolering,isolerar
 prevention,isolering,isolering
+prevention,isolering,isolera
 prevention,isolering,social isolering
 prevention,karantän,karantän
 prevention,karantän,karantänen
@@ -144,27 +272,10 @@ prevention,lockdown,nerstängning
 prevention,lockdown,nerstängt
 prevention,lockdown,stänga ned
 prevention,lockdown,stänga ner
-prevention,långtidsvård,långtidsjukvård
-prevention,långtidsvård,långtidssjukvård
-prevention,långtidsvård,långtidsvård
-prevention,långtidsvård,långtidsvårda
-prevention,långtidsvård,sjukvård länge
-prevention,långtidsvård,sjukvård lång tid
-prevention,långtidsvård,sjukvårdas länge
-prevention,långtidsvård,sjukvårdas lång tid
-prevention,långtidsvård,vård länge
-prevention,långtidsvård,vård lång tid
-prevention,långtidsvård,vårdas länge
-prevention,långtidsvård,vårdas lång tid
-prevention,palliativ vård,dödshjälp
-prevention,palliativ vård,palliativ vård
-prevention,palliativ vård,vård i livets slutskede
-prevention,planerad sjukvård,elektiv kirurgi
-prevention,planerad sjukvård,elektiv sjukvård
-prevention,planerad sjukvård,elektiv vård
-prevention,planerad sjukvård,planerad sjukvård
-prevention,planerad sjukvård,planerad vård
+prevention,lockdown,stänga
 prevention,platta ut kurvan,kurva platt
+prevention,platta ut kurvan,kurvan platt
+prevention,platta ut kurvan,platt kurva
 prevention,platta ut kurvan,platta ned kurva
 prevention,platta ut kurvan,platta ned kurvan
 prevention,platta ut kurvan,platta till kurva
@@ -172,6 +283,7 @@ prevention,platta ut kurvan,platta till kurvan
 prevention,platta ut kurvan,platta ut kurva
 prevention,platta ut kurvan,platta ut kurvan
 prevention,platta ut kurvan,platta ut vår kurva
+prevention,platta ut kurvan,plattare kurva
 prevention,riskgrupper,70 plus
 prevention,riskgrupper,70 pluss
 prevention,riskgrupper,70 plussare
@@ -192,7 +304,10 @@ prevention,riskgrupper,sjuttiplus
 prevention,riskgrupper,sjuttipluss
 prevention,riskgrupper,sjuttiplussare
 prevention,riskgrupper,utsatta grupper
+prevention,riskgrupper,äldre
 prevention,riskgrupper,äldre äldre
+prevention,riskgrupper,äldreboende
+prevention,riskgrupper,äldreboenden
 prevention,sjukvård,sjukvård
 prevention,sjukvård,sjukvårda
 prevention,sjukvård,sjukvårdas
@@ -213,27 +328,110 @@ prevention,social distansering,social distans
 prevention,social distansering,social distansering
 prevention,social distansering,social distansiering
 prevention,social distansering,social närhet
-prevention,stanna hemma,inte resa
-prevention,stanna hemma,stanna hemma
-prevention,stanna hemma,hålla dig hemma
-prevention,stanna hemma,hålla sig hemma
-prevention,stanna hemma,var hemma
-prevention,stanna hemma,vara hemma
-prevention,äldreboenden,äldrebroende
 socio-political,ekonomisk kris,ekonomisk kris
 socio-political,ekonomisk kris,ekonomiska kriser
 socio-political,global hälsokris,global hälsokris
 socio-political,global hälsokris,hälsokris
 socio-political,medborgerliga rättigheter,frihet
+socio-political,medborgerliga rättigheter,friheter
+socio-political,medborgerliga rättigheter,rättigheter
+socio-political,medborgerliga rättigheter,rättighet
 socio-political,medborgerliga rättigheter,medborgerliga rättigheter
+socio-political,medborgerliga rättigheter,medborgerlig rättighet
+socio-political,samhällsansvar,ansvar
+socio-political,samhällsansvar,samhällsansvar
+socio-political,samhällsansvar,plikt
+socio-political,samhällsansvar,skyldighet
+socio-political,samhällsansvar,etik
+socio-political,samhällsansvar,etiken
+socio-political,samhällsansvar,moral
+socio-political,samhällsansvar,moralisk plikt
+socio-political,samhällsansvar,hålla ut
+socio-political,samhällsansvar,bevara lugnet
+socio-political,samhällsansvar,solidaritet
+socio-political,samhällsansvar,omtanke
+socio-political,samhällsansvar,nödvändigt
+socio-political,restriktioner,restriktioner
+socio-political,restriktioner,begränsa
+socio-political,restriktioner,begränsat
+socio-political,restriktioner,begränsade
+socio-political,restriktioner,begränsningar
+socio-political,protester,demonstration
+socio-political,protester,demonstrationer
+socio-political,protester,upplopp
+socio-political,protester,upploppen
+socio-political,protester,upplopp
+socio-political,protester,coronaupplopp
+socio-political,protester,coronaupploppen
+socio-political,protester,protester
+socio-political,protester,protestera
+socio-political,protester,protesterade
+socio-political,protester,protesterat
 socio-political,återvända till jobbet,börja jobba
 socio-political,återvända till jobbet,återvända till jobbet
+socio-political,svenska strategin,svensk strategi
+socio-political,svenska strategin,svenska strategin
+socio-political,svenska strategin,den svenska strategin
+socio-political,svenska strategin,sveriges väg
+socio-political,svenska strategin,svenska vägen
+socio-political,svenska strategin,fel strategi
+socio-political,svenska strategin,annan strategi
+socio-political,svenska strategin,byt strategi
+socio-political,svenska strategin,byta strategi
+socio-political,svenska strategin,misslyckand
+socio-political,svenska strategin,misslyckande
+socio-political,svenska strategin,systemkritikerna
+socio-political,vaccinpass,vaccinpass
+socio-political,vaccinpass,vaccinpasset
+orgnizations_persons,folkhälsomyndigheten,folkhälsomyndigheten
+orgnizations_persons,folkhälsomyndigheten,fhm
+orgnizations_persons,folkhälsomyndigheten,fohm
+orgnizations_persons,folkhälsomyndigheten,anders tegnell
+orgnizations_persons,folkhälsomyndigheten,tegnell
+orgnizations_persons,folkhälsomyndigheten,johan giesecke
+orgnizations_persons,folkhälsomyndigheten,giesecke
+orgnizations_persons,folkhälsomyndigheten,karin tegmark-wisell
+orgnizations_persons,folkhälsomyndigheten,karin tegmarkwisell
+orgnizations_persons,folkhälsomyndigheten,karin tegmark
+orgnizations_persons,folkhälsomyndigheten,karin wisell
+orgnizations_persons,folkhälsomyndigheten,wisell
+orgnizations_persons,folkhälsomyndigheten,tegmark-wisell
+orgnizations_persons,folkhälsomyndigheten,anders wallensten
+orgnizations_persons,folkhälsomyndigheten,wallensten
+orgnizations_persons,folkhälsomyndigheten,johan carlsson
+orgnizations_persons,folkhälsomyndigheten,carlsson
+orgnizations_persons,usa,anthony fauci
+orgnizations_persons,läkemedelsverket,läkemedelsverket
+orgnizations_persons,regeringen,lena hallengren
+orgnizations_persons,regeringen,stefan löfven
+orgnizations_persons,forskare,emma frans
+orgnizations_persons,forskare,tom britton
+orgnizations_persons,forskare,agnes wold
+orgnizations_persons,forskare,jonas ludvigsson
+orgnizations_persons,forskare,de 22
+orgnizations_persons,forskare,22 forskare
+orgnizations_persons,forskare,22 forskarna
+orgnizations_persons,forskare,de 22 forskarna
+orgnizations_persons,who,who
+orgnizations_persons,who,världshälsoorganisationen
+orgnizations_persons,who,världshälsorganisationen
+orgnizations_persons,who,världshälsoorganisation
+orgnizations_persons,who,världshälsaorganisation
+orgnizations_persons,who,världshälsaorganisationen
+orgnizations_persons,who,world health organization
+orgnizations_persons,who,world health organisation
+orgnizations_persons,who,worlds health organisation
+orgnizations_persons,who,world's health organisation
 spread_of_disease,endemisk,endemisk
 spread_of_disease,endemisk,endemiska
 spread_of_disease,endemisk,endemiskt
 spread_of_disease,epidemiologi,epidemiologi
 spread_of_disease,epidemiologi,hobbyepidemiolog
-spread_of_disease,global pandemi,global pandemi
+spread_of_disease,epidemiologi,prognos
+spread_of_disease,epidemiologi,modell
+spread_of_disease,pandemi,global pandemi
+spread_of_disease,pandemi,pandemi
+spread_of_disease,pandemi,epidemi
 spread_of_disease,patient noll,0-patient
 spread_of_disease,patient noll,noll-patient
 spread_of_disease,patient noll,nollpatient
@@ -243,17 +441,21 @@ spread_of_disease,patient noll,patient-0
 spread_of_disease,utbrott,pandemiutbrott
 spread_of_disease,utbrott,sjukdomsutbrott
 spread_of_disease,utbrott,utbrott
+spread_of_disease,döda,döda
+spread_of_disease,döda,dödsfall
+spread_of_disease,döda,dödsfallen
+spread_of_disease,döda,dödsfall
+spread_of_disease,smitta,smitta
+spread_of_disease,smitta,smittade
+spread_of_disease,smitta,smittor
+spread_of_disease,smitta,smittofall
+spread_of_disease,smitta,smittar
+spread_of_disease,smitta,smittorisk
+spread_of_disease,smitta,smittspridning
 transmission,antikroppar,antikropp
 transmission,antikroppar,antikroppar
 transmission,antikroppar,antikropps
 transmission,antikroppar,antikroppssvar
-transmission,asymtomatisk,asymtomatisk
-transmission,asymtomatisk,asymptomatisk
-transmission,smitta,smitta
-transmission,smitta,smittor
-transmission,smitta,smittar
-transmission,smitta,smittorisk
-transmission,smitta,smittspridning
 transmission,droppsmitta,droppsmitta
 transmission,droppsmitta,droppsmittan
 transmission,droppsmitta,droppsmittor
@@ -267,6 +469,7 @@ transmission,aerosolsmitta,smittar via luft
 transmission,aerosolsmitta,smitta via luft
 transmission,aerosolsmitta,smitta genom luft
 transmission,aerosolsmitta,smittar genom luft
+transmission,aerosolsmitta,luftspridning
 transmission,kontaktsmitta,kontaktsmitta
 transmission,kontaktsmitta,kontaktsmittas
 transmission,kontaktsmitta,kontaktsmittor
@@ -278,9 +481,18 @@ transmission,kontaktsmitta,smitta via kroppskontakt
 transmission,kontaktsmitta,smittar via kroppskontakt
 transmission,kontaktsmitta,smitta genom kroppskontakt
 transmission,kontaktsmitta,smittar genom kroppskontakt
-transmission,flockimmunitet,flockimmunitet
-transmission,flockimmunitet,flockimmuniteten
-transmission,flockimmunitet,immunitet
+transmission,immunitet,flockimmunitet
+transmission,immunitet,flockimmuniteten
+transmission,immunitet,immunitet
+transmission,immunitet,herd immunity
+transmission,immunitet,t-cell
+transmission,immunitet,t-celler
+transmission,immunitet,t-cellerna
+transmission,immunitet,t cell
+transmission,immunitet,t celler
+transmission,immunitet,t cellerna
+transmission,immunitet,tcellsimmunitet
+transmission,immunitet,t-cellsimmunitet
 transmission,inkubationstid,inbukation
 transmission,inkubationstid,inkubationen
 transmission,inkubationstid,inkubationsperiod
@@ -294,5 +506,59 @@ transmission,person till person-spridning,spridning mellan personer
 transmission,superspridare,superspridare
 transmission,superspridare,superspridare
 transmission,superspridare,superspridning
-transmission,symtomatisk,symtomatisk
-transmission,symtomatisk,symptomatisk
+transmission,klustersmitta,superspridning
+transmission,symptom,symtomatisk
+transmission,symptom,symptomatisk
+transmission,symptom,asymtomatisk
+transmission,symptom,asymptomatisk
+transmission,symptom,symptom
+transmission,symptom,symtom
+transmission,symptom,virussymptom
+transmission,symptom,virussymtom
+transmission,symptom,symtomerna
+transmission,symptom,symptomerna
+transmission,symptom,symtomliknande
+transmission,symptom,symptomliknande
+transmission,symptom,corona-symtomen
+transmission,symptom,corona-symptom
+transmission,symptom,corona-symptomen
+transmission,symptom,covid-symtom
+transmission,symptom,covid-symtomen
+kommunikation,desinformation,infodemi
+kommunikation,desinformation,infodemin
+kommunikation,desinformation,ryktesspridning
+kommunikation,desinformation,ryktesspridningen
+kommunikation,desinformation,desinformationspandemi
+kommunikation,desinformation,coronarykten
+kommunikation,desinformation,coronaryktena
+kommunikation,information,rekommendationer
+kommunikation,information,informationsspridningen
+kommunikation,rekommendationer,rekommendationer
+kommunikation,rekommendationer,rekommendationerna
+kommunikation,rekommendationer,rekommendationerna
+kommunikation,osäkerhetsmarkörer,troliga
+kommunikation,osäkerhetsmarkörer,troligen
+kommunikation,osäkerhetsmarkörer,troligtvis
+kommunikation,osäkerhetsmarkörer,sannolikt
+kommunikation,osäkerhetsmarkörer,kanske
+kommunikation,osäkerhetsmarkörer,möjligen
+kommunikation,osäkerhetsmarkörer,möjliga
+kommunikation,osäkerhetsmarkörer,möjligt
+kommunikation,osäkerhetsmarkörer,möjligtvis
+kommunikation,osäkerhetsmarkörer,osäker
+kommunikation,osäkerhetsmarkörer,osäkert
+kommunikation,osäkerhetsmarkörer,osäkra
+kommunikation,osäkerhetsmarkörer,obekräftad
+kommunikation,osäkerhetsmarkörer,obekräftade
+kommunikation,osäkerhetsmarkörer,kanhända
+kommunikation,osäkerhetsmarkörer,måhända
+kommunikation,osäkerhetsmarkörer,eventuell
+kommunikation,osäkerhetsmarkörer,eventuella
+kommunikation,osäkerhetsmarkörer,eventuellt
+kommunikation,osäkerhetsmarkörer,förmodligen
+kommunikation,osäkerhetsmarkörer,tro
+kommunikation,osäkerhetsmarkörer,tror
+kommunikation,osäkerhetsmarkörer,tycka
+kommunikation,osäkerhetsmarkörer,tycker
+kommunikation,osäkerhetsmarkörer,tyckande
+kommunikation,osäkerhetsmarkörer,tyckte
