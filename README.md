@@ -49,23 +49,13 @@ Wikipedia        | [Wikipedia-titlar](wikipedia/)        | 6130751 | Alla titlar
 
 I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska) och som får användas fritt.
 
-## Se även
+## Vill du använda datan? Gör en kopia och citera.
 
-- [Språkbankens resurser på Göteborgs universitet](https://spraakbanken.gu.se/swe/resurser)
-  - [Förtränade inbäddningar - En lista över förtränade inbäddningar för svenska](https://spraakbanken.gu.se/resurser/embeddings)
-- [Öppna data](https://oppnadata.se/)
-- [Statistiska centralbyrån](http://www.scb.se/)
-- [Bebyggelseregistret – BeBR](https://www.raa.se/hitta-information/bebyggelseregistret-bebr/)
-- [Lantmäteriet](https://www.lantmateriet.se/) ([öppna geodata](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/oppna-data/))
-- [Öppna data från SKL](https://skl.se/naringslivarbetedigitalisering/digitalisering/informationsforsorjningochdigitalinfrastruktur/oppnadata/sklsoppnadata.psidata.html)
-- [Valmyndigheten](https://www.val.se/)
-- [Rikstermbanken](http://www.rikstermbanken.se/)
-- [PAP API Lite - öppet REST API med Sveriges postnummer och postorter](https://papilite.se/)
-- [Dataportal](https://www.dataportal.se/) - sök och utforska öppna data i Sverige (från Myndigheten för digital förvaltning, DIGG)
-
-## Citera
+Gör helst en egen lokal kopia. Datummärk kopian. Både datan och strukturen kan nämligen ändras varefter som den utökas.
 
 Svensk text finns på [Svensk nationell datatjänst](https://snd.gu.se/sv/catalogue/study/ext0278) och kan citeras på följande sätt:
+
+APA6:
 
 > Dahlgren, P. M. (2018). Svensk text. *Svensk nationell datatjänst*. https://snd.gu.se/sv/catalogue/study/ext0278
 
@@ -85,3 +75,23 @@ BibTeX:
 	note = {https://github.com/peterdalle/svensktext}
 }
 ```
+
+## Publikationer som använder datan
+
+* Dahlgren, P. M. (2021). [*Medieinnehåll och mediekonsumtion under coronapandemin: Datoriserade metoder för insamling och analys av stora mängder text- och mediedata (arbetsrapport nr 88)*](https://www.gu.se/jmg/var-forskning/publikationer/jmgs-rapportserie). Göteborg: Institutionen för journalistik, medier och kommunikation (JMG), Göteborgs universitet.
+
+Säg gärna tillså lägger jag till din publikation här (eller gör det själv genom en [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
+
+## Se även
+
+- [Språkbankens resurser på Göteborgs universitet](https://spraakbanken.gu.se/swe/resurser)
+  - [Förtränade inbäddningar - En lista över förtränade inbäddningar för svenska](https://spraakbanken.gu.se/resurser/embeddings)
+- [Öppna data](https://oppnadata.se/)
+- [Statistiska centralbyrån](http://www.scb.se/)
+- [Bebyggelseregistret – BeBR](https://www.raa.se/hitta-information/bebyggelseregistret-bebr/)
+- [Lantmäteriet](https://www.lantmateriet.se/) ([öppna geodata](https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/oppna-data/))
+- [Öppna data från SKL](https://skl.se/naringslivarbetedigitalisering/digitalisering/informationsforsorjningochdigitalinfrastruktur/oppnadata/sklsoppnadata.psidata.html)
+- [Valmyndigheten](https://www.val.se/)
+- [Rikstermbanken](http://www.rikstermbanken.se/)
+- [PAP API Lite - öppet REST API med Sveriges postnummer och postorter](https://papilite.se/)
+- [Dataportal](https://www.dataportal.se/) - sök och utforska öppna data i Sverige (från Myndigheten för digital förvaltning, DIGG)
