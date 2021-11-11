@@ -36,7 +36,7 @@ Ord              | [Politiska stoppord](stoppord/)       | 285     | Svenska pol
 Ord              | [Sentimentlexikon](sentiment/)        | 2067    | Positiva och negativa svenska ord
 Ord              | [Emotioner](emotioner/)               | 8519    | Känsloladdade ord och deras intensitet, uppdelade på 8 känslor
 Ord              | [Moral](moral/)                       | 2104    | Moraliska ord enligt Moral Foundations Theory, uppdelade på 5 fundament
-Ord              | [Corona/smitta](lexikon/)             | 297     | Lexikon för ord relaterade till corona/smitta i nyhetsmedier
+Ord              | [Corona/smitta](lexikon/)             | 594     | Lexikon för ord relaterade till corona/smitta i nyhetsmedier
 Jobb             | [Yrken](yrken/)                       | 13833   | Svenska yrkesbeteckningar inklusive om det är en manlig eller kvinnlig beteckning
 Organisationer   | [Medier](organisationer/)             | 158     | Domäner till svenska massmedier och nyhetsmedier
 Organisationer   | [Myndigheter](organisationer/)        | 354     | Namn på svenska myndigheter
@@ -78,7 +78,8 @@ BibTeX:
 
 ## Publikationer som använder datan
 
-* Dahlgren, P. M. (2021). [*Medieinnehåll och mediekonsumtion under coronapandemin: Datoriserade metoder för insamling och analys av stora mängder text- och mediedata (arbetsrapport nr 88)*](https://www.gu.se/jmg/var-forskning/publikationer/jmgs-rapportserie). Göteborg: Institutionen för journalistik, medier och kommunikation (JMG), Göteborgs universitet.
+- Dahlgren, P. M. (2021). Svenskar eller utrikesfödda i medierna? – att identifiera födelseland från namn. I: L. Truedson & J. Lundqvist (Red.), [*Vitt eller brett? - vilka får ta plats i medier och på redaktioner?*](https://mediestudier.se/publikationer/vitt-eller-brett/) (s. 79–91). Stockholm: Institutet för mediestudier.
+- Dahlgren, P. M. (2021). [*Medieinnehåll och mediekonsumtion under coronapandemin: Datoriserade metoder för insamling och analys av stora mängder text- och mediedata (arbetsrapport nr 88)*](https://www.gu.se/jmg/var-forskning/publikationer/jmgs-rapportserie). Göteborg: Institutionen för journalistik, medier och kommunikation (JMG), Göteborgs universitet.
 
 Säg gärna tillså lägger jag till din publikation här (eller gör det själv genom en [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
 
