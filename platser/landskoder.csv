@@ -1,20 +1,20 @@
 code2,code3,number,country
 AD,AND,20,Andorra
-AE,ARE,784,Förenade Arabemiraten
+AE,ARE,784,FÃ¶renade Arabemiraten
 AF,AFG,4,Afghanistan
 AG,ATG,28,Antigua och Barbuda
 AI,AIA,660,Anguilla
 AL,ALB,8,Albanien
 AM,ARM,51,Armenien
-AN,ANT,530,Nederländska Antillerna
+AN,ANT,530,NederlÃ¤ndska Antillerna
 AO,AGO,24,Angola
 AQ,ATA,10,Antarktis
 AR,ARG,32,Argentina
 AS,ASM,16,Amerikanska Samoa
-AT,AUT,40,Österrike
+AT,AUT,40,Ã–sterrike
 AU,AUS,36,Australien
 AW,ABW,533,Aruba
-AX,ALA,248,Åland
+AX,ALA,248,Ã…land
 AZ,AZE,31,Azerbajdzjan
 BA,BIH,70,Bosnien och Hercegovina
 BB,BRB,52,Barbados
@@ -25,26 +25,26 @@ BG,BGR,100,Bulgarien
 BH,BHR,48,Bahrain
 BI,BDI,108,Burundi
 BJ,BEN,204,Benin
-BL,BLM,652,Saint-Barthélemy
+BL,BLM,652,Saint-BarthÃ©lemy
 BM,BMU,60,Bermuda
 BN,BRN,96,Brunei
 BO,BOL,68,Bolivia
-BQ,BES,535,Karibiska Nederländerna
+BQ,BES,535,Karibiska NederlÃ¤nderna
 BR,BRA,76,Brasilien
 BS,BHS,44,Bahamas
 BT,BTN,64,Bhutan
-BV,BVT,74,Bouvetön
+BV,BVT,74,BouvetÃ¶n
 BW,BWA,72,Botswana
 BY,BLR,112,Vitryssland
 BZ,BLZ,84,Belize
 CA,CAN,124,Kanada
-CC,CCK,166,Kokosöarna
+CC,CCK,166,KokosÃ¶arna
 CD,COD,180,Demokratiska republiken Kongo
 CF,CAF,140,Centralafrikanska republiken
 CG,COG,178,Kongo-Brazzaville
 CH,CHE,756,Schweiz
 CI,CIV,384,Elfenbenskusten
-CK,COK,184,Cooköarna
+CK,COK,184,CookÃ¶arna
 CL,CHL,152,Chile
 CM,CMR,120,Kamerun
 CN,CHN,156,Kina
@@ -52,8 +52,8 @@ CO,COL,170,Colombia
 CR,CRI,188,Costa Rica
 CU,CUB,192,Kuba
 CV,CPV,132,Kap Verde
-CW,CUW,531,Curaçao
-CX,CXR,162,Julön
+CW,CUW,531,CuraÃ§ao
+CX,CXR,162,JulÃ¶n
 CY,CYP,196,Cypern
 CZ,CZE,203,Tjeckien
 DE,DEU,276,Tyskland
@@ -65,17 +65,17 @@ DZ,DZA,12,Algeriet
 EC,ECU,218,Ecuador
 EE,EST,233,Estland
 EG,EGY,818,Egypten
-EH,ESH,732,Västsahara
+EH,ESH,732,VÃ¤stsahara
 ER,ERI,232,Eritrea
 ES,ESP,724,Spanien
 ET,ETH,231,Etiopien
 FI,FIN,246,Finland
 FJ,FJI,242,Fiji
-FK,FLK,238,Falklandsöarna
+FK,FLK,238,FalklandsÃ¶arna
 FM,FSM,583,Mikronesiska federationen
-FO,FRO,234,Färöarna
+FO,FRO,234,FÃ¤rÃ¶arna
 FR,FRA,250,Frankrike
-FX,FXX,249,France métropolitaine (Frankrike; europeiska delen)
+FX,FXX,249,France mÃ©tropolitaineÂ (Frankrike; europeiska delen)
 GA,GAB,266,Gabon
 GB,GBR,826,Storbritannien
 GD,GRD,308,Grenada
@@ -84,7 +84,7 @@ GF,GUF,254,Franska Guyana
 GG,GGY,831,Guernsey
 GH,GHA,288,Ghana
 GI,GIB,292,Gibraltar
-GL,GRL,304,Grönland
+GL,GRL,304,GrÃ¶nland
 GM,GMB,270,Gambia
 GN,GIN,324,Guinea
 GP,GLP,312,Guadeloupe
@@ -95,7 +95,7 @@ GU,GUM,316,Guam
 GW,GNB,624,Guinea Bissau
 GY,GUY,328,Guyana
 HK,HKG,344,Hongkong
-HM,HMD,334,Heard- och McDonaldöarna
+HM,HMD,334,Heard- och McDonaldÃ¶arna
 HN,HND,340,Honduras
 HR,HRV,191,Kroatien
 HT,HTI,332,Haiti
@@ -123,7 +123,7 @@ KN,KNA,659,Saint Kitts och Nevis
 KP,PRK,408,Nordkorea
 KR,KOR,410,Sydkorea
 KW,KWT,414,Kuwait
-KY,KYM,136,Caymanöarna
+KY,KYM,136,CaymanÃ¶arna
 KZ,KAZ,398,Kazakstan
 LA,LAO,418,Laos
 LB,LBN,422,Libanon
@@ -141,7 +141,7 @@ MC,MCO,492,Monaco
 MD,MDA,498,Moldavien
 ME,MNE,499,Montenegro
 MG,MDG,450,Madagaskar
-MH,MHL,584,Marshallöarna
+MH,MHL,584,MarshallÃ¶arna
 MK,MKD,807,Makedonien
 ML,MLI,466,Mali
 MM,MMR,104,Burma
@@ -157,14 +157,14 @@ MV,MDV,462,Maldiverna
 MW,MWI,454,Malawi
 MX,MEX,484,Mexiko
 MY,MYS,458,Malaysia
-MZ,MOZ,508,Moçambique
+MZ,MOZ,508,MoÃ§ambique
 NA,NAM,516,Namibia
 NC,NCL,540,Nya Kaledonien
 NE,NER,562,Niger
-NF,NFK,574,Norfolkön
+NF,NFK,574,NorfolkÃ¶n
 NG,NGA,566,Nigeria
 NI,NIC,558,Nicaragua
-NL,NLD,528,Nederländerna
+NL,NLD,528,NederlÃ¤nderna
 NO,NOR,578,Norge
 NP,NPL,524,Nepal
 NR,NRU,520,Nauru
@@ -179,49 +179,49 @@ PH,PHL,608,Filippinerna
 PK,PAK,586,Pakistan
 PL,POL,616,Polen
 PM,SPM,666,Saint-Pierre och Miquelon
-PN,PCN,612,Pitcairnöarna
+PN,PCN,612,PitcairnÃ¶arna
 PR,PRI,630,Puerto Rico
 PS,PSE,275,Palestina
 PT,PRT,620,Portugal
 PW,PLW,585,Palau
 PY,PRY,600,Paraguay
 QA,QAT,634,Qatar
-RE,REU,638,Réunion
-RO,ROU,642,Rumänien
+RE,REU,638,RÃ©union
+RO,ROU,642,RumÃ¤nien
 RS,SRB,688,Serbien
 RU,RUS,643,Ryssland
 RW,RWA,646,Rwanda
 SA,SAU,682,Saudiarabien
-SB,SLB,90,Salomonöarna
+SB,SLB,90,SalomonÃ¶arna
 SC,SYC,690,Seychellerna
 SD,SDN,736,Sudan
 SE,SWE,752,Sverige
 SG,SGP,702,Singapore
 SH,SHN,654,Sankta Helena
 SI,SVN,705,Slovenien
-SJ,SJM,744,Svalbard och Jan Mayen
+SJ,SJM,744,SvalbardÂ ochÂ Jan Mayen
 SK,SVK,703,Slovakien
 SL,SLE,694,Sierra Leone
 SM,SMR,674,San Marino
 SN,SEN,686,Senegal
 SO,SOM,706,Somalia
 SR,SUR,740,Surinam
-ST,STP,678,São Tomé och Príncipe
+ST,STP,678,SÃ£o TomÃ© och PrÃ­ncipe
 SV,SLV,222,El Salvador
 SY,SYR,760,Syrien
 SZ,SWZ,748,Swaziland
-TC,TCA,796,Turks- och Caicosöarna
+TC,TCA,796,Turks- och CaicosÃ¶arna
 TD,TCD,148,Tchad
-TF,ATF,260,Franska södra territorierna
+TF,ATF,260,Franska sÃ¶dra territorierna
 TG,TGO,768,Togo
 TH,THA,764,Thailand
 TJ,TJK,762,Tadzjikistan
-TK,TKL,772,Tokelauöarna
-TL,TLS,626,Östtimor a.k.a. Timor-Leste
+TK,TKL,772,TokelauÃ¶arna
+TL,TLS,626,Ã–sttimorÂ a.k.a.Â Timor-Leste
 TM,TKM,795,Turkmenistan
 TN,TUN,788,Tunisien
 TO,TON,776,Tonga
-TP,TMP,626,Östtimor
+TP,TMP,626,Ã–sttimor
 TR,TUR,792,Turkiet
 TT,TTO,780,Trinidad och Tobago
 TV,TUV,798,Tuvalu
@@ -229,18 +229,18 @@ TW,TWN,158,Taiwan
 TZ,TZA,834,Tanzania
 UA,UKR,804,Ukraina
 UG,UGA,800,Uganda
-UM,UMI,581,USA:s yttre öar
+UM,UMI,581,USA:s yttre Ã¶ar
 US,USA,840,USA
 UY,URY,858,Uruguay
 UZ,UZB,860,Uzbekistan
 VA,VAT,336,Vatikanstaten
 VC,VCT,670,Saint Vincent och Grenadinerna
 VE,VEN,862,Venezuela
-VG,VGB,92,Brittiska Jungfruöarna
-VI,VIR,850,Amerikanska Jungfruöarna
+VG,VGB,92,Brittiska JungfruÃ¶arna
+VI,VIR,850,Amerikanska JungfruÃ¶arna
 VN,VNM,704,Vietnam
 VU,VUT,548,Vanuatu
-WF,WLF,876,Wallis- och Futunaöarna
+WF,WLF,876,Wallis- och FutunaÃ¶arna
 WS,WSM,882,Samoa
 YE,YEM,887,Jemen
 YT,MYT,175,Mayotte
