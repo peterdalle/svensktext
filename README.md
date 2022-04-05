@@ -45,13 +45,19 @@ Wikipedia        | [Wikipedia-titlar](wikipedia/)        | 6130751 | Alla titlar
 
 ## Vill du hjälpa till?
 
-[Läs hur du  kan bidra](CONTRIBUTE.md) till Svensk text.
+Du kan bidra med:
 
-I korthet: bidra med komma-separerade CSV-filer (som har en header på engelska) och som får användas fritt.
+- CSV-filer som har
+- variabelnamn med gemener på engelska
+- som får användas fritt
 
-## Vill du använda datan? Gör en kopia och citera.
+[Läs mer om hur du kan bidra](CONTRIBUTE.md).
 
-Gör helst en egen lokal kopia. Datummärk kopian. Både datan och strukturen kan nämligen ändras varefter som den utökas.
+## Vill du använda datan? Gör en kopia.
+
+Gör helst en egen lokal kopia. Både datan och strukturen kan nämligen ändras varefter som den utökas.
+
+## Citera
 
 Svensk text finns på [Svensk nationell datatjänst](https://snd.gu.se/sv/catalogue/study/ext0278) och kan citeras på följande sätt:
 
@@ -81,7 +87,7 @@ BibTeX:
 - Dahlgren, P. M. (2021). Svenskar eller utrikesfödda i medierna? – att identifiera födelseland från namn. I: L. Truedson & J. Lundqvist (Red.), [*Vitt eller brett? - vilka får ta plats i medier och på redaktioner?*](https://mediestudier.se/publikationer/vitt-eller-brett/) (s. 79–91). Stockholm: Institutet för mediestudier.
 - Dahlgren, P. M. (2021). [*Medieinnehåll och mediekonsumtion under coronapandemin: Datoriserade metoder för insamling och analys av stora mängder text- och mediedata (arbetsrapport nr 88)*](https://www.gu.se/jmg/var-forskning/publikationer/jmgs-rapportserie). Göteborg: Institutionen för journalistik, medier och kommunikation (JMG), Göteborgs universitet.
 
-Säg gärna tillså lägger jag till din publikation här (eller gör det själv genom en [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
+Säg gärna till så lägger jag till din publikation här (eller gör det själv genom en [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
 
 ## Se även
 
