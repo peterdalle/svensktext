@@ -1,6 +1,6 @@
 # Svensk text
 
-**Svensk text** är en samling med data för språkresurser på svenska speciellt anpassat för att snabbt kunna läsas in av vanliga programspråk. Här finns också [programbibliotek för C#, Python och R](src/).
+**Svensk text** är en samling med data för språkresurser på svenska speciellt anpassat för att snabbt kunna läsas in av vanliga programspråk.
 
 Syftet är att samla svenska resurser som:
 
@@ -9,7 +9,10 @@ Syftet är att samla svenska resurser som:
 - har en enkel datastruktur
 - kan enkelt maskinläsas
 - består av små filer utan onödigt krimskrams
-- har exempelkod i C#, Python och R
+
+Svensk text är enklast att använda genom ett programbibliotek:
+
+- [svensktext för R](https://github.com/peterdalle/svensktext-rpackage)
 
 ## Alla resurser
 
@@ -47,9 +50,10 @@ Wikipedia        | [Wikipedia-titlar](wikipedia/)        | 6130751 | Alla titlar
 
 Du kan bidra med:
 
-- CSV-filer som har
-- variabelnamn med gemener på engelska
-- som får användas fritt
+- CSV-filer
+- [R-paket](https://github.com/peterdalle/svensktext-rpackage)
+- Python-paket
+- C#-paket
 
 [Läs mer om hur du kan bidra](CONTRIBUTE.md).
 
