@@ -9,10 +9,7 @@ Syftet är att samla svenska resurser som:
 - har en enkel datastruktur
 - kan enkelt maskinläsas
 - består av små filer utan onödigt krimskrams
-
-Svensk text är enklast att använda genom ett programbibliotek:
-
-- [svensktext för R](https://github.com/peterdalle/svensktext-rpackage)
+- kan läsas in i [bibliotek för R](https://github.com/peterdalle/svensktext-rpackage), Python och C#
 
 ## Alla resurser
 
@@ -46,16 +43,15 @@ Organisationer   | [Myndigheter](organisationer/)        | 354     | Namn på sv
 Organisationer   | [EU-institutioner](organisationer/)   | 17      | Namn på EU:s institutioner och organ
 Wikipedia        | [Wikipedia-titlar](wikipedia/)        | 6130751 | Alla titlar på svenska Wikipedia-sidor
 
+## Programbibliotek
+
+- [svensktext för R](https://github.com/peterdalle/svensktext-rpackage)
+- svensktext för Python ([läs mer](src/))
+- svensktext för C# ([läs mer](src/))
+
 ## Vill du hjälpa till?
 
-Du kan bidra med:
-
-- CSV-filer
-- [R-paket](https://github.com/peterdalle/svensktext-rpackage)
-- Python-paket
-- C#-paket
-
-[Läs mer om hur du kan bidra](CONTRIBUTE.md).
+Läs mer om hur du kan [bidra med CSV-filer](CONTRIBUTE.md) med öppen data.
 
 ## Vill du använda datan? Gör en kopia.
 
