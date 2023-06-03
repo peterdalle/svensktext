@@ -84,8 +84,10 @@ BibTeX:
 
 ## Publikationer som använder datan
 
+- Rivera Ahlin, K. (2023). [*Fixation and Machine Learning: A new method for measuring fixation in internet users using machine learning and natural language processing*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1751467&dswid=9795). Uppsala: Institutionen för informationsteknologi, Uppsala universitet.
 - Dahlgren, P. M. (2021). Svenskar eller utrikesfödda i medierna? – att identifiera födelseland från namn. I: L. Truedson & J. Lundqvist (Red.), [*Vitt eller brett? - vilka får ta plats i medier och på redaktioner?*](https://mediestudier.se/publikationer/vitt-eller-brett/) (s. 79–91). Stockholm: Institutet för mediestudier.
 - Dahlgren, P. M. (2021). [*Medieinnehåll och mediekonsumtion under coronapandemin: Datoriserade metoder för insamling och analys av stora mängder text- och mediedata (arbetsrapport nr 88)*](https://www.gu.se/jmg/var-forskning/publikationer/jmgs-rapportserie). Göteborg: Institutionen för journalistik, medier och kommunikation (JMG), Göteborgs universitet.
+- Chen Trieu, K. & Nguyen, L. (2020). [*Classifying Short Clinical Notes: An Unsupervised Approach*](https://odr.chalmers.se/items/de8a8de5-b494-43da-8cb7-fe12d2a4f117). Göteborg: Institutionen för data och informationsteknik, Chalmers tekniska högskola.
 
 Säg gärna till så lägger jag till din publikation här (eller gör det själv genom en [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)).
 
